@@ -1,0 +1,262 @@
+{
+  "dealership": "Acura Of Langley",
+  "generated_at": "2026-09-24T15:59:22",
+  "vehicle_count": 24,
+  "currency": "CAD",
+  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "vehicles": [
+    {
+      "name": "MDX Platinum Elite A-Spec SH-AWD2025 Acura",
+      "vin": "5J8YE1H9XSL801759",
+      "stock": "A113012",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/6a58cbad4a05.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39229000",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39229000?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:51:44",
+      "odometer_km": 41376,
+      "condition": "used"
+    },
+    {
+      "name": "RDX Platinum Elite A-Spec AWD2025 Acura",
+      "vin": "5J8TC2H86SL803473",
+      "stock": "A113012",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/f6affbc5bc27.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/rdx/2025-acura-rdx-id39237495",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/rdx/2025-acura-rdx-id39237495?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:51:55",
+      "odometer_km": 9286,
+      "condition": "used"
+    },
+    {
+      "name": "TLX SH-AWD Platinum Elite2021 Acura",
+      "vin": "19UUB6F9XMA800486",
+      "stock": "A116008",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/dee7383b01d6.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/tlx/2021-acura-tlx-id39026373",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/tlx/2021-acura-tlx-id39026373?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:52:03",
+      "odometer_km": 91920,
+      "condition": "used"
+    },
+    {
+      "name": "Q6 e-tron Progressiv quattro2025 Audi",
+      "vin": "WA154BGF1SA007658",
+      "stock": "A12C016",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/0791d40cd248.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/q6-e-tron/2025-audi-q6-e-tron-id39163997",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/q6-e-tron/2025-audi-q6-e-tron-id39163997?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:52:12",
+      "odometer_km": 54299,
+      "condition": "used"
+    },
+    {
+      "name": "Silverado 1500 Crew Cab Short Box 4-Wheel Drive ZR22025 Chevrolet",
+      "vin": "3GCUKHE85SG192605",
+      "stock": "A12A015",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b80d2b31d1fc.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id38691520",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id38691520?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:52:22",
+      "odometer_km": 55240,
+      "condition": "used"
+    },
+    {
+      "name": "Silverado 1500 Crew Cab Standard Box 4-Wheel Drive LT2025 Chevrolet",
+      "vin": "1GCPKDEK8SZ214033",
+      "stock": "A12A015",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/28ccd9ee9829.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id38860902",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id38860902?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:52:31",
+      "odometer_km": 18533,
+      "condition": "used"
+    },
+    {
+      "name": "F-150 Tremor 4WD SuperCrew 5.5' Box2025 Ford",
+      "vin": "1FTFW4L81SFA48530",
+      "stock": "A12E000",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/7bb65c711c1a.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f-150/2025-ford-f-150-id38853454",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f-150/2025-ford-f-150-id38853454?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:52:42",
+      "odometer_km": 26965,
+      "condition": "used"
+    },
+    {
+      "name": "F-150 Tremor 4WD SuperCrew 5.5' Box2026 Ford",
+      "vin": "1FTFW4L83TFA35960",
+      "stock": "A12A016",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/70177d859199.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f-150/2026-ford-f-150-id38967622",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f-150/2026-ford-f-150-id38967622?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:52:51",
+      "odometer_km": 27447,
+      "condition": "used"
+    },
+    {
+      "name": "F-150 LARIAT 4WD SuperCrew 6.5' Box2026 Ford",
+      "vin": "1FTFW5L87TKD28385",
+      "stock": "A12A016",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b81704992670.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f-150/2026-ford-f-150-id38967623",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f-150/2026-ford-f-150-id38967623?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:52:59",
+      "odometer_km": 21483,
+      "condition": "used"
+    },
+    {
+      "name": "Super Duty F-350 DRW XLT 4WD Crew Cab 179 WB 60 CA2026 Ford",
+      "vin": "1FT8W3DT3TEC08954",
+      "stock": "A12A016",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/388f50504bfe.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/super-duty-f-350-drw/2026-ford-super-duty-f-350-drw-id38967621",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/super-duty-f-350-drw/2026-ford-super-duty-f-350-drw-id38967621?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:53:09",
+      "odometer_km": 31179,
+      "condition": "used"
+    },
+    {
+      "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive Denali Ultimate2026 GMC",
+      "vin": "1GTUUHE8XTZ101002",
+      "stock": "A12C015",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/228b20d2c2ec.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-1500/2026-gmc-sierra-1500-id38937722",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-1500/2026-gmc-sierra-1500-id38937722?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:53:18",
+      "odometer_km": 16022,
+      "condition": "used"
+    },
+    {
+      "name": "Land Cruiser Hybrid Premium Pkg2025 Toyota",
+      "vin": "JTEABFAJ4SK030520",
+      "stock": "A12C015",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/f05b6b204eb7.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/land-cruiser/2025-toyota-land-cruiser-id38937719",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/land-cruiser/2025-toyota-land-cruiser-id38937719?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:53:25",
+      "odometer_km": 33284,
+      "condition": "used"
+    },
+    {
+      "name": "Integra A-Spec CVT2026 Acura",
+      "vin": "19UDE4H37TA800657",
+      "stock": "A260137",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/9e48880dca4b.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734811?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734811?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:56:19",
+      "condition": "new"
+    },
+    {
+      "name": "Integra A-Spec CVT2026 Acura",
+      "vin": "19UDE4H32TA800646",
+      "stock": "A260135",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/54b1f2a82877.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734812?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734812?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:56:35",
+      "condition": "new"
+    },
+    {
+      "name": "Integra Elite A-Spec CVT2026 Acura",
+      "vin": "19UDE4H60TA800588",
+      "stock": "A260126",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/647b22a55997.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734814?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734814?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:56:50",
+      "condition": "new"
+    },
+    {
+      "name": "Integra A-Spec CVT2026 Acura",
+      "vin": "19UDE4H36TA800648",
+      "stock": "A260136",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/06cbbf59a1ac.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734815?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734815?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:57:06",
+      "condition": "new"
+    },
+    {
+      "name": "Integra Elite A-Spec CVT2026 Acura",
+      "vin": "19UDE4H68TA800726",
+      "stock": "A260154",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/75d33bf87cab.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id39056604?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id39056604?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:57:21",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Type S Ultra2026 Acura",
+      "vin": "5J8YD8H86TL800032",
+      "stock": "A260003",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/1c480fa4a60c.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id36961892?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id36961892?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:57:36",
+      "odometer_km": 4546,
+      "condition": "new"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H05TL801932",
+      "stock": "A260034",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/1843ce41c468.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id37641496?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id37641496?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:57:51",
+      "condition": "new"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H06TL803558",
+      "stock": "A260108",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/a755fc559af0.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38605556?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38605556?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:58:06",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Type S Ultra2026 Acura",
+      "vin": "5J8YD8H85TL800295",
+      "stock": "A260148",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/0bab5946755c.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38853351?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38853351?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:58:22",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H98TL804192",
+      "stock": "A260161",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/69e9548b164f.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38887384?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38887384?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:58:38",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H94TL804366",
+      "stock": "A260166",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/526eab9705c8.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38953596?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38953596?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:58:54",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H98TL804516",
+      "stock": "A260164",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/10385868d995.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38953597?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38953597?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T15:59:10",
+      "condition": "new"
+    }
+  ]
+}
