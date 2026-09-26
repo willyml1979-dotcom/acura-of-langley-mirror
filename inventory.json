@@ -1,6 +1,6 @@
 {
   "dealership": "Acura Of Langley",
-  "generated_at": "2026-09-25T16:05:41",
+  "generated_at": "2026-09-25T17:12:56",
   "vehicle_count": 24,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -12,7 +12,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/6a58cbad4a05.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39229000",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39229000?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T11:08:24",
+      "last_verified": "2026-09-25T17:12:22",
       "odometer_km": 41376,
       "condition": "used"
     },
@@ -23,7 +23,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/f6affbc5bc27.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/rdx/2025-acura-rdx-id39237495",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/rdx/2025-acura-rdx-id39237495?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T11:08:32",
+      "last_verified": "2026-09-25T17:12:31",
       "odometer_km": 9286,
       "condition": "used"
     },
@@ -34,7 +34,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/dee7383b01d6.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/tlx/2021-acura-tlx-id39026373",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/tlx/2021-acura-tlx-id39026373?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T22:16:29",
+      "last_verified": "2026-09-25T17:12:39",
       "odometer_km": 91920,
       "condition": "used"
     },
@@ -45,7 +45,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/0791d40cd248.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/q6-e-tron/2025-audi-q6-e-tron-id39163997",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/q6-e-tron/2025-audi-q6-e-tron-id39163997?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T11:08:51",
+      "last_verified": "2026-09-25T17:12:51",
       "odometer_km": 54299,
       "condition": "used"
     },
@@ -61,24 +61,13 @@
       "condition": "used"
     },
     {
-      "name": "Silverado 1500 Crew Cab Standard Box 4-Wheel Drive LT2025 Chevrolet",
-      "vin": "1GCPKDEK8SZ214033",
-      "stock": "A12A015",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/28ccd9ee9829.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id38860902",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id38860902?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T11:09:10",
-      "odometer_km": 18533,
-      "condition": "used"
-    },
-    {
       "name": "F-150 Tremor 4WD SuperCrew 5.5' Box2025 Ford",
       "vin": "1FTFW4L81SFA48530",
       "stock": "A12E000",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/7bb65c711c1a.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f-150/2025-ford-f-150-id38853454",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f-150/2025-ford-f-150-id38853454?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T22:17:10",
+      "last_verified": "2026-09-25T17:10:31",
       "odometer_km": 26965,
       "condition": "used"
     },
@@ -100,7 +89,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b81704992670.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f-150/2026-ford-f-150-id38967623",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f-150/2026-ford-f-150-id38967623?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T11:07:00",
+      "last_verified": "2026-09-25T17:10:53",
       "odometer_km": 21483,
       "condition": "used"
     },
@@ -133,8 +122,19 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/f05b6b204eb7.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/land-cruiser/2025-toyota-land-cruiser-id38937719",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/land-cruiser/2025-toyota-land-cruiser-id38937719?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T11:07:29",
+      "last_verified": "2026-09-25T17:11:22",
       "odometer_km": 33284,
+      "condition": "used"
+    },
+    {
+      "name": "Sienna Hybrid Sienna XSE AWD 7-Pass2026 Toyota",
+      "vin": "5TDGSKFC8TS231607",
+      "stock": "A12C016",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/820dc0c7bee5.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/sienna-hybrid/2026-toyota-sienna-hybrid-id39246535",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/sienna-hybrid/2026-toyota-sienna-hybrid-id39246535?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T17:10:20",
+      "odometer_km": 6613,
       "condition": "used"
     },
     {
