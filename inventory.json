@@ -1,6 +1,6 @@
 {
   "dealership": "Acura Of Langley",
-  "generated_at": "2026-10-03T04:16:45",
+  "generated_at": "2026-10-03T10:19:52",
   "vehicle_count": 24,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -23,7 +23,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/3134ed14903e.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39264299",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39264299?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T22:10:56",
+      "last_verified": "2026-10-03T10:18:22",
       "odometer_km": 50877,
       "condition": "used"
     },
@@ -45,7 +45,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/dee7383b01d6.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/tlx/2021-acura-tlx-id39026373",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/tlx/2021-acura-tlx-id39026373?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T04:15:21",
+      "last_verified": "2026-10-03T10:18:51",
       "odometer_km": 91920,
       "condition": "used"
     },
@@ -78,7 +78,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/70177d859199.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f-150/2026-ford-f-150-id38967622",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f-150/2026-ford-f-150-id38967622?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T22:12:17",
+      "last_verified": "2026-10-03T10:19:37",
       "odometer_km": 27447,
       "condition": "used"
     },
@@ -133,7 +133,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/820dc0c7bee5.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/sienna-hybrid/2026-toyota-sienna-hybrid-id39246535",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/sienna-hybrid/2026-toyota-sienna-hybrid-id39246535?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T04:16:00",
+      "last_verified": "2026-10-03T10:19:27",
       "odometer_km": 6613,
       "condition": "used"
     },
