@@ -1,7 +1,7 @@
 {
   "dealership": "Acura Of Langley",
-  "generated_at": "2026-10-04T11:09:43",
-  "vehicle_count": 24,
+  "generated_at": "2026-10-04T19:48:48",
+  "vehicle_count": 141,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -138,13 +138,815 @@
       "condition": "used"
     },
     {
+      "name": "ADX Platinum Elite A-Spec2025 Acura",
+      "vin": "3HDSA2H73SM101583",
+      "stock": "A252097",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/9d2055cc0680.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2025-acura-adx-id36170113",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2025-acura-adx-id36170113?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:16:04",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-Spec2025 Acura",
+      "vin": "3HDSA2H57SM102654",
+      "stock": "A250260",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/109ba72b119a.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2025-acura-adx-id36570944",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2025-acura-adx-id36570944?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:16:20",
+      "odometer_km": 2634,
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-Spec2025 Acura",
+      "vin": "3HDSA2H59SM102798",
+      "stock": "A250271",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/b7259e81ec9a.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2025-acura-adx-id37009211",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2025-acura-adx-id37009211?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:16:36",
+      "odometer_km": 4453,
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-Spec2025 Acura",
+      "vin": "3HDSA2H56SM102886",
+      "stock": "A252143",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/ef6852d362af.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2025-acura-adx-id37040555",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2025-acura-adx-id37040555?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:16:51",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-Spec2025 Acura",
+      "vin": "3HDSA2H58SM100234",
+      "stock": "A252150",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/ee7f0ecaba49.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2025-acura-adx-id37090554",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2025-acura-adx-id37090554?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:17:07",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H77TM100101",
+      "stock": "A260031",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/076bfdf33cfa.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id37838417",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id37838417?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:17:21",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H56TM100086",
+      "stock": "A260039",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/5ad2925951a1.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id37924100",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id37924100?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:17:38",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H77TM100003",
+      "stock": "A260075",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/b76367938e7d.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38012255",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38012255?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:17:52",
+      "odometer_km": 3939,
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H74TM100413",
+      "stock": "A262043",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/c0af4dc81c9b.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38081584",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38081584?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:18:07",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H79TM100455",
+      "stock": "A260056",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/4dbea2f7151a.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38155450",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38155450?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:18:21",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H52TM100585",
+      "stock": "A262052",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/19944382a19c.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38318727",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38318727?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:18:37",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H71TM100742",
+      "stock": "A262054",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/105837a89015.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38318730",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38318730?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:18:52",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H76TM100784",
+      "stock": "A260071",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/e657d1247476.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38348435",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38348435?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:19:06",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H77TM100938",
+      "stock": "A260127",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/1fbe4bfc8f4f.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38386546",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38386546?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:19:21",
+      "odometer_km": 3627,
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H79TM101430",
+      "stock": "A260141",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/fb0f893ce16e.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38394960",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38394960?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:19:37",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H52TM101638",
+      "stock": "A260137",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/729c79514dca.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38394961",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38394961?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:19:51",
+      "odometer_km": 1541,
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H77TM101247",
+      "stock": "A260139",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/d04281fbff04.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38394967",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38394967?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:20:05",
+      "odometer_km": 2426,
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H77TM100972",
+      "stock": "A262063",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/9d763cf83a74.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38395055",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38395055?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:20:21",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H75TM100940",
+      "stock": "A260080",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/23404dc58bf2.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403391",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403391?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:20:37",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H58TM101028",
+      "stock": "A260085",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/eb09976f714f.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403393",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403393?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:20:52",
+      "odometer_km": 5986,
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H73TM100743",
+      "stock": "A260144",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/0646d923e61d.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403612",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403612?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:21:09",
+      "odometer_km": 2609,
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H74TM100928",
+      "stock": "A262062",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/e4ff8f3d380b.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403662",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403662?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:21:24",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H72TM100913",
+      "stock": "A262061",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/ab293b531e13.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403664",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403664?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:21:40",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H5XTM101029",
+      "stock": "A260086",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/e599c383ae58.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38487515",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38487515?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:21:54",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H71TM101454",
+      "stock": "A260094",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/a0597e030059.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38487519",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38487519?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:22:09",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H75TM101456",
+      "stock": "A262065",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/546a1d17f076.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38495065",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38495065?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:22:24",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H77TM101457",
+      "stock": "A262066",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/ca5eef07718e.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38495066",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38495066?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:22:39",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H51TM101940",
+      "stock": "A260160",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/4095072c9bf6.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38508737",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38508737?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:22:54",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H54TM101561",
+      "stock": "A260097",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/d9876a155716.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38541210",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38541210?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:23:10",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H70TM101784",
+      "stock": "A262083",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/66303769ecc2.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38570363",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38570363?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:23:25",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H7XTM101727",
+      "stock": "A262072",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/1655b8c172a3.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38579376",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38579376?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:23:39",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H73TM101732",
+      "stock": "A262073",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/ec8c7aaad1c6.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38579377",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38579377?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:23:54",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H71TM101826",
+      "stock": "A262080",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/cfed897797b7.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38605753",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38605753?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:24:09",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H75TM101831",
+      "stock": "A260119",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/e39ed3ffa036.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38613355",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38613355?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:24:25",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H55TM102332",
+      "stock": "A260179",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/bbc30ddc226b.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38685369",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38685369?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:24:39",
+      "odometer_km": 3844,
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H78TM100835",
+      "stock": "A260184",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/f1a12b50aa33.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38685372",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38685372?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:24:55",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H77TM102513",
+      "stock": "A260186",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/fa5406d52c1a.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38685377",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38685377?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:25:09",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H7XTM101467",
+      "stock": "A260187",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/448c9fa20d9d.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38685382",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38685382?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:25:24",
+      "odometer_km": 1194,
+      "condition": "new"
+    },
+    {
+      "name": "ADX2026 Acura",
+      "vin": "3HDSA2H35TM102152",
+      "stock": "A260123",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/e0e367e283ca.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38699006",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38699006?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:25:40",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H75TM102056",
+      "stock": "A262082",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/dc28c3c9c86c.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38699218",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38699218?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:25:56",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H76TM102048",
+      "stock": "A262081",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/0cd868a9f1a8.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38699222",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38699222?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:26:11",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H79TM102934",
+      "stock": "A260197",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/0a4085fac8bc.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38792198",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38792198?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:26:27",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H70TM102837",
+      "stock": "A260195",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/e72b821c17a2.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38792205",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38792205?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:26:44",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H7XTM102926",
+      "stock": "A260196",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/86cf6736d9eb.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38792206",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38792206?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:26:59",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H75TM102672",
+      "stock": "A260143",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/b3998e6cfe50.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38812392",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38812392?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:27:15",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H5XTM103072",
+      "stock": "A260202",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/ea9a87e6e3dd.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881354",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881354?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:27:29",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H74TM103151",
+      "stock": "A260206",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/d4754e03eb56.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881355",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881355?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:27:45",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H59TM103189",
+      "stock": "A260204",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/49998fb97728.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881356",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881356?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:28:00",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H51TM103140",
+      "stock": "A260201",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/a84773b37085.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881357",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881357?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:28:16",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H53TM103186",
+      "stock": "A260203",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/2aef58bd2e24.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881358",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881358?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:28:30",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H71TM103169",
+      "stock": "A260207",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/8a8270326411.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881359",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881359?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:28:51",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H54TM103195",
+      "stock": "A260205",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/98f64acea0c7.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881360",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881360?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:29:07",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H73TM103111",
+      "stock": "A260208",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/14c5355478a6.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881361",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881361?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:29:21",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H59TM102950",
+      "stock": "A260156",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/b127c3eb82f0.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38945045",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38945045?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:29:37",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H73TM102587",
+      "stock": "A260149",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/b40459dab168.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38945046",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38945046?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:29:51",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H54TM103004",
+      "stock": "A260162",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/bad75b276209.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38945047",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38945047?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:30:06",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H55TM102699",
+      "stock": "A260155",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/0e9593383452.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38945048",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38945048?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:30:20",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H75TM102879",
+      "stock": "A260163",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/de238b593931.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38953600",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38953600?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:30:34",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H79TM103274",
+      "stock": "A260221",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/0d1cc67ceab3.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992120",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992120?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:30:50",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H73TM103593",
+      "stock": "A260223",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/5002ef78e9ce.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992121",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992121?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:31:05",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H71TM103530",
+      "stock": "A260224",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/1bbd149f11eb.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992123",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992123?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:31:21",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H52TM103423",
+      "stock": "A260220",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/5dcc5e2046b0.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992129",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992129?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:31:36",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H7XTM103283",
+      "stock": "A260222",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/832c6c98a571.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992132",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992132?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:31:50",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H57TM103482",
+      "stock": "A260174",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/a1e404bb7ac3.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39108439",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39108439?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:32:05",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H57TM103420",
+      "stock": "A260170",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/8e325d935a94.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39108440",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39108440?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:32:20",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H57TM103689",
+      "stock": "A260233",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/b9f773580c69.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39150642",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39150642?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:32:35",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H58TM103975",
+      "stock": "A260232",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/9582920b338c.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39150644",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39150644?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:32:49",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H7XTM103574",
+      "stock": "A260175",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/8c198ba9820a.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39177900",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39177900?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:33:02",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H53TM104046",
+      "stock": "A260235",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/a11702ccae0b.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39192159",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39192159?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:33:16",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H7XTM103719",
+      "stock": "A260236",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/131e2c7cc6bd.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200166",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200166?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:33:30",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H70TM103857",
+      "stock": "A260239",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/98b8e86c44c2.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200167",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200167?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:33:46",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H71TM103737",
+      "stock": "A260237",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/d58fe9ff0100.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200168",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200168?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:34:02",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H77TM103838",
+      "stock": "A260238",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/2acf60c5fd4c.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200169",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200169?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:34:15",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H70TM103647",
+      "stock": "A260240",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/e21a3cb7e3ed.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200170",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200170?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:34:30",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H56TM103697",
+      "stock": "A260178",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/9ae6876253fd.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39207245",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39207245?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:34:45",
+      "condition": "new"
+    },
+    {
+      "name": "Integra Elite A-Spec CVT2025 Acura",
+      "vin": "19UDE4H67SA800439",
+      "stock": "A250023",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/8e492765647e.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2025-acura-integra-id33899907",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2025-acura-integra-id33899907?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:35:02",
+      "odometer_km": 6179,
+      "condition": "new"
+    },
+    {
+      "name": "Integra Elite A-Spec CVT2025 Acura",
+      "vin": "19UDE4H65SA800634",
+      "stock": "A250215",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/6716a9cfe2c1.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2025-acura-integra-id36363908",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2025-acura-integra-id36363908?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:35:19",
+      "odometer_km": 3507,
+      "condition": "new"
+    },
+    {
+      "name": "Integra Elite A-Spec CVT2026 Acura",
+      "vin": "19UDE4H64TA800545",
+      "stock": "A260147",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/e46504b4c0f8.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38508717",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38508717?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:35:34",
+      "condition": "new"
+    },
+    {
+      "name": "Integra Elite A-Spec CVT2026 Acura",
+      "vin": "19UDE4H6XTA800579",
+      "stock": "A260150",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/f0d7208ba529.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38508727",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38508727?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:35:51",
+      "condition": "new"
+    },
+    {
       "name": "Integra A-Spec CVT2026 Acura",
       "vin": "19UDE4H37TA800657",
       "stock": "A260137",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/9e48880dca4b.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734811?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734811?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T19:06:33",
+      "last_verified": "2026-10-04T19:45:50",
       "condition": "new"
     },
     {
@@ -154,7 +956,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/54b1f2a82877.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734812?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734812?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T19:06:49",
+      "last_verified": "2026-10-04T19:46:04",
       "condition": "new"
     },
     {
@@ -164,7 +966,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/647b22a55997.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734814?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734814?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T19:07:04",
+      "last_verified": "2026-10-04T19:46:19",
       "condition": "new"
     },
     {
@@ -174,7 +976,27 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/06cbbf59a1ac.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734815?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734815?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T19:07:20",
+      "last_verified": "2026-10-04T19:46:35",
+      "condition": "new"
+    },
+    {
+      "name": "Integra Elite A-Spec MT2026 Acura",
+      "vin": "19UDE4G78TA800784",
+      "stock": "A260214",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/f9d2d97e2dd4.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38992125",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38992125?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:36:06",
+      "condition": "new"
+    },
+    {
+      "name": "Integra Elite A-Spec MT2026 Acura",
+      "vin": "19UDE4G71TA800769",
+      "stock": "A260212",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/343b368e8387.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38992128",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38992128?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:36:23",
       "condition": "new"
     },
     {
@@ -184,7 +1006,90 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/75d33bf87cab.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id39056604?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id39056604?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T19:07:37",
+      "last_verified": "2026-10-04T19:46:50",
+      "condition": "new"
+    },
+    {
+      "name": "Integra Elite A-Spec CVT2026 Acura",
+      "vin": "19UDE4H61TA800874",
+      "stock": "A260230",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/e91084983d5a.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id39150639",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id39150639?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:36:39",
+      "condition": "new"
+    },
+    {
+      "name": "Integra Elite A-Spec CVT2026 Acura",
+      "vin": "19UDE4H61TA800857",
+      "stock": "A260225",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/3103245952d4.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id39150641",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id39150641?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:36:55",
+      "condition": "new"
+    },
+    {
+      "name": "Integra Elite A-Spec CVT2026 Acura",
+      "vin": "19UDE4H69TA800895",
+      "stock": "A260228",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/9db3a5bb647a.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id39150643",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id39150643?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:37:10",
+      "condition": "new"
+    },
+    {
+      "name": "Integra Elite A-Spec MT2026 Acura",
+      "vin": "19UDE4G70TA800777",
+      "stock": "A260172",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/f6b70f10534a.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id39177901",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id39177901?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:37:26",
+      "condition": "new"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H0XTL800744",
+      "stock": "A260004",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/68eefaf9328c.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id36787878",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id36787878?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:37:43",
+      "odometer_km": 4970,
+      "condition": "new"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H03TL800214",
+      "stock": "A260000",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/37f6ff5b1c4d.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id36827366",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id36827366?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:37:59",
+      "odometer_km": 9155,
+      "condition": "new"
+    },
+    {
+      "name": "MDX Type S Ultra2026 Acura",
+      "vin": "5J8YD8H86TL800032",
+      "stock": "A260003",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/211249ad4282.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id36961892",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id36961892?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:38:13",
+      "odometer_km": 4546,
+      "condition": "new"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H02TL801158",
+      "stock": "A262014",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/7e2c6300f901.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id37260126",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id37260126?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:38:30",
       "condition": "new"
     },
     {
@@ -194,7 +1099,110 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/1843ce41c468.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id37641496?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id37641496?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T19:07:52",
+      "last_verified": "2026-10-04T19:47:04",
+      "condition": "new"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H01TL801751",
+      "stock": "A260028",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/4303e20385f5.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id37662598",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id37662598?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:38:46",
+      "odometer_km": 4600,
+      "condition": "new"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H04TL802909",
+      "stock": "A260106",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/853e626cf4a6.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38248218",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38248218?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:39:01",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Type S Ultra2026 Acura",
+      "vin": "5J8YD8H83TL800151",
+      "stock": "A260111",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/de15e766f77f.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38248230",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38248230?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:39:15",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H95TL803016",
+      "stock": "A260109",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/9e746803b52e.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38248235",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38248235?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:39:30",
+      "odometer_km": 3082,
+      "condition": "new"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H01TL803113",
+      "stock": "A260077",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/a35e728db24d.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38348437",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38348437?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:39:45",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H91TL803207",
+      "stock": "A260126",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/8d19c506a66a.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38380036",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38380036?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:40:00",
+      "odometer_km": 1538,
+      "condition": "new"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H01TL803127",
+      "stock": "A260083",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/acb82aeecebf.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38403392",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38403392?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:40:16",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Type S Ultra2026 Acura",
+      "vin": "5J8YD8H89TL800218",
+      "stock": "A262060",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/4b7bd53b8b53.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38403661",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38403661?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:40:30",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H94TL803301",
+      "stock": "A262064",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/7c5b4f043381.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38478839",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38478839?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:40:45",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H9XTL803772",
+      "stock": "A260158",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/48faf60b1b15.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38508730",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38508730?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:41:01",
       "condition": "new"
     },
     {
@@ -204,7 +1212,47 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/a755fc559af0.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38605556?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38605556?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:09:21",
+      "last_verified": "2026-10-04T19:47:18",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H93TL804018",
+      "stock": "A260175",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/24b51bbd33ff.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38685376",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38685376?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:41:18",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H99TL803827",
+      "stock": "A260131",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/c7d9922d907d.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38734817",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38734817?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:41:34",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H91TL804017",
+      "stock": "A260191",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/5381864bcc5f.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38792201",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38792201?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:41:49",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Type S Ultra2026 Acura",
+      "vin": "5J8YD8H80TL800317",
+      "stock": "A260192",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/a4e872c2ff60.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38792204",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38792204?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:42:03",
       "condition": "new"
     },
     {
@@ -214,7 +1262,27 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/0bab5946755c.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38853351?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38853351?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:09:36",
+      "last_verified": "2026-10-04T19:47:33",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H99TL804539",
+      "stock": "A260200",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/4c35ce79afd4.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38881362",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38881362?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:42:18",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H97TL804524",
+      "stock": "A260199",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/572df59e1156.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38881363",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38881363?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:42:35",
       "condition": "new"
     },
     {
@@ -224,7 +1292,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/69e9548b164f.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38887384?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38887384?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:09:52",
+      "last_verified": "2026-10-04T19:47:51",
       "condition": "new"
     },
     {
@@ -234,7 +1302,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/526eab9705c8.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38953596?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38953596?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:10:09",
+      "last_verified": "2026-10-04T19:48:07",
       "condition": "new"
     },
     {
@@ -244,7 +1312,67 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/10385868d995.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38953597?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38953597?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:10:25",
+      "last_verified": "2026-10-04T19:48:23",
+      "condition": "new"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H08TL804985",
+      "stock": "A260216",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/11086560633e.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38992122",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38992122?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:42:51",
+      "condition": "new"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H04TL804823",
+      "stock": "A260218",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/f42388eea9e4.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38992126",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38992126?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:43:07",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H91TL804650",
+      "stock": "A260168",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/ea548427c44e.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39026331",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39026331?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:43:22",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H91TL804647",
+      "stock": "A260167",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/b0716a5aab07.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39026334",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39026334?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:43:37",
+      "condition": "new"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H09TL804817",
+      "stock": "A260169",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/9732bd2de0a4.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39069031",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39069031?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:43:50",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Type S Ultra2026 Acura",
+      "vin": "5J8YD8H88TL800355",
+      "stock": "A260171",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/cdd624dcd720.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39157947",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39157947?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:44:05",
       "condition": "new"
     },
     {
@@ -254,7 +1382,70 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/5d79ea2e0daa.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39184542?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39184542?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-03T19:12:44",
+      "last_verified": "2026-10-04T19:48:37",
+      "condition": "new"
+    },
+    {
+      "name": "RDX A-SPEC2025 Acura",
+      "vin": "5J8TC2H65SL803897",
+      "stock": "A252145",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/c35954208293.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/rdx/2025-acura-rdx-id36888457",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/rdx/2025-acura-rdx-id36888457?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:44:19",
+      "odometer_km": 9360,
+      "condition": "new"
+    },
+    {
+      "name": "RDX2026 Acura",
+      "vin": "5J8TC2H46TL801026",
+      "stock": "A260032",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/19a2dcc61631.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/rdx/2026-acura-rdx-id37538924",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/rdx/2026-acura-rdx-id37538924?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:44:35",
+      "odometer_km": 5474,
+      "condition": "new"
+    },
+    {
+      "name": "RDX A-SPEC2026 Acura",
+      "vin": "5J8TC2H64TL801592",
+      "stock": "A260046",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/d028292b3808.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/rdx/2026-acura-rdx-id37767409",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/rdx/2026-acura-rdx-id37767409?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:44:49",
+      "odometer_km": 3865,
+      "condition": "new"
+    },
+    {
+      "name": "RDX Platinum Elite A-SPEC2026 Acura",
+      "vin": "5J8TC2H82TL802242",
+      "stock": "A260124",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/5935c6e7ebbc.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/rdx/2026-acura-rdx-id38348465",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/rdx/2026-acura-rdx-id38348465?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:45:05",
+      "condition": "new"
+    },
+    {
+      "name": "RDX Platinum Elite A-SPEC2026 Acura",
+      "vin": "5J8TC2H82TL802600",
+      "stock": "A260133",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/b3a1f9b051cd.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/rdx/2026-acura-rdx-id38394956",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/rdx/2026-acura-rdx-id38394956?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:45:21",
+      "condition": "new"
+    },
+    {
+      "name": "RDX Platinum Elite A-SPEC2026 Acura",
+      "vin": "5J8TC2H87TL802592",
+      "stock": "A262058",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/5c1b05e0246a.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/rdx/2026-acura-rdx-id38431493",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/rdx/2026-acura-rdx-id38431493?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-04T19:45:35",
       "condition": "new"
     }
   ]
