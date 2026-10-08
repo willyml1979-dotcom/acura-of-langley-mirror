@@ -3,7 +3,7 @@
 > Acura of Langley is a  dealership in Langley. This mirror provides AI-readable access to current inventory and dealership information, kept in sync with the dealership's own website.
 
 ## Inventory
-- [Used vehicles](https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/): 735 vehicles, updated regularly
+- [Used vehicles](https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/): 736 vehicles, updated regularly
 - [Inventory feed](https://willyml1979-dotcom.github.io/acura-of-langley-mirror/inventory.json): structured JSON, all vehicles with VIN, price, mileage and availability
 
 ## Resources
