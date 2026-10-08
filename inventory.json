@@ -1,10 +1,36 @@
 {
   "dealership": "Acura Of Langley",
-  "generated_at": "2026-10-07T14:53:44",
-  "vehicle_count": 141,
+  "generated_at": "2026-10-07T20:23:55",
+  "vehicle_count": 321,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
+    {
+      "name": "ADX Platinum Elite A-Spec2025 Acura",
+      "vin": "3HDSA2H79SM101989",
+      "stock": "H116984",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/7b87f3e032c8.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/adx/2025-acura-adx-id38726369",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/adx/2025-acura-adx-id38726369?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:46:34",
+      "odometer_km": 9464,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "ADX A-Spec2025 Acura",
+      "vin": "3HDSA2H53SM101923",
+      "stock": "H216007",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b4c0a90e4843.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/adx/2025-acura-adx-id39068997",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/adx/2025-acura-adx-id39068997?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:46:45",
+      "odometer_km": 22700,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
     {
       "name": "ADX Platinum Elite A-Spec2025 Acura",
       "vin": "3HDSA2H76SM100900",
@@ -14,7 +40,311 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/adx/2025-acura-adx-id39254462?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T22:26:52",
       "odometer_km": 33213,
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "ILX Premium2018 Acura",
+      "vin": "19UDE2F76JA800320",
+      "stock": "26H773C",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/d5642dbe3958.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/ilx/2018-acura-ilx-id39137592",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/ilx/2018-acura-ilx-id39137592?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:46:55",
+      "odometer_km": 135199,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Integra Type S 6MT2024 Acura",
+      "vin": "19UDE5G98RA800106",
+      "stock": "A22C002",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/564f63f7bcea.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/integra/2024-acura-integra-id38746828",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/integra/2024-acura-integra-id38746828?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:47:07",
+      "odometer_km": 41796,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Integra Type S 6MT2024 Acura",
+      "vin": "19UDE5G92RA800425",
+      "stock": "A22F003",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/5d3e55badd35.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/integra/2024-acura-integra-id39102898",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/integra/2024-acura-integra-id39102898?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:47:17",
+      "odometer_km": 22763,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Integra Elite A-Spec CVT2025 Acura",
+      "vin": "19UDE4H69SA800510",
+      "stock": "A216019",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/55699faba864.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/integra/2025-acura-integra-id38818035",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/integra/2025-acura-integra-id38818035?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:47:27",
+      "odometer_km": 12704,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Integra Type S 6MT2025 Acura",
+      "vin": "19UDE5G98SA800113",
+      "stock": "A22F004",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/3428bb59b303.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/integra/2025-acura-integra-id39223219",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/integra/2025-acura-integra-id39223219?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:47:37",
+      "odometer_km": 10202,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Integra Elite A-Spec CVT2025 Acura",
+      "vin": "19UDE4H68SA800126",
+      "stock": "H316039",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/c51c79cac887.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/integra/2025-acura-integra-id39237438",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/integra/2025-acura-integra-id39237438?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:47:47",
+      "odometer_km": 5038,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Integra Type S 6MT2026 Acura",
+      "vin": "19UDE5G91TA800259",
+      "stock": "A22F003",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/04b506033d90.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/integra/2026-acura-integra-id39056691",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/integra/2026-acura-integra-id39056691?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:47:57",
+      "odometer_km": 5432,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Integra Type S Manual2026 Acura",
+      "vin": "19UDE5G98TA800226",
+      "stock": "H22F001",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/556836f58b29.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/integra/2026-acura-integra-id39308885",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/integra/2026-acura-integra-id39308885?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:48:08",
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "MDX Elite 6sp at2013 Acura",
+      "vin": "2HNYD2H69DH000599",
+      "stock": "267102B",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/ec2f123c98e3.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2013-acura-mdx-id39308830",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2013-acura-mdx-id39308830?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:48:18",
+      "price": 15750.0,
+      "price_currency": "CAD",
+      "odometer_km": 150135,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "MDX Nav Pkg2016 Acura",
+      "vin": "5FRYD4H43GB504073",
+      "stock": "G26107B",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/0d4d9d7e7ad0.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2016-acura-mdx-id39199808",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2016-acura-mdx-id39199808?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:48:26",
+      "odometer_km": 122553,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "MDX Tech SH-AWD2017 Acura",
+      "vin": "5FRYD4H43HB508397",
+      "stock": "A260210",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/6a5a98bd1162.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2017-acura-mdx-id39297595",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2017-acura-mdx-id39297595?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:48:36",
+      "odometer_km": 103339,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "MDX Sport Hybrid Elite SH-AWD2019 Acura",
+      "vin": "5J8YD7H92KL800045",
+      "stock": "A215009",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/a718238fa086.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2019-acura-mdx-id39297598",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2019-acura-mdx-id39297598?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:48:45",
+      "odometer_km": 56146,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "MDX A-Spec SH-AWD2020 Acura",
+      "vin": "5J8YD4H02LL802976",
+      "stock": "A216020",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/247cf18508be.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2020-acura-mdx-id39246456",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2020-acura-mdx-id39246456?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:48:54",
+      "odometer_km": 174070,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "MDX Type S2022 Acura",
+      "vin": "5J8YD8H89NL800108",
+      "stock": "A113013",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/5ff2eadee462.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2022-acura-mdx-id39314784",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2022-acura-mdx-id39314784?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:49:04",
+      "odometer_km": 48590,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "MDX Platinum Elite SH-AWD2023 Acura",
+      "vin": "5J8YE1H8XPL800514",
+      "stock": "A22F003",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/86d52da2f38e.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2023-acura-mdx-id39056693",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2023-acura-mdx-id39056693?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:49:16",
+      "odometer_km": 44050,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "MDX SH-AWD at A-Spec2023 Acura",
+      "vin": "5J8YE1H04PL800695",
+      "stock": "2653004",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/c69fa967a099.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2023-acura-mdx-id39069290",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2023-acura-mdx-id39069290?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:49:25",
+      "odometer_km": 76021,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "MDX A-Spec SH-AWD2025 Acura",
+      "vin": "5J8YE1H07SL800926",
+      "stock": "A260190",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/6810f84b0dad.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39177937",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39177937?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:49:36",
+      "odometer_km": 25703,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "MDX Platinum Elite A-Spec w/5000 lbs Trailer Hitch Pkg2025 Acura",
+      "vin": "5J8YE1H95SL803080",
+      "stock": "A260155",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/da4671c3f872.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39192079",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39192079?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:49:45",
+      "odometer_km": 40623,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "MDX A-Spec SH-AWD2025 Acura",
+      "vin": "5J8YE1H08SL803673",
+      "stock": "A260022",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/9facc4906434.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39274741",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39274741?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:49:56",
+      "odometer_km": 14581,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "MDX Platinum Elite A-Spec SH-AWD2025 Acura",
+      "vin": "5J8YE1H98SL803669",
+      "stock": "A260169",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/2c88425874b7.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39314700",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39314700?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:50:05",
+      "odometer_km": 16780,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "RDX Tech Package 6sp at2013 Acura",
+      "vin": "5J8TB4H56DL802539",
+      "stock": "A113013",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/15ddde3a1092.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/rdx/2013-acura-rdx-id39302933",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/rdx/2013-acura-rdx-id39302933?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:50:14",
+      "price": 13988.0,
+      "price_currency": "CAD",
+      "odometer_km": 177314,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "RDX SH-AWD Elite at2021 Acura",
+      "vin": "5J8TC2H79ML805678",
+      "stock": "A262097",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/1be2ec4a5159.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/rdx/2021-acura-rdx-id39013074",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/rdx/2021-acura-rdx-id39013074?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:50:42",
+      "odometer_km": 101965,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "RDX A-Spec SH-AWD2024 Acura",
+      "vin": "5J8TC2H69RL802617",
+      "stock": "A260217",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/21d9ff5a52d1.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39140298",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39140298?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:50:51",
+      "odometer_km": 43699,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "RDX A-Spec AWD2024 Acura",
@@ -25,7 +355,35 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39264299?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T11:09:10",
       "odometer_km": 50877,
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "RDX A-Spec AWD2024 Acura",
+      "vin": "5J8TC2H65RL804851",
+      "stock": "A262051",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/3e66de57092e.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39305266",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39305266?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:51:01",
+      "odometer_km": 25091,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "RDX A-Spec SH-AWD2025 Acura",
+      "vin": "5J8TC2H69SL804597",
+      "stock": "A260189",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/3876cb2c2cc3.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/rdx/2025-acura-rdx-id39140300",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/rdx/2025-acura-rdx-id39140300?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:51:12",
+      "odometer_km": 22697,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "RDX Platinum Elite A-Spec AWD2025 Acura",
@@ -36,7 +394,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/rdx/2025-acura-rdx-id39237495?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T11:09:31",
       "odometer_km": 9286,
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "TLX SH-AWD Platinum Elite2021 Acura",
@@ -47,7 +407,115 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/tlx/2021-acura-tlx-id39026373?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T11:09:40",
       "odometer_km": 91920,
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "TLX Type S2021 Acura",
+      "vin": "19UUB7F00MA800035",
+      "stock": "MB61716",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/6fa9ed158baf.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/tlx/2021-acura-tlx-id39314824",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/tlx/2021-acura-tlx-id39314824?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:51:23",
+      "odometer_km": 116358,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "TLX SH-AWD A-Spec2022 Acura",
+      "vin": "19UUB6F54NA800434",
+      "stock": "H116980",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/4c4f8543af00.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/tlx/2022-acura-tlx-id39264289",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/tlx/2022-acura-tlx-id39264289?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:51:33",
+      "odometer_km": 86519,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "TSX Premium 6sp2012 Acura",
+      "vin": "JH4CU2F50CC800850",
+      "stock": "6T4957A",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/89c99cd27665.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/tsx/2012-acura-tsx-id39274934",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/tsx/2012-acura-tsx-id39274934?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:51:44",
+      "price": 13995.0,
+      "price_currency": "CAD",
+      "odometer_km": 156275,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "New Q5 2.0 TFSI quattro2025 Audi",
+      "vin": "WA12AAGU6S2033798",
+      "stock": "H32E002",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b561beef8d26.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/new-q5/2025-audi-new-q5-id39116716",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/new-q5/2025-audi-new-q5-id39116716?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:51:52",
+      "odometer_km": 32112,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "New Q5 Technik 2.0 TFSI quattro S tronic2025 Audi",
+      "vin": "WA13AAGU9S2046355",
+      "stock": "A22E002",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/678d722e27e5.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/new-q5/2025-audi-new-q5-id39131921",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/new-q5/2025-audi-new-q5-id39131921?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:52:01",
+      "odometer_km": 9452,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "New SQ5 Technik 3.0 TFSI quattro2025 Audi",
+      "vin": "WA135AGU5S2021876",
+      "stock": "2652020",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/febd335e3fb9.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/new-sq5/2025-audi-new-sq5-id39089107",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/new-sq5/2025-audi-new-sq5-id39089107?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:52:10",
+      "odometer_km": 10200,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Q3 Progressiv 45 TFSI quattro2025 Audi",
+      "vin": "WA1EECF32S1112459",
+      "stock": "MB32B00",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/5f6a1f7cd27b.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/q3/2025-audi-q3-id39184716",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/q3/2025-audi-q3-id39184716?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:52:22",
+      "odometer_km": 24300,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Q5 45 2.0T Technik quattro 7sp S Tronic2023 Audi",
+      "vin": "WA1FAAFY9P2102206",
+      "stock": "I13489A",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/50e5169dc800.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/q5/2023-audi-q5-id39174616",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/q5/2023-audi-q5-id39174616?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:52:32",
+      "odometer_km": 46381,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "Q6 e-tron Progressiv quattro2025 Audi",
@@ -58,7 +526,529 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/q6-e-tron/2025-audi-q6-e-tron-id39163997?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T22:26:44",
       "odometer_km": 54299,
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Q8 Progressiv2025 Audi",
+      "vin": "WA1DVBF10SD036369",
+      "stock": "N12B000",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/708cb6f34926.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/q8/2025-audi-q8-id38604622",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/q8/2025-audi-q8-id38604622?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:52:43",
+      "odometer_km": 32744,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "RS 3 2.5 TFSI quattro w/Carbon Optic Plus Package2025 Audi",
+      "vin": "WUAGWCGY5SA910995",
+      "stock": "A22F002",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/0e36b38ebe95.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/rs-3/2025-audi-rs-3-id39223220",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/rs-3/2025-audi-rs-3-id39223220?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:52:51",
+      "odometer_km": 4469,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "RS 5 Sportback 2.9T quattro 8sp Tiptronic2024 Audi",
+      "vin": "WUAAWCF57RA901500",
+      "stock": "N12B000",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/a63d14a76e18.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/rs-5-sportback/2024-audi-rs-5-sportback-id39229086",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/rs-5-sportback/2024-audi-rs-5-sportback-id39229086?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:53:02",
+      "odometer_km": 39349,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "RS 6 Avant 4.0T quattro 8sp S-tronic2023 Audi",
+      "vin": "WUA1CBF29PN907457",
+      "stock": "JL12B08",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/fdf67f0dd71f.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/rs-6-avant/2023-audi-rs-6-avant-id39222669",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/rs-6-avant/2023-audi-rs-6-avant-id39222669?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:53:12",
+      "odometer_km": 53260,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "RS 6 Avant performance 4.0 TFSI quattro2024 Audi",
+      "vin": "WUA1DBF20RN904978",
+      "stock": "MB72A00",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/1824e73bfb7b.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/rs-6-avant/2024-audi-rs-6-avant-id38900790",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/rs-6-avant/2024-audi-rs-6-avant-id38900790?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:53:21",
+      "odometer_km": 54800,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "RS Q8 4.0T quattro 8sp Tiptronic2023 Audi",
+      "vin": "WU1ARBF10PD013777",
+      "stock": "JL12B08",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/141a455d20f7.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/rs-q8/2023-audi-rs-q8-id39042751",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/rs-q8/2023-audi-rs-q8-id39042751?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:53:30",
+      "odometer_km": 82360,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "RS Q8 4.0T quattro 8sp Tiptronic2023 Audi",
+      "vin": "WU1ARBF12PD037479",
+      "stock": "MB72A00",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/992c14a93ce5.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/rs-q8/2023-audi-rs-q8-id39102218",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/rs-q8/2023-audi-rs-q8-id39102218?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:53:39",
+      "odometer_km": 62150,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "RS Q8 performance 4.0 TFSI quattro2026 Audi",
+      "vin": "WU1ARBF17TD001362",
+      "stock": "MB61616",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/134140e92d01.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/rs-q8/2026-audi-rs-q8-id39207348",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/rs-q8/2026-audi-rs-q8-id39207348?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:53:49",
+      "odometer_km": 38824,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "S3 Progressiv quattro 7sp S tronic2024 Audi",
+      "vin": "WAUH3CGY6RA116167",
+      "stock": "H32E002",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/6030fdb5696d.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/s3/2024-audi-s3-id39254428",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/s3/2024-audi-s3-id39254428?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:53:58",
+      "odometer_km": 44000,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "330i xDrive Sedan2026 BMW",
+      "vin": "3MW89CW09T8G31998",
+      "stock": "MB32B00",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/1702b89845a6.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/330i/2026-bmw-330i-id39069335",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/330i/2026-bmw-330i-id39069335?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:54:07",
+      "odometer_km": 14901,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "530i xDrive Sedan2026 BMW",
+      "vin": "WBA53FJ03TCW59592",
+      "stock": "MB32B00",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/2c6097ed29eb.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/530i-xdrive/2026-bmw-530i-xdrive-id39171075",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/530i-xdrive/2026-bmw-530i-xdrive-id39171075?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:54:18",
+      "odometer_km": 18319,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "530i xDrive Sedan2026 BMW",
+      "vin": "WBA53FJ0XTCW35483",
+      "stock": "JL22B00",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/bd70602ea110.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/530i/2026-bmw-530i-id38525894",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/530i/2026-bmw-530i-id38525894?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:54:29",
+      "odometer_km": 15800,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "530i xDrive Sedan2026 BMW",
+      "vin": "WBA53FJ06TCW57982",
+      "stock": "MB51100",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/f88f2b7ce303.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/530i/2026-bmw-530i-id39192173",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/530i/2026-bmw-530i-id39192173?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:54:39",
+      "odometer_km": 18205,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "iX xDrive50 w/Premium Enhanced Package2024 BMW",
+      "vin": "WB523CF08RCN74233",
+      "stock": "A215011",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/5a71df9cc436.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/ix/2024-bmw-ix-id39314701",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/ix/2024-bmw-ix-id39314701?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:54:49",
+      "odometer_km": 41875,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "M2 Coupe2025 BMW",
+      "vin": "3MF23DM05S8F12442",
+      "stock": "H126202",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/4575d7a1e19b.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/m2/2025-bmw-m2-id39080631",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/m2/2025-bmw-m2-id39080631?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:54:59",
+      "odometer_km": 12850,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "M2 Coupe2025 BMW",
+      "vin": "3MF23DM04S8F76276",
+      "stock": "G12F005",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/157d384917c9.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/m2/2025-bmw-m2-id39163749",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/m2/2025-bmw-m2-id39163749?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:55:10",
+      "odometer_km": 8489,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "M3 Competition2022 BMW",
+      "vin": "WBS43AY05NFM99622",
+      "stock": "A12A015",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/ca4ba5d32f16.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/m3/2022-bmw-m3-id39314783",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/m3/2022-bmw-m3-id39314783?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:55:19",
+      "odometer_km": 64509,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "M4 Competition Cabriolet M xDrive2024 BMW",
+      "vin": "WBS33BA06RCN63749",
+      "stock": "N12B000",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/7e5118fd3c10.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/m4/2024-bmw-m4-id38945192",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/m4/2024-bmw-m4-id38945192?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:55:28",
+      "odometer_km": 20626,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "M4 Competition Coupe2026 BMW",
+      "vin": "WBS33HK04TCW62546",
+      "stock": "MB62F00",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/41e1d8c7bf63.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/m4/2026-bmw-m4-id39080475",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/m4/2026-bmw-m4-id39080475?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:55:38",
+      "odometer_km": 10882,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "M440i xDrive Cabriolet2023 BMW",
+      "vin": "WBA63AT0XPCM35889",
+      "stock": "JL22B00",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/1470b583ff8e.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/m440i/2023-bmw-m440i-id38922660",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/m440i/2023-bmw-m440i-id38922660?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:55:49",
+      "odometer_km": 38365,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "M5 Sedan2025 BMW",
+      "vin": "WBS83FK0XSCU12642",
+      "stock": "JL12B08",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/3bd42800acca.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/m5/2025-bmw-m5-id39042752",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/m5/2025-bmw-m5-id39042752?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:55:59",
+      "odometer_km": 28100,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "M8 Competition Coupe2025 BMW",
+      "vin": "WBSAE0C08SCU02442",
+      "stock": "MB72F00",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/d29b2168fb8e.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/m8/2025-bmw-m8-id38981842",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/m8/2025-bmw-m8-id38981842?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:56:09",
+      "odometer_km": 9950,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "X1 xDrive28i2023 BMW",
+      "vin": "WBX73EF03P5X75337",
+      "stock": "H32E001",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/108d032f9948.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/x1/2023-bmw-x1-id38727050",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/x1/2023-bmw-x1-id38727050?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:56:20",
+      "odometer_km": 28826,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "X1 xDrive28i2023 BMW",
+      "vin": "WBX73EF09P5X75469",
+      "stock": "A22E002",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/361eef89deb8.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/x1/2023-bmw-x1-id39102899",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/x1/2023-bmw-x1-id39102899?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:56:30",
+      "odometer_km": 28834,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "X1 M35i xDrive2024 BMW",
+      "vin": "WBX13EF03R5021685",
+      "stock": "MB62E00",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/98cd8c1c80e8.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/x1/2024-bmw-x1-id39026464",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/x1/2024-bmw-x1-id39026464?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:56:38",
+      "odometer_km": 18700,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "X1 xDrive28i2025 BMW",
+      "vin": "WBX73EF07S5273536",
+      "stock": "H315037",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/0c493df00f31.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/x1/2025-bmw-x1-id39042628",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/x1/2025-bmw-x1-id39042628?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:56:46",
+      "odometer_km": 40473,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "X3 xDrive30i2024 BMW",
+      "vin": "5UX53DP00R9W84100",
+      "stock": "MB72A00",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/aeb58286b37e.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/x3/2024-bmw-x3-id38999927",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/x3/2024-bmw-x3-id38999927?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:56:56",
+      "odometer_km": 30100,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "X3 M50 xDrive2026 BMW",
+      "vin": "5UX73GP05T9273406",
+      "stock": "MB31605",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/00f334d70f16.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/x3/2026-bmw-x3-id38818153",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/x3/2026-bmw-x3-id38818153?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:57:06",
+      "odometer_km": 3910,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "X5 xDrive40i2025 BMW",
+      "vin": "5UX23EU02S9W26735",
+      "stock": "MB31605",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/0bcc542a7737.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/x5/2025-bmw-x5-id38827156",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/x5/2025-bmw-x5-id38827156?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:57:16",
+      "odometer_km": 50805,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "X6 xDrive40i2023 BMW",
+      "vin": "5UXCY6C00P9P06586",
+      "stock": "6T0822A",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/71a702215061.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/x6/2023-bmw-x6-id38340873",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/x6/2023-bmw-x6-id38340873?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:57:24",
+      "odometer_km": 20125,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "X6 xDrive40i2026 BMW",
+      "vin": "5UX33EX01T9173550",
+      "stock": "JL11608",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/76afa26f9aa7.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/x6/2026-bmw-x6-id38777497",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/x6/2026-bmw-x6-id38777497?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:57:32",
+      "odometer_km": 7155,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "X7 xDrive40i2024 BMW",
+      "vin": "5UX23EM04R9W02558",
+      "stock": "JL12B07",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/211a348d29d7.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/x7/2024-bmw-x7-id38425957",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/x7/2024-bmw-x7-id38425957?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:57:42",
+      "odometer_km": 50976,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Envista FWD Avenir2024 Buick",
+      "vin": "KL47LCE20RB170470",
+      "stock": "H126273",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/8489623d4127.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/buick/envista/2024-buick-envista-id39012554",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/buick/envista/2024-buick-envista-id39012554?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:57:50",
+      "odometer_km": 32106,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Escalade Premium Luxury - 1 owner, local2023 Cadillac",
+      "vin": "1GYS4CKL9PR114939",
+      "stock": "LR26179",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/bef45b93e446.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/cadillac/escalade/2023-cadillac-escalade-id39303466",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/cadillac/escalade/2023-cadillac-escalade-id39303466?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:57:59",
+      "odometer_km": 112228,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Escalade 4WD Sport2024 Cadillac",
+      "vin": "1GYS4EKT6RR302719",
+      "stock": "MB52E00",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/8488b24993ab.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/cadillac/escalade/2024-cadillac-escalade-id38937748",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/cadillac/escalade/2024-cadillac-escalade-id38937748?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:58:07",
+      "odometer_km": 74989,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Escalade 4WD Sport2025 Cadillac",
+      "vin": "1GYS9FRL2SR195106",
+      "stock": "MB52B00",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b213f5ef8b93.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/cadillac/escalade/2025-cadillac-escalade-id38922010",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/cadillac/escalade/2025-cadillac-escalade-id38922010?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:58:16",
+      "odometer_km": 18271,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "XT5 AWD 4dr Sport2025 Cadillac",
+      "vin": "1GYKNGRS5SZ108372",
+      "stock": "H26706A",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/0b7fd685ba7c.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/cadillac/xt5/2025-cadillac-xt5-id38967462",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/cadillac/xt5/2025-cadillac-xt5-id38967462?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:58:27",
+      "odometer_km": 32973,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Colorado Crew 4x4 Zr2 Short Box2022 Chevrolet",
+      "vin": "1GCPTEE10N1120600",
+      "stock": "A116008",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/c9db3a240c12.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/colorado/2022-chevrolet-colorado-id39289987",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/colorado/2022-chevrolet-colorado-id39289987?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:58:36",
+      "odometer_km": 94337,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Corvette Z06 Coupe 3LZ2024 Chevrolet",
+      "vin": "1G1YF3D39R5609880",
+      "stock": "JL12B08",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/91e53ad60371.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/corvette/2024-chevrolet-corvette-id38784390",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/corvette/2024-chevrolet-corvette-id38784390?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:58:44",
+      "odometer_km": 7958,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Corvette 3LT w/ Z51 Perf Pkg2025 Chevrolet",
+      "vin": "1G1YC3D41S5109218",
+      "stock": "G27003A",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/d5bf3150c46d.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/corvette/2025-chevrolet-corvette-id39049290",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/corvette/2025-chevrolet-corvette-id39049290?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:58:54",
+      "odometer_km": 8508,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "Silverado 1500 Crew Cab Short Box 4-Wheel Drive ZR22025 Chevrolet",
@@ -69,7 +1059,269 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id38691520?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T11:07:24",
       "odometer_km": 55240,
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Silverado 1500 Crew Cab Standard Box 4-Wheel Drive LT2025 Chevrolet",
+      "vin": "1GCPKDEK2SZ212603",
+      "stock": "H32A035",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/d7b7c0a2f499.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id38853601",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id38853601?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:59:04",
+      "odometer_km": 23508,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Silverado 1500 Crew Cab Standard Box 4-Wheel Drive LT2025 Chevrolet",
+      "vin": "1GCPKDEK1SZ212611",
+      "stock": "H32A035",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/343b9b83e4df.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id38853603",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id38853603?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:59:15",
+      "odometer_km": 52845,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Silverado 1500 Crew Cab Standard Box 4-Wheel Drive LT2025 Chevrolet",
+      "vin": "1GCPKDEK8SZ214033",
+      "stock": "A12A015",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/28ccd9ee9829.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id38860902",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id38860902?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:59:23",
+      "odometer_km": 18533,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Silverado 1500 Double Cab Standard Box 4-Wheel Drive LT2025 Chevrolet",
+      "vin": "1GCPKDEK5SZ212840",
+      "stock": "A12A015",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/5cce17257abc.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id38860903",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id38860903?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:59:32",
+      "odometer_km": 22947,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Trailblazer FWD LT2024 Chevrolet",
+      "vin": "KL79MPSL6RB046264",
+      "stock": "H32A035",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/cf31c4faa3eb.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/trailblazer/2024-chevrolet-trailblazer-id39116718",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/trailblazer/2024-chevrolet-trailblazer-id39116718?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T19:59:40",
+      "odometer_km": 72907,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Pacifica Select FWD2025 Chrysler",
+      "vin": "2C4RC1BG1SR596260",
+      "stock": "N12B000",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/c9dca904d1cc.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/chrysler/pacifica/2025-chrysler-pacifica-id39061206",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/chrysler/pacifica/2025-chrysler-pacifica-id39061206?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:05:12",
+      "odometer_km": 35620,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Durango GT AWD w/Blacktop Package & Trailer Tow Group IV2024 Dodge",
+      "vin": "1C4RDJDG7RC240389",
+      "stock": "A213009",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/97f0a33292ae.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/dodge/durango/2024-dodge-durango-id39237426",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/dodge/durango/2024-dodge-durango-id39237426?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:05:23",
+      "odometer_km": 12239,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Bronco Black Diamond2024 Ford",
+      "vin": "1FMDE1BH1RLA60937",
+      "stock": "G116006",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/35f8b4d64f46.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/bronco/2024-ford-bronco-id38713400",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/bronco/2024-ford-bronco-id38713400?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:05:32",
+      "odometer_km": 60097,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Bronco Outer Banks 4 Door 4x42024 Ford",
+      "vin": "1FMEE8BP2RLA61938",
+      "stock": "MB11814",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/cb6681b351ae.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/bronco/2024-ford-bronco-id39042813",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/bronco/2024-ford-bronco-id39042813?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:05:42",
+      "odometer_km": 7998,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Bronco RAPTOR 4x42024 Ford",
+      "vin": "1FMEE0RR3RLA50259",
+      "stock": "MB12E00",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/0829275a4670.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/bronco/2024-ford-bronco-id39042817",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/bronco/2024-ford-bronco-id39042817?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:05:52",
+      "odometer_km": 14989,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Bronco RAPTOR 4 Door 4x42025 Ford",
+      "vin": "1FMEE0RRXSLB04341",
+      "stock": "JL12B08",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/2b1c4f6201b3.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/bronco/2025-ford-bronco-id38974242",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/bronco/2025-ford-bronco-id38974242?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:06:02",
+      "odometer_km": 16778,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Escape Platinum AWD2025 Ford",
+      "vin": "1FMCU9JA4SUA90130",
+      "stock": "JL12B07",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/60b213eedc53.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/escape/2025-ford-escape-id38713791",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/escape/2025-ford-escape-id38713791?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:06:11",
+      "odometer_km": 19600,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Expedition Platinum MAX 4x42025 Ford",
+      "vin": "1FMJK1MG1SEA01963",
+      "stock": "N12F000",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/67ea6187cfcb.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/expedition/2025-ford-expedition-id38508801",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/expedition/2025-ford-expedition-id38508801?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:06:20",
+      "odometer_km": 18243,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Expedition Platinum 4x42025 Ford",
+      "vin": "1FMJU1M8XSEA01995",
+      "stock": "H316037",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/5a038aa77583.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/expedition/2025-ford-expedition-id39026364",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/expedition/2025-ford-expedition-id39026364?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:06:30",
+      "odometer_km": 18745,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Explorer Platinum2023 Ford",
+      "vin": "1FM5K8HC7PGA30297",
+      "stock": "26B8898",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/2dd34b742af3.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/explorer/2023-ford-explorer-id39131974",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/explorer/2023-ford-explorer-id39131974?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:06:41",
+      "odometer_km": 65262,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Explorer ST 4WD2025 Ford",
+      "vin": "1FMWK8GC9SGC08774",
+      "stock": "H22E002",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/a10404370007.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/explorer/2025-ford-explorer-id39088963",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/explorer/2025-ford-explorer-id39088963?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:06:52",
+      "odometer_km": 13118,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "F-150 4x4 SuperCrew Tremor - 145'' WB2023 Ford",
+      "vin": "1FTEW1E84PFB92751",
+      "stock": "H22C002",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/3c5a3b2838c4.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f-150/2023-ford-f-150-id39177842",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f-150/2023-ford-f-150-id39177842?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:07:03",
+      "odometer_km": 44240,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "F-150 Tremor 4WD SuperCrew 5.5' Box2025 Ford",
+      "vin": "1FTFW4L8XSFA97452",
+      "stock": "H32E000",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/67c1b864d28e.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f-150/2025-ford-f-150-id38605616",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f-150/2025-ford-f-150-id38605616?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:07:12",
+      "odometer_km": 15000,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "F-150 Tremor 4WD SuperCrew 5.5' Box2025 Ford",
+      "vin": "1FTFW4L81SFA48530",
+      "stock": "A12E000",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/7bb65c711c1a.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f-150/2025-ford-f-150-id38853454",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f-150/2025-ford-f-150-id38853454?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:07:22",
+      "odometer_km": 26965,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "F-150 Tremor 4WD SuperCrew 5.5' Box2025 Ford",
+      "vin": "1FTFW4L80SFC59640",
+      "stock": "MB32A00",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b20f967d3a6d.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f-150/2025-ford-f-150-id39049420",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f-150/2025-ford-f-150-id39049420?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:07:30",
+      "odometer_km": 18143,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "F-150 Tremor 4WD SuperCrew 5.5' Box2026 Ford",
@@ -80,7 +1332,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f-150/2026-ford-f-150-id38967622?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T11:07:44",
       "odometer_km": 27447,
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "F-150 LARIAT 4WD SuperCrew 6.5' Box2026 Ford",
@@ -91,7 +1345,113 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f-150/2026-ford-f-150-id38967623?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T11:07:53",
       "odometer_km": 21483,
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "F150 4x4 - Supercrew Raptor - 145'' WB2019 Ford",
+      "vin": "1FTFW1RG6KFA83383",
+      "stock": "A12A015",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/bfc9723efffa.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f150/2019-ford-f150-id38908339",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f150/2019-ford-f150-id38908339?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:07:40",
+      "odometer_km": 59850,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "F150 4x4 - Supercrew XLT - 145 WB2023 Ford",
+      "vin": "1FTFW1ED9PFA77175",
+      "stock": "N115478",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/849c0e01c5a7.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f150/2023-ford-f150-id38954187",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f150/2023-ford-f150-id38954187?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:07:50",
+      "odometer_km": 69790,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "F150 Raptor 4X4 SuperCrew 5.5' Box2023 Ford",
+      "vin": "1FTFW1RG4PFD17155",
+      "stock": "A22C003",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/100966abfebe.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f150/2023-ford-f150-id39069058",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f150/2023-ford-f150-id39069058?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:08:00",
+      "odometer_km": 64969,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "F150 4x4 - Supercrew Raptor - 145'' WB2023 Ford",
+      "vin": "1FTFW1RGXPFC62632",
+      "stock": "H22C002",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/bbae2e29f81a.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f150/2023-ford-f150-id39254361",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f150/2023-ford-f150-id39254361?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:08:10",
+      "odometer_km": 36358,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "F350 4x4 - Chassis Crew SRW XL 179 WB2022 Ford",
+      "vin": "1FD8W3FT8NEE47525",
+      "stock": "A12A016",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/7fa487074d84.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f350/2022-ford-f350-id39102168",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f350/2022-ford-f350-id39102168?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:08:18",
+      "odometer_km": 100184,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Mustang Convertible GT Premium2023 Ford",
+      "vin": "1FATP8FF8P5109120",
+      "stock": "H22C002",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/c6edea8f9430.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/mustang/2023-ford-mustang-id38770922",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/mustang/2023-ford-mustang-id38770922?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:08:29",
+      "odometer_km": 36000,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Mustang Coupe GT Premium Fastback2023 Ford",
+      "vin": "1FA6P8CF2P5304518",
+      "stock": "H313037",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/f7fd3c416337.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/mustang/2023-ford-mustang-id38915583",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/mustang/2023-ford-mustang-id38915583?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:08:38",
+      "odometer_km": 33093,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Ranger RAPTOR 4WD SuperCrew 5' Box2025 Ford",
+      "vin": "1FTER4LR7SLE00359",
+      "stock": "H32E002",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/f0c730877607.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/ranger/2025-ford-ranger-id39192084",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/ranger/2025-ford-ranger-id39192084?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:08:48",
+      "odometer_km": 10021,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "Super Duty F-350 DRW XLT 4WD Crew Cab 179 WB 60 CA2026 Ford",
@@ -102,7 +1462,178 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/super-duty-f-350-drw/2026-ford-super-duty-f-350-drw-id38967621?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T11:08:03",
       "odometer_km": 31179,
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GV70 2.5T Advanced2025 GENESIS",
+      "vin": "KMUMADTB5SU193595",
+      "stock": "G117006",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/4b5f36b78d2b.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/genesis/gv70/2025-genesis-gv70-id39026185",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/genesis/gv70/2025-genesis-gv70-id39026185?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:08:56",
+      "odometer_km": 25312,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GV70 2.5T Advanced Plus AWD2025 GENESIS",
+      "vin": "KMUMADTB5SU216664",
+      "stock": "A215010",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/37c51d641b24.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/genesis/gv70/2025-genesis-gv70-id39207267",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/genesis/gv70/2025-genesis-gv70-id39207267?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:09:05",
+      "odometer_km": 30571,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GV70 2.5T Advanced Plus2025 GENESIS",
+      "vin": "KMUMADTBXSU216224",
+      "stock": "G12E004",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/e779f886d953.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/genesis/gv70/2025-genesis-gv70-id39237287",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/genesis/gv70/2025-genesis-gv70-id39237287?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:09:18",
+      "odometer_km": 35832,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GV70 2.5T Advanced2026 GENESIS",
+      "vin": "KMUMADTB9TU270986",
+      "stock": "G12B005",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/8d2d2a18fce1.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/genesis/gv70/2026-genesis-gv70-id38792337",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/genesis/gv70/2026-genesis-gv70-id38792337?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:09:27",
+      "odometer_km": 17569,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GV70 2.5T Advanced2026 GENESIS",
+      "vin": "KMUMADTB5TU264831",
+      "stock": "G12B005",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/4cd62c38123c.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/genesis/gv70/2026-genesis-gv70-id39163750",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/genesis/gv70/2026-genesis-gv70-id39163750?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:09:36",
+      "odometer_km": 23371,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GV80 3.5T Prestige2023 GENESIS",
+      "vin": "KMUHCESC7PU140254",
+      "stock": "G115001",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/0382bd107312.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/genesis/gv80/2023-genesis-gv80-id39222358",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/genesis/gv80/2023-genesis-gv80-id39222358?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:09:46",
+      "odometer_km": 36032,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GV80 2.5T Advanced2024 GENESIS",
+      "vin": "KMUHBDSB0RU163172",
+      "stock": "G116006",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/89a56ff68f37.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/genesis/gv80/2024-genesis-gv80-id39314440",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/genesis/gv80/2024-genesis-gv80-id39314440?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:09:54",
+      "odometer_km": 44278,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GV80 3.5T Advanced w/Tech Pkg AWD 7P2025 GENESIS",
+      "vin": "KMUHCESC5SU282000",
+      "stock": "MB32B00",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/cf6e986bd3c7.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/genesis/gv80/2025-genesis-gv80-id39309123",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/genesis/gv80/2025-genesis-gv80-id39309123?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:10:05",
+      "odometer_km": 40698,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive Denali2024 GMC",
+      "vin": "3GTUUGEL2RG268526",
+      "stock": "H32E001",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/d2cc580d1726.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id38770962",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id38770962?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:10:16",
+      "odometer_km": 65640,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive AT42024 GMC",
+      "vin": "3GTUUEE87RG253780",
+      "stock": "N12B000",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/56e64704e7dc.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id39183908",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id39183908?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:10:28",
+      "odometer_km": 18248,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive AT42024 GMC",
+      "vin": "3GTUUEE81RG331664",
+      "stock": "MB62C00",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/de447fa660b2.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id39192198",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id39192198?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:10:39",
+      "odometer_km": 52321,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive Elevation2024 GMC",
+      "vin": "3GTUUCE81RG371389",
+      "stock": "MB12C01",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/f30f08249765.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id39309147",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id39309147?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:10:48",
+      "odometer_km": 33504,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive Denali Ultimate2026 GMC",
+      "vin": "1GTUUHE89TZ106532",
+      "stock": "H32C000",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/850134912adc.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-1500/2026-gmc-sierra-1500-id38524056",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-1500/2026-gmc-sierra-1500-id38524056?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:10:58",
+      "odometer_km": 12300,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive Denali Ultimate2026 GMC",
@@ -113,7 +1644,838 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-1500/2026-gmc-sierra-1500-id38937722?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T11:08:13",
       "odometer_km": 16022,
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Sierra 3500HD 4WD Crew Cab Standard Box Denali2024 GMC",
+      "vin": "1GT49WE76RF386823",
+      "stock": "A12C016",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/d6794f2654f2.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-3500hd/2024-gmc-sierra-3500hd-id38981821",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-3500hd/2024-gmc-sierra-3500hd-id38981821?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:11:10",
+      "odometer_km": 47624,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Sierra 3500HD 4WD Crew Cab Long Box AT42024 GMC",
+      "vin": "1GT49VEY1RF273378",
+      "stock": "H32C000",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/e1061cc2be67.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-3500hd/2024-gmc-sierra-3500hd-id39034450",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-3500hd/2024-gmc-sierra-3500hd-id39034450?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:11:18",
+      "odometer_km": 58496,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Sierra 3500HD 4WD Crew Cab Standard Box Denali2025 GMC",
+      "vin": "1GT4UWEY7SF320228",
+      "stock": "H32C000",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b150b3583ef0.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-3500hd/2025-gmc-sierra-3500hd-id38981816",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-3500hd/2025-gmc-sierra-3500hd-id38981816?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:11:29",
+      "odometer_km": 15500,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Accord EX CVT2023 Honda",
+      "vin": "1HGCY1F39PA800721",
+      "stock": "H126225",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/6c8e009405a9.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/accord/2023-honda-accord-id39247278",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/accord/2023-honda-accord-id39247278?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:11:39",
+      "odometer_km": 32780,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Accord EX CVT Sedan2024 Honda",
+      "vin": "1HGCY1F39RA800107",
+      "stock": "H114986",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/f5fa7ae653a6.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/accord/2024-honda-accord-id39055798",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/accord/2024-honda-accord-id39055798?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:11:48",
+      "odometer_km": 118622,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Accord EX CVT Sedan2024 Honda",
+      "vin": "1HGCY1F30RA800299",
+      "stock": "H126200",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/5e489396b876.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/accord/2024-honda-accord-id39222444",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/accord/2024-honda-accord-id39222444?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:11:57",
+      "odometer_km": 19696,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Civic Hybrid Sport eCVT Sedan2025 Honda",
+      "vin": "2HGFE4F85SH005131",
+      "stock": "H126271",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/633e02a7d109.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id38931042",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id38931042?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:12:06",
+      "odometer_km": 12366,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Civic Hybrid Sport eCVT Sedan2025 Honda",
+      "vin": "2HGFE4F83SH004270",
+      "stock": "H126185",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/0fffd9bd56d1.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id39274583",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id39274583?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:12:17",
+      "odometer_km": 15000,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Civic Hybrid Sport Touring eCVT Sedan2025 Honda",
+      "vin": "2HGFE4F82SH008133",
+      "stock": "H126211",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/e0917bbdf4fb.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id39297437",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id39297437?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:12:27",
+      "odometer_km": 9400,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Civic Hybrid Sport Touring eCVT Sedan2025 Honda",
+      "vin": "JHMFL4H93SX800005",
+      "stock": "A260126",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/f8f2f43cef5b.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id39309040",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id39309040?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:12:36",
+      "odometer_km": 17135,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Civic Hybrid Sport eCVT Sedan2026 Honda",
+      "vin": "2HGFE4F82TH001720",
+      "stock": "A252001",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/47442632d11d.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39222667",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39222667?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:12:47",
+      "odometer_km": 18431,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Civic Sedan EX CVT2022 Honda",
+      "vin": "2HGFE2F39NH108825",
+      "stock": "A113011",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/397c93bcaad6.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2022-honda-civic-id39174611",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2022-honda-civic-id39174611?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:12:56",
+      "odometer_km": 43916,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Civic Sedan LX CVT2023 Honda",
+      "vin": "2HGFE2F29PH106809",
+      "stock": "26421A",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/6d5efec66246.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2023-honda-civic-id39107952",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2023-honda-civic-id39107952?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:13:06",
+      "odometer_km": 92694,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Civic Type R2024 Honda",
+      "vin": "JHMFL5G41RX800008",
+      "stock": "A32F000",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/3c58b70b1abf.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2024-honda-civic-id38967651",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2024-honda-civic-id38967651?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:13:17",
+      "odometer_km": 8249,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Civic Sedan SI MT2024 Honda",
+      "vin": "2HGFE1E51RH080621",
+      "stock": "MB72F00",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/d437c474383c.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2024-honda-civic-id39150654",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2024-honda-civic-id39150654?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:13:30",
+      "odometer_km": 43350,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Civic Sedan Sport CVT2024 Honda",
+      "vin": "2HGFE2F51RH115369",
+      "stock": "A262085",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/455189b01fa2.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2024-honda-civic-id39246633",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2024-honda-civic-id39246633?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:13:38",
+      "odometer_km": 30113,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Civic Type R2025 Honda",
+      "vin": "JHMFL5G45SX800034",
+      "stock": "H32F000",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/91e05778fa75.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2025-honda-civic-id38853606",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2025-honda-civic-id38853606?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:13:49",
+      "odometer_km": 16325,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Civic LX CVT Sedan2025 Honda",
+      "vin": "2HGFE2F22SH105980",
+      "stock": "H126149",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/e8ccc6d7116b.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2025-honda-civic-id39043161",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2025-honda-civic-id39043161?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:13:58",
+      "odometer_km": 18600,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Civic LX CVT Sedan2025 Honda",
+      "vin": "2HGFE2F27SH103996",
+      "stock": "H126247",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/aa0a0daf42ca.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2025-honda-civic-id39043166",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2025-honda-civic-id39043166?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:14:09",
+      "odometer_km": 3933,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Civic Sport CVT Sedan2025 Honda",
+      "vin": "2HGFE2F52SH102541",
+      "stock": "H127120",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/3ffffd8e6d3c.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2025-honda-civic-id39123912",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2025-honda-civic-id39123912?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:14:19",
+      "odometer_km": 25177,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Civic Type R2025 Honda",
+      "vin": "JHMFL5G48SX800271",
+      "stock": "MB72F00",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/04877876a2b6.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2025-honda-civic-id39229018",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2025-honda-civic-id39229018?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:14:27",
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Civic Type R2025 Honda",
+      "vin": "JHMFL5G49SX800053",
+      "stock": "H117987",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b85cae8e8bcf.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2025-honda-civic-id39247282",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2025-honda-civic-id39247282?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:14:38",
+      "odometer_km": 5500,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Civic Type R2026 Honda",
+      "vin": "JHMFL5G46TX800044",
+      "stock": "H32F000",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/87e962526187.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2026-honda-civic-id39140320",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2026-honda-civic-id39140320?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:14:48",
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Civic Sport CVT Sedan2026 Honda",
+      "vin": "2HGFE2F55TH104429",
+      "stock": "26H1081",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/cf8a2f27e57e.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2026-honda-civic-id39223242",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2026-honda-civic-id39223242?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:14:59",
+      "odometer_km": 7966,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid EX-L AWD2024 Honda",
+      "vin": "2HKRS6H72RH216616",
+      "stock": "H213005",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/278b7459332c.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v-hybrid/2024-honda-cr-v-hybrid-id39281716",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v-hybrid/2024-honda-cr-v-hybrid-id39281716?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:15:10",
+      "odometer_km": 41249,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid Touring AWD2024 Honda",
+      "vin": "2HKRS6H91RH212090",
+      "stock": "26H1131",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/e830aaa31724.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v-hybrid/2024-honda-cr-v-hybrid-id39308962",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v-hybrid/2024-honda-cr-v-hybrid-id39308962?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:15:21",
+      "odometer_km": 64412,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid EX-L AWD2025 Honda",
+      "vin": "2HKRS6H77SH209327",
+      "stock": "26H979A",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b4986c19a7dc.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39254425",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39254425?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:15:29",
+      "odometer_km": 32500,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid EX-L AWD2025 Honda",
+      "vin": "2HKRS6H73SH207798",
+      "stock": "H126188",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/6ad3cd9ccab0.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39274586",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39274586?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:15:38",
+      "odometer_km": 46467,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid Touring AWD2025 Honda",
+      "vin": "2HKRS6H97SH201522",
+      "stock": "26H1124",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/a0d1bbc6aff2.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39289841",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39289841?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:15:45",
+      "odometer_km": 80673,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid Touring AWD2025 Honda",
+      "vin": "2HKRS6H96SH232499",
+      "stock": "A262078",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/cd554ea73310.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39309101",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39309101?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:15:53",
+      "odometer_km": 17621,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid EX-L AWD2026 Honda",
+      "vin": "2HKRS6H75TH223986",
+      "stock": "H126108",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/ad814e6aeedf.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id39158430",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id39158430?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:16:04",
+      "odometer_km": 7030,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid EX-L AWD2026 Honda",
+      "vin": "2HKRS6H78TH208513",
+      "stock": "H126127",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/3de58701c688.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id39191898",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v-hybrid/2026-honda-cr-v-hybrid-id39191898?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:16:13",
+      "odometer_km": 68824,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Sport AWD2024 Honda",
+      "vin": "2HKRS4H52RH106023",
+      "stock": "A316058",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/320e6594ca70.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v/2024-honda-cr-v-id39116851",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v/2024-honda-cr-v-id39116851?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:16:25",
+      "odometer_km": 18115,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Sport AWD2025 Honda",
+      "vin": "2HKRS4H56SH105429",
+      "stock": "H126102",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/5d7a9cee4799.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v/2025-honda-cr-v-id39237317",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v/2025-honda-cr-v-id39237317?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:16:36",
+      "odometer_km": 18395,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "HR-V EX-L Navi 4WD CVT2023 Honda",
+      "vin": "3CZRZ2H73PM101433",
+      "stock": "H127209",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/af42f66be64b.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/hr-v/2023-honda-hr-v-id39297433",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/hr-v/2023-honda-hr-v-id39297433?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:16:46",
+      "odometer_km": 32394,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "HR-V LX-B AWD CVT2024 Honda",
+      "vin": "3CZRZ1H32RM100672",
+      "stock": "H313037",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/03a2f8d2e272.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/hr-v/2024-honda-hr-v-id39026363",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/hr-v/2024-honda-hr-v-id39026363?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:16:57",
+      "odometer_km": 20539,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "HR-V EX-L Navi AWD CVT2024 Honda",
+      "vin": "3CZRZ2H71RM100879",
+      "stock": "H126223",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/f35e0f208de9.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/hr-v/2024-honda-hr-v-id39274585",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/hr-v/2024-honda-hr-v-id39274585?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:17:07",
+      "odometer_km": 24777,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "HR-V LX AWD CVT2025 Honda",
+      "vin": "3CZRZ2H33SM110199",
+      "stock": "H261097",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/7648911b7ac6.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id38974047",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id38974047?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:17:16",
+      "odometer_km": 51228,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "HR-V LX 2WD CVT2025 Honda",
+      "vin": "3CZRZ1H31SM101379",
+      "stock": "H126269",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/30d935d5a0f8.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39108764",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39108764?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:17:26",
+      "odometer_km": 53320,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "HR-V Sport AWD CVT2025 Honda",
+      "vin": "3CZRZ2H5XSM105146",
+      "stock": "H27078A",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/dd6d56298f92.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39254358",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39254358?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:17:40",
+      "odometer_km": 10837,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "HR-V LX AWD CVT2025 Honda",
+      "vin": "3CZRZ2H34SM104041",
+      "stock": "H217004",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/135353560cb9.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39290372",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39290372?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:17:50",
+      "odometer_km": 18169,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Odyssey Touring2023 Honda",
+      "vin": "5FNRL6H8XPB500626",
+      "stock": "H217003",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/9253c36b0b48.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/odyssey/2023-honda-odyssey-id38931258",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/odyssey/2023-honda-odyssey-id38931258?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:18:01",
+      "odometer_km": 49160,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Odyssey Touring2023 Honda",
+      "vin": "5FNRL6H87PB501393",
+      "stock": "H261257",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b1ca60ffd263.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/odyssey/2023-honda-odyssey-id39274626",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/odyssey/2023-honda-odyssey-id39274626?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:18:11",
+      "odometer_km": 37005,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Odyssey Black Edition2024 Honda",
+      "vin": "5FNRL6H01RB501208",
+      "stock": "H313038",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/47c4aade5c75.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/odyssey/2024-honda-odyssey-id39095703",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/odyssey/2024-honda-odyssey-id39095703?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:18:21",
+      "odometer_km": 16859,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Odyssey EX-L Auto2024 Honda",
+      "vin": "5FNRL6H64RB504169",
+      "stock": "A262070",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/c54af4c86a2e.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/odyssey/2024-honda-odyssey-id39222668",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/odyssey/2024-honda-odyssey-id39222668?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:18:32",
+      "odometer_km": 26000,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Odyssey Touring2024 Honda",
+      "vin": "5FNRL6H8XRB503206",
+      "stock": "26H1139",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/0974b8aa30b1.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/odyssey/2024-honda-odyssey-id39289844",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/odyssey/2024-honda-odyssey-id39289844?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:18:42",
+      "odometer_km": 25800,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Odyssey Sport Auto2025 Honda",
+      "vin": "5FNRL6H43SB501171",
+      "stock": "26H1035",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/58e22d8621c7.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/odyssey/2025-honda-odyssey-id39069086",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/odyssey/2025-honda-odyssey-id39069086?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:18:52",
+      "odometer_km": 21929,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Odyssey Sport-L Auto2025 Honda",
+      "vin": "5FNRL6H73SB501133",
+      "stock": "H217004",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/d2592879c2a0.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/odyssey/2025-honda-odyssey-id39246387",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/odyssey/2025-honda-odyssey-id39246387?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:19:01",
+      "odometer_km": 17548,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Odyssey Black Edition Auto2025 Honda",
+      "vin": "5FNRL6H00SB503229",
+      "stock": "H261237",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/443728185679.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/odyssey/2025-honda-odyssey-id39246389",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/odyssey/2025-honda-odyssey-id39246389?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:19:11",
+      "odometer_km": 23931,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Odyssey Sport-L Auto2025 Honda",
+      "vin": "5FNRL6H77SB500020",
+      "stock": "H117988",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/3b670b670eae.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/odyssey/2025-honda-odyssey-id39297435",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/odyssey/2025-honda-odyssey-id39297435?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:19:21",
+      "odometer_km": 56915,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Passport Touring2023 Honda",
+      "vin": "5FNYF8H93PB502306",
+      "stock": "H117986",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/8bbc7afc637c.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/passport/2023-honda-passport-id39108766",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/passport/2023-honda-passport-id39108766?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:19:30",
+      "odometer_km": 50116,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Passport TrailSport Touring AWD2026 Honda",
+      "vin": "5FNYF9H81TB506782",
+      "stock": "H216007",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/2cb2359632fc.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/passport/2026-honda-passport-id39207195",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/passport/2026-honda-passport-id39207195?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:19:40",
+      "odometer_km": 8096,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Passport TrailSport Touring Blackout AWD2026 Honda",
+      "vin": "5FNYF9H80TB506921",
+      "stock": "A22F002",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/0b27aa03b66a.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/passport/2026-honda-passport-id39308954",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/passport/2026-honda-passport-id39308954?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:19:48",
+      "odometer_km": 8135,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Pilot TrailSport AWD2023 Honda",
+      "vin": "5FNYG1H6XPB503253",
+      "stock": "26H973A",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/a578db6752ea.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/pilot/2023-honda-pilot-id39223239",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/pilot/2023-honda-pilot-id39223239?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:19:57",
+      "odometer_km": 88500,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Pilot TrailSport AWD2024 Honda",
+      "vin": "5FNYG1H60RB502194",
+      "stock": "H213005",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/351adaec83cc.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/pilot/2024-honda-pilot-id39012601",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/pilot/2024-honda-pilot-id39012601?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:20:06",
+      "odometer_km": 33514,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Pilot TrailSport AWD2025 Honda",
+      "vin": "5FNYG1H69SB500868",
+      "stock": "H216007",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b501008920d0.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/pilot/2025-honda-pilot-id39254362",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/pilot/2025-honda-pilot-id39254362?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:20:14",
+      "odometer_km": 39640,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Pilot EX-L AWD2025 Honda",
+      "vin": "5FNYG1H47SB506361",
+      "stock": "H126233",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/afae08afed4a.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/pilot/2025-honda-pilot-id39289816",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/pilot/2025-honda-pilot-id39289816?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:20:23",
+      "odometer_km": 22691,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Prologue Touring AWD2026 Honda",
+      "vin": "3GPKHZRJ5TS510843",
+      "stock": "2547502",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/2961b1b78c16.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/prologue/2026-honda-prologue-id38792242",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/prologue/2026-honda-prologue-id38792242?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:20:34",
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Ridgeline Touring2019 Honda",
+      "vin": "5FPYK3F74KB506171",
+      "stock": "A12C015",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/ee875648f1a1.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/ridgeline/2019-honda-ridgeline-id38908342",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/ridgeline/2019-honda-ridgeline-id38908342?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:20:42",
+      "odometer_km": 82046,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Ridgeline Black Edition AWD2025 Honda",
+      "vin": "5FPYK3F81SB502426",
+      "stock": "H117987",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/ce554bc5ee6f.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/ridgeline/2025-honda-ridgeline-id39199911",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/ridgeline/2025-honda-ridgeline-id39199911?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:20:53",
+      "odometer_km": 48655,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Ridgeline Black Edition AWD2025 Honda",
+      "vin": "5FPYK3F80SB503325",
+      "stock": "H126169",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/838e41f6b30b.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/ridgeline/2025-honda-ridgeline-id39267714",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/ridgeline/2025-honda-ridgeline-id39267714?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:21:02",
+      "odometer_km": 16525,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Kona Electric Preferred FWD2024 Hyundai",
+      "vin": "KM8HC3A68RU012073",
+      "stock": "A12C015",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/491af75a0267.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/hyundai/kona-electric/2024-hyundai-kona-electric-id38894297",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/hyundai/kona-electric/2024-hyundai-kona-electric-id38894297?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:21:12",
+      "odometer_km": 87717,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Palisade Ultimate Calligraphy 7-Passenger AWD2025 Hyundai",
+      "vin": "KM8R5DGE2SU848583",
+      "stock": "N12B000",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/9e979336f2b6.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/hyundai/palisade/2025-hyundai-palisade-id39177324",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/hyundai/palisade/2025-hyundai-palisade-id39177324?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:21:21",
+      "odometer_km": 18773,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Santa Cruz XRT AWD2025 Hyundai",
+      "vin": "5NTJDDDF6SH130953",
+      "stock": "S113023",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/a008b1137830.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/hyundai/santa-cruz/2025-hyundai-santa-cruz-id39164063",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/hyundai/santa-cruz/2025-hyundai-santa-cruz-id39164063?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-07T20:21:30",
+      "odometer_km": 18720,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "Seltos EX Premium AWD2025 Kia",
@@ -124,7 +2486,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/kia/seltos/2025-kia-seltos-id39246538?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T11:08:50",
       "odometer_km": 32967,
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "Sienna Hybrid Sienna XSE AWD 7-Pass2026 Toyota",
@@ -135,7 +2499,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/sienna-hybrid/2026-toyota-sienna-hybrid-id39246535?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T11:07:33",
       "odometer_km": 6613,
-      "condition": "used"
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-Spec2025 Acura",
@@ -145,7 +2511,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2025-acura-adx-id36170113",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2025-acura-adx-id36170113?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T14:49:57",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-Spec2025 Acura",
@@ -156,7 +2524,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2025-acura-adx-id36570944?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T14:50:14",
       "odometer_km": 2634,
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-Spec2025 Acura",
@@ -167,7 +2537,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2025-acura-adx-id37009211?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T14:50:27",
       "odometer_km": 4453,
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-Spec2025 Acura",
@@ -177,7 +2549,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2025-acura-adx-id37040555",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2025-acura-adx-id37040555?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T14:50:42",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-Spec2025 Acura",
@@ -187,7 +2561,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2025-acura-adx-id37090554",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2025-acura-adx-id37090554?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T14:50:59",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -197,7 +2573,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id37838417",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id37838417?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T14:51:13",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-SPEC2026 Acura",
@@ -207,7 +2585,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id37924100",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id37924100?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T14:51:32",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -218,7 +2598,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38012255?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T14:51:48",
       "odometer_km": 3939,
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -228,7 +2610,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38081584",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38081584?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T14:52:03",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -238,7 +2622,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38155450",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38155450?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T14:52:18",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-SPEC2026 Acura",
@@ -248,7 +2634,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38318727",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38318727?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T14:52:33",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -258,7 +2646,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38318730",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38318730?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T14:52:48",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -268,7 +2658,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38348435",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38348435?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T14:53:03",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -279,7 +2671,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38386546?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T14:53:18",
       "odometer_km": 3627,
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -289,7 +2683,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38394960",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38394960?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T14:53:33",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-SPEC2026 Acura",
@@ -300,7 +2696,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38394961?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:19:51",
       "odometer_km": 1541,
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -311,7 +2709,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38394967?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:20:05",
       "odometer_km": 2426,
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -321,7 +2721,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38395055",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38395055?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:20:21",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -331,7 +2733,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403391",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403391?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:20:37",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-SPEC2026 Acura",
@@ -342,7 +2746,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403393?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:20:52",
       "odometer_km": 5986,
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -353,7 +2759,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403612?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:21:09",
       "odometer_km": 2609,
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -363,7 +2771,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403662",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403662?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:21:24",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -373,7 +2783,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403664",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403664?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:21:40",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-SPEC2026 Acura",
@@ -383,7 +2795,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38487515",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38487515?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:21:54",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -393,7 +2807,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38487519",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38487519?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:22:09",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -403,7 +2819,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38495065",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38495065?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:22:24",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -413,7 +2831,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38495066",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38495066?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:22:39",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-SPEC2026 Acura",
@@ -423,7 +2843,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38508737",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38508737?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:22:54",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-SPEC2026 Acura",
@@ -433,7 +2855,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38541210",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38541210?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:23:10",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -443,7 +2867,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38570363",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38570363?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:23:25",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -453,7 +2879,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38579376",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38579376?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:23:39",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -463,7 +2891,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38579377",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38579377?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:23:54",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -473,7 +2903,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38605753",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38605753?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:24:09",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -483,7 +2915,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38613355",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38613355?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:24:25",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-SPEC2026 Acura",
@@ -494,7 +2928,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38685369?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:24:39",
       "odometer_km": 3844,
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -504,7 +2940,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38685372",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38685372?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:24:55",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -514,7 +2952,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38685377",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38685377?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:25:09",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -525,7 +2965,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38685382?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:25:24",
       "odometer_km": 1194,
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX2026 Acura",
@@ -535,7 +2977,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38699006",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38699006?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:25:40",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -545,7 +2989,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38699218",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38699218?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:25:56",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -555,7 +3001,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38699222",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38699222?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:26:11",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -565,7 +3013,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38792198",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38792198?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:26:27",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -575,7 +3025,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38792205",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38792205?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:26:44",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -585,7 +3037,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38792206",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38792206?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:26:59",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -595,7 +3049,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38812392",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38812392?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:27:15",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-SPEC2026 Acura",
@@ -605,7 +3061,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881354",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881354?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:27:29",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -615,7 +3073,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881355",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881355?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:27:45",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-SPEC2026 Acura",
@@ -625,7 +3085,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881356",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881356?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:28:00",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-SPEC2026 Acura",
@@ -635,7 +3097,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881357",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881357?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:28:16",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-SPEC2026 Acura",
@@ -645,7 +3109,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881358",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881358?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:28:30",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -655,7 +3121,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881359",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881359?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:28:51",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-SPEC2026 Acura",
@@ -665,7 +3133,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881360",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881360?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:29:07",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -675,7 +3145,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881361",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38881361?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:29:21",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-SPEC2026 Acura",
@@ -685,7 +3157,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38945045",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38945045?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:29:37",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -695,7 +3169,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38945046",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38945046?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:29:51",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-SPEC2026 Acura",
@@ -705,7 +3181,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38945047",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38945047?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:30:06",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-SPEC2026 Acura",
@@ -715,7 +3193,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38945048",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38945048?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:30:20",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -725,7 +3205,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38953600",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38953600?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:30:34",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -735,7 +3217,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992120",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992120?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:30:50",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -745,7 +3229,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992121",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992121?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:31:05",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -755,7 +3241,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992123",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992123?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:31:21",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-SPEC2026 Acura",
@@ -765,7 +3253,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992129",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992129?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:31:36",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -775,7 +3265,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992132",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38992132?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:31:50",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-SPEC2026 Acura",
@@ -785,7 +3277,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39108439",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39108439?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:32:05",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-SPEC2026 Acura",
@@ -795,7 +3289,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39108440",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39108440?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:32:20",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-SPEC2026 Acura",
@@ -805,7 +3301,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39150642",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39150642?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:32:35",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-SPEC2026 Acura",
@@ -815,7 +3313,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39150644",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39150644?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:32:49",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -825,7 +3325,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39177900",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39177900?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:33:02",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-SPEC2026 Acura",
@@ -835,7 +3337,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39192159",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39192159?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:33:16",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -845,7 +3349,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200166",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200166?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:33:30",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -855,7 +3361,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200167",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200167?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:33:46",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -865,7 +3373,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200168",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200168?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:34:02",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -875,7 +3385,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200169",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200169?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:34:15",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
@@ -885,7 +3397,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200170",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39200170?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:34:30",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ADX A-SPEC2026 Acura",
@@ -895,7 +3409,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39207245",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id39207245?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:34:45",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "Integra Elite A-Spec CVT2025 Acura",
@@ -906,7 +3422,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2025-acura-integra-id33899907?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:35:02",
       "odometer_km": 6179,
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "Integra Elite A-Spec CVT2025 Acura",
@@ -917,7 +3435,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2025-acura-integra-id36363908?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:35:19",
       "odometer_km": 3507,
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "Integra Elite A-Spec CVT2026 Acura",
@@ -927,7 +3447,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38508717",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38508717?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:35:34",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "Integra Elite A-Spec CVT2026 Acura",
@@ -937,7 +3459,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38508727",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38508727?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:35:51",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "Integra A-Spec CVT2026 Acura",
@@ -947,7 +3471,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734811?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734811?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:45:50",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "Integra A-Spec CVT2026 Acura",
@@ -957,7 +3483,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734812?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734812?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:46:04",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "Integra A-Spec CVT2026 Acura",
@@ -967,7 +3495,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734815?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734815?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:46:35",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "Integra Elite A-Spec MT2026 Acura",
@@ -977,7 +3507,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38992125",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38992125?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:36:06",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "Integra Elite A-Spec MT2026 Acura",
@@ -987,7 +3519,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38992128",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38992128?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:36:23",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "Integra Elite A-Spec CVT2026 Acura",
@@ -997,7 +3531,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id39056604?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id39056604?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:46:50",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "Integra Elite A-Spec CVT2026 Acura",
@@ -1007,7 +3543,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id39150639",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id39150639?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:36:39",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "Integra Elite A-Spec CVT2026 Acura",
@@ -1017,7 +3555,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id39150641",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id39150641?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:36:55",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "Integra Elite A-Spec CVT2026 Acura",
@@ -1027,7 +3567,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id39150643",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id39150643?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:37:10",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "Integra Elite A-Spec MT2026 Acura",
@@ -1037,7 +3579,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id39177901",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id39177901?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:37:26",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX A-SPEC2026 Acura",
@@ -1048,7 +3592,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id36787878?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:37:43",
       "odometer_km": 4970,
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX A-SPEC2026 Acura",
@@ -1059,7 +3605,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id36827366?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T14:49:26",
       "odometer_km": 9155,
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX Type S Ultra2026 Acura",
@@ -1070,7 +3618,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id36961892?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:38:13",
       "odometer_km": 4546,
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX A-SPEC2026 Acura",
@@ -1080,7 +3630,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id37260126",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id37260126?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:38:30",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX A-SPEC2026 Acura",
@@ -1090,7 +3642,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id37641496?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id37641496?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:47:04",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX A-SPEC2026 Acura",
@@ -1101,7 +3655,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id37662598?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:38:46",
       "odometer_km": 4600,
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX A-SPEC2026 Acura",
@@ -1111,7 +3667,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38248218",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38248218?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:39:01",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX Type S Ultra2026 Acura",
@@ -1121,7 +3679,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38248230",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38248230?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:39:15",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX Platinum Elite2026 Acura",
@@ -1132,7 +3692,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38248235?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:39:30",
       "odometer_km": 3082,
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX A-SPEC2026 Acura",
@@ -1142,7 +3704,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38348437",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38348437?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:39:45",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX Platinum Elite2026 Acura",
@@ -1153,7 +3717,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38380036?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:40:00",
       "odometer_km": 1538,
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX A-SPEC2026 Acura",
@@ -1163,7 +3729,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38403392",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38403392?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:40:16",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX Type S Ultra2026 Acura",
@@ -1173,7 +3741,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38403661",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38403661?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:40:30",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX Platinum Elite2026 Acura",
@@ -1183,7 +3753,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38478839",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38478839?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:40:45",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX Platinum Elite2026 Acura",
@@ -1193,7 +3765,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38508730",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38508730?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:41:01",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX A-SPEC2026 Acura",
@@ -1203,7 +3777,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38605556?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38605556?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:47:18",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX Platinum Elite2026 Acura",
@@ -1213,7 +3789,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38685376",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38685376?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:41:18",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX Platinum Elite2026 Acura",
@@ -1223,7 +3801,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38734817",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38734817?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:41:34",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX Platinum Elite2026 Acura",
@@ -1233,7 +3813,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38792201",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38792201?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:41:49",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX Type S Ultra2026 Acura",
@@ -1243,7 +3825,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38792204",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38792204?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:42:03",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX Type S Ultra2026 Acura",
@@ -1253,7 +3837,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38853351?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38853351?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:47:33",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX Platinum Elite2026 Acura",
@@ -1263,7 +3849,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38881362",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38881362?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:42:18",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX Platinum Elite2026 Acura",
@@ -1273,7 +3861,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38881363",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38881363?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:42:35",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX Platinum Elite2026 Acura",
@@ -1283,7 +3873,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38887384?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38887384?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:47:51",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX Platinum Elite2026 Acura",
@@ -1293,7 +3885,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38953596?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38953596?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:48:07",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX Platinum Elite2026 Acura",
@@ -1303,7 +3897,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38953597?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38953597?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:48:23",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX A-SPEC2026 Acura",
@@ -1313,7 +3909,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38992122",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38992122?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:42:51",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX A-SPEC2026 Acura",
@@ -1323,7 +3921,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38992126",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id38992126?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:43:07",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX Platinum Elite2026 Acura",
@@ -1333,7 +3933,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39026331",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39026331?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:43:22",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX Platinum Elite2026 Acura",
@@ -1343,7 +3945,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39026334",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39026334?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:43:37",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX A-SPEC2026 Acura",
@@ -1353,7 +3957,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39069031",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39069031?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:43:50",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX Type S Ultra2026 Acura",
@@ -1363,7 +3969,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39157947",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39157947?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:44:05",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "MDX Platinum Elite2026 Acura",
@@ -1373,7 +3981,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39184542?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/mdx/2026-acura-mdx-id39184542?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:48:37",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "RDX A-SPEC2025 Acura",
@@ -1384,7 +3994,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/rdx/2025-acura-rdx-id36888457?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:44:19",
       "odometer_km": 9360,
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "RDX2026 Acura",
@@ -1395,7 +4007,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/rdx/2026-acura-rdx-id37538924?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:44:35",
       "odometer_km": 5474,
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "RDX A-SPEC2026 Acura",
@@ -1406,7 +4020,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/rdx/2026-acura-rdx-id37767409?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:44:49",
       "odometer_km": 3865,
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "RDX Platinum Elite A-SPEC2026 Acura",
@@ -1416,7 +4032,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/rdx/2026-acura-rdx-id38348465",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/rdx/2026-acura-rdx-id38348465?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:45:05",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "RDX Platinum Elite A-SPEC2026 Acura",
@@ -1426,7 +4044,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/rdx/2026-acura-rdx-id38394956",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/rdx/2026-acura-rdx-id38394956?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:45:21",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "RDX Platinum Elite A-SPEC2026 Acura",
@@ -1436,7 +4056,9 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/rdx/2026-acura-rdx-id38431493",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/rdx/2026-acura-rdx-id38431493?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-04T19:45:35",
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     },
     {
       "name": "ZDX Type S2024 Acura",
@@ -1447,7 +4069,9 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/zdx/2024-acura-zdx-id38555231?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T14:49:42",
       "odometer_km": 20000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
     }
   ]
 }
