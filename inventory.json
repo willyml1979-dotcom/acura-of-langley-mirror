@@ -1,7 +1,7 @@
 {
   "dealership": "Acura Of Langley",
-  "generated_at": "2026-10-14T00:30:29",
-  "vehicle_count": 1157,
+  "generated_at": "2026-10-14T23:41:05",
+  "vehicle_count": 1079,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -14,19 +14,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/adx/2025-acura-adx-id38726369?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T03:41:27",
       "odometer_km": 9464,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "ADX A-Spec2025 Acura",
-      "vin": "3HDSA2H53SM101923",
-      "stock": "H216007",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b4c0a90e4843.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/adx/2025-acura-adx-id39068997",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/adx/2025-acura-adx-id39068997?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T03:41:37",
-      "odometer_km": 22700,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -97,19 +84,6 @@
       "province": "BC"
     },
     {
-      "name": "Integra Elite A-Spec CVT2025 Acura",
-      "vin": "19UDE4H69SA800510",
-      "stock": "A216019",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/55699faba864.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/integra/2025-acura-integra-id38818035",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/integra/2025-acura-integra-id38818035?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T03:42:18",
-      "odometer_km": 12704,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "Integra Type S 6MT2025 Acura",
       "vin": "19UDE5G98SA800113",
       "stock": "A22F004",
@@ -161,34 +135,6 @@
       "province": "BC"
     },
     {
-      "name": "Integra Type S Manual2026 Acura",
-      "vin": "19UDE5G90TA800026",
-      "stock": "A12F000",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/adab95730304.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/integra/2026-acura-integra-id39332854",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/integra/2026-acura-integra-id39332854?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T21:59:38",
-      "odometer_km": 11562,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "MDX Elite 6sp at2013 Acura",
-      "vin": "2HNYD2H69DH000599",
-      "stock": "267102B",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/ec2f123c98e3.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2013-acura-mdx-id39308830",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2013-acura-mdx-id39308830?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T03:43:04",
-      "price": 15750.0,
-      "price_currency": "CAD",
-      "odometer_km": 150135,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "MDX Nav Pkg2016 Acura",
       "vin": "5FRYD4H43GB504073",
       "stock": "G26107B",
@@ -210,45 +156,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2017-acura-mdx-id39297595?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-08T03:43:23",
       "odometer_km": 103339,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "MDX Sport Hybrid Elite SH-AWD2019 Acura",
-      "vin": "5J8YD7H92KL800045",
-      "stock": "A215009",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/a718238fa086.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2019-acura-mdx-id39297598",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2019-acura-mdx-id39297598?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T09:44:58",
-      "odometer_km": 56146,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "MDX A-Spec SH-AWD2020 Acura",
-      "vin": "5J8YD4H02LL802976",
-      "stock": "A216020",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/247cf18508be.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2020-acura-mdx-id39246456",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2020-acura-mdx-id39246456?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T09:45:09",
-      "odometer_km": 174070,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "MDX Type S2022 Acura",
-      "vin": "5J8YD8H89NL800108",
-      "stock": "A113013",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/5ff2eadee462.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2022-acura-mdx-id39314784",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2022-acura-mdx-id39314784?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T09:45:18",
-      "odometer_km": 48590,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -293,19 +200,6 @@
       "province": "BC"
     },
     {
-      "name": "MDX A-Spec SH-AWD2025 Acura",
-      "vin": "5J8YE1H07SL800926",
-      "stock": "A260190",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/6810f84b0dad.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39177937",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39177937?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T09:45:48",
-      "odometer_km": 25703,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "MDX Platinum Elite A-Spec w/5000 lbs Trailer Hitch Pkg2025 Acura",
       "vin": "5J8YE1H95SL803080",
       "stock": "A260155",
@@ -345,6 +239,19 @@
       "province": "BC"
     },
     {
+      "name": "MDX A-Spec SH-AWD2025 Acura",
+      "vin": "5J8YE1H07SL803485",
+      "stock": "A22F003",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/376f5d538f99.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39360486",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39360486?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-14T23:35:36",
+      "odometer_km": 11360,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "MDX Tech SH-AWD2026 Acura",
       "vin": "5J8YE1H40TL802876",
       "stock": "A12C017",
@@ -353,21 +260,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/mdx/2026-acura-mdx-id39222577?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T17:19:41",
       "odometer_km": 3819,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "RDX Tech Package 6sp at2013 Acura",
-      "vin": "5J8TB4H56DL802539",
-      "stock": "A113013",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/15ddde3a1092.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/rdx/2013-acura-rdx-id39302933",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/rdx/2013-acura-rdx-id39302933?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T09:46:26",
-      "price": 13988.0,
-      "price_currency": "CAD",
-      "odometer_km": 177314,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -413,19 +305,6 @@
     },
     {
       "name": "RDX A-Spec AWD2024 Acura",
-      "vin": "5J8TC2H61RL801722",
-      "stock": "A113012",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/3134ed14903e.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39264299",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39264299?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:38:49",
-      "odometer_km": 50877,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "RDX A-Spec AWD2024 Acura",
       "vin": "5J8TC2H65RL804851",
       "stock": "A262051",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/3e66de57092e.html",
@@ -446,6 +325,19 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39354444?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T23:29:11",
       "odometer_km": 62000,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "RDX A-Spec AWD2024 Acura",
+      "vin": "5J8TC2H67RL802633",
+      "stock": "A260106",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/d76a7faee80c.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39360485",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39360485?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-14T23:35:46",
+      "odometer_km": 15978,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -1018,6 +910,19 @@
       "province": "BC"
     },
     {
+      "name": "SQ7 4.0 TFSI quattro2026 Audi",
+      "vin": "WA1AWBF74TD012971",
+      "stock": "JL11708",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/f59f7355656f.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/sq7/2026-audi-sq7-id39360584",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/audi/sq7/2026-audi-sq7-id39360584?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-14T23:35:58",
+      "odometer_km": 5790,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "TTS 2.0T quattro 6sp S tronic Cpe2016 Audi",
       "vin": "TRUC1AFV2G1031277",
       "stock": "MB52A00",
@@ -1122,19 +1027,6 @@
       "province": "BC"
     },
     {
-      "name": "iX xDrive50 w/Premium Enhanced Package2024 BMW",
-      "vin": "WB523CF08RCN74233",
-      "stock": "A215011",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/5a71df9cc436.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/ix/2024-bmw-ix-id39314701",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/ix/2024-bmw-ix-id39314701?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T22:02:52",
-      "odometer_km": 41875,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "M2 Competition2020 BMW",
       "vin": "WBS2U7C04L7D90741",
       "stock": "MB62C00",
@@ -1234,20 +1126,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/m4/2025-bmw-m4-id39340974?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T22:37:11",
       "odometer_km": 12409,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Pre-Owned Inventoryat Acura of Langley",
-      "vin": "19UDE5G90TA800026",
-      "stock": "A12F000",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/41e1d8c7bf63.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/m4/2026-bmw-m4-id39080475",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/m4/2026-bmw-m4-id39080475?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T22:03:40",
-      "price": 65998.0,
-      "price_currency": "CAD",
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -1393,19 +1271,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/x3/2020-bmw-x3-id39108571?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T23:34:05",
       "odometer_km": 106042,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "X3 xDrive30i2024 BMW",
-      "vin": "5UX53DP00R9W84100",
-      "stock": "MB72A00",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/aeb58286b37e.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/x3/2024-bmw-x3-id38999927",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/bmw/x3/2024-bmw-x3-id38999927?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T04:08:47",
-      "odometer_km": 30100,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -1751,6 +1616,19 @@
       "province": "BC"
     },
     {
+      "name": "Equinox AWD LT2024 Chevrolet",
+      "vin": "3GNAXUEG4RL209780",
+      "stock": "H12E000",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/0ccabf632e82.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/equinox/2024-chevrolet-equinox-id39360257",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/equinox/2024-chevrolet-equinox-id39360257?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-14T23:36:08",
+      "odometer_km": 75684,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "Malibu RS2021 Chevrolet",
       "vin": "1G1ZG5ST8MF049739",
       "stock": "H216007",
@@ -1774,6 +1652,19 @@
       "price": 23610.0,
       "price_currency": "CAD",
       "odometer_km": 127490,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Silverado 1500 Crew 4x4 LT / Standard Box2017 Chevrolet",
+      "vin": "3GCUKREC6HG445451",
+      "stock": "N12B000",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/83e2a695f8e2.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/silverado-1500/2017-chevrolet-silverado-1500-id39353757",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/chevrolet/silverado-1500/2017-chevrolet-silverado-1500-id39353757?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-14T23:36:18",
+      "odometer_km": 164472,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -2197,6 +2088,19 @@
       "province": "BC"
     },
     {
+      "name": "F-150 4x4 - SuperCrew LARIAT - 145 WB2023 Ford",
+      "vin": "1FTEW1EP8PKF17867",
+      "stock": "A116008",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/c2824e79538f.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f-150/2023-ford-f-150-id39254464",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f-150/2023-ford-f-150-id39254464?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-14T23:36:27",
+      "odometer_km": 126880,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "F-150 Raptor2023 Ford",
       "vin": "1FTFW1RG1PFD17727",
       "stock": "G12E004",
@@ -2275,14 +2179,14 @@
       "province": "BC"
     },
     {
-      "name": "F150 Lightning 4x4 - SuperCrew LARIAT - 145 WB2023 Ford",
-      "vin": "1FTEW1EP8PKF17867",
-      "stock": "A116008",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/9cef1fffef46.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f150-lightning/2023-ford-f150-lightning-id39254464",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f150-lightning/2023-ford-f150-lightning-id39254464?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T17:20:00",
-      "odometer_km": 126880,
+      "name": "F150 4x4 - Supercrew Lariat - 145 WB2017 Ford",
+      "vin": "1FTEW1EG7HKC26858",
+      "stock": "MB32A00",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/5f394985e066.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f150/2017-ford-f150-id39360592",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f150/2017-ford-f150-id39360592?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-14T23:36:36",
+      "odometer_km": 94988,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -2296,19 +2200,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f150/2019-ford-f150-id38908339?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T16:33:08",
       "odometer_km": 59850,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "F150 4x4 - Supercrew Raptor - 145'' WB2019 Ford",
-      "vin": "1FTFW1RG3KFC14317",
-      "stock": "A12A015",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/89309021c389.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f150/2019-ford-f150-id38908340",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f150/2019-ford-f150-id38908340?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:40:39",
-      "odometer_km": 70629,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -2348,19 +2239,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f150/2023-ford-f150-id38954187?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T16:33:20",
       "odometer_km": 69790,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "F150 Raptor 4X4 SuperCrew 5.5' Box2023 Ford",
-      "vin": "1FTFW1RG4PFD17155",
-      "stock": "A22C003",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/100966abfebe.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f150/2023-ford-f150-id39069058",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ford/f150/2023-ford-f150-id39069058?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T16:33:30",
-      "odometer_km": 64969,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -2615,20 +2493,6 @@
       "province": "BC"
     },
     {
-      "name": "Pre-Owned Inventoryat Acura of Langley",
-      "vin": "19UDE5G90TA800026",
-      "stock": "A12F000",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/89a56ff68f37.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/genesis/gv80/2024-genesis-gv80-id39314440",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/genesis/gv80/2024-genesis-gv80-id39314440?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T22:39:45",
-      "price": 65998.0,
-      "price_currency": "CAD",
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "GV80 2.5T Advanced2024 GENESIS",
       "vin": "KMUHBDSB1RU174584",
       "stock": "G116007",
@@ -2747,19 +2611,6 @@
     },
     {
       "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive AT42024 GMC",
-      "vin": "3GTUUEE87RG253780",
-      "stock": "N12B000",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/56e64704e7dc.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id39183908",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id39183908?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T22:40:15",
-      "odometer_km": 18248,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive AT42024 GMC",
       "vin": "3GTUUEE81RG331664",
       "stock": "MB62C00",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/de447fa660b2.html",
@@ -2811,19 +2662,6 @@
       "province": "BC"
     },
     {
-      "name": "Sierra 3500HD 4WD Crew Cab Standard Box Denali2024 GMC",
-      "vin": "1GT49WE76RF386823",
-      "stock": "A12C016",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/d6794f2654f2.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-3500hd/2024-gmc-sierra-3500hd-id38981821",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-3500hd/2024-gmc-sierra-3500hd-id38981821?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T22:40:54",
-      "odometer_km": 47624,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "Sierra 3500HD 4WD Crew Cab Long Box AT42024 GMC",
       "vin": "1GT49VEY1RF273378",
       "stock": "H32C000",
@@ -2832,33 +2670,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-3500hd/2024-gmc-sierra-3500hd-id39034450?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T22:41:03",
       "odometer_km": 58496,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Pre-Owned Inventoryat Acura of Langley",
-      "vin": "19UDE5G90TA800026",
-      "stock": "A12F000",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b150b3583ef0.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-3500hd/2025-gmc-sierra-3500hd-id38981816",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/sierra-3500hd/2025-gmc-sierra-3500hd-id38981816?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T04:43:41",
-      "price": 65998.0,
-      "price_currency": "CAD",
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Terrain AWD SLE-12017 GMC",
-      "vin": "2GKFLSEK4H6306374",
-      "stock": "N216033",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/7d5906a38dd4.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/terrain/2017-gmc-terrain-id39018366",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/gmc/terrain/2017-gmc-terrain-id39018366?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T23:40:05",
-      "odometer_km": 156721,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -2916,19 +2727,6 @@
       "province": "BC"
     },
     {
-      "name": "Accord EX CVT Sedan2024 Honda",
-      "vin": "1HGCY1F30RA800299",
-      "stock": "H126200",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/5e489396b876.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/accord/2024-honda-accord-id39222444",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/accord/2024-honda-accord-id39222444?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T04:44:10",
-      "odometer_km": 19696,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "Civic Hybrid Sport eCVT Sedan2025 Honda",
       "vin": "2HGFE4F85SH005131",
       "stock": "H126271",
@@ -2976,19 +2774,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic-hybrid/2025-honda-civic-hybrid-id39309040?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T04:44:48",
       "odometer_km": 17135,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Civic Hybrid Sport eCVT Sedan2026 Honda",
-      "vin": "2HGFE4F82TH001720",
-      "stock": "A252001",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/47442632d11d.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39222667",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic-hybrid/2026-honda-civic-hybrid-id39222667?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T04:44:59",
-      "odometer_km": 18431,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -3048,6 +2833,19 @@
       "province": "BC"
     },
     {
+      "name": "Civic Sedan Touring CVT2019 Honda",
+      "vin": "2HGFC1F9XKH106002",
+      "stock": "H313039",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/8ee3ba662ae0.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2019-honda-civic-id39360498",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2019-honda-civic-id39360498?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-14T23:36:46",
+      "odometer_km": 53333,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "Civic Sedan LX2020 Honda",
       "vin": "2HGFC2F54LH015795",
       "stock": "A213009",
@@ -3069,19 +2867,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2020-honda-civic-id39354128?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T23:41:19",
       "odometer_km": 75942,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Civic Sedan EX CVT2021 Honda",
-      "vin": "2HGFC2F76MH001044",
-      "stock": "H261232",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b861cd96cbab.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2021-honda-civic-id39267728",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2021-honda-civic-id39267728?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T23:41:29",
-      "odometer_km": 71450,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -3152,20 +2937,6 @@
       "province": "BC"
     },
     {
-      "name": "Pre-Owned Inventoryat Acura of Langley",
-      "vin": "19UDE5G90TA800026",
-      "stock": "A12F000",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/3c58b70b1abf.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2024-honda-civic-id38967651",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2024-honda-civic-id38967651?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T04:45:30",
-      "price": 65998.0,
-      "price_currency": "CAD",
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "Civic Sedan SI MT2024 Honda",
       "vin": "2HGFE1E51RH080621",
       "stock": "MB72F00",
@@ -3200,19 +2971,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2024-honda-civic-id39325297?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T20:40:57",
       "odometer_km": 8249,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Civic Sedan EX CVT2024 Honda",
-      "vin": "2HGFE2F30RH109495",
-      "stock": "26H992B",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/4ec7cb5370a8.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2024-honda-civic-id39354865",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/civic/2024-honda-civic-id39354865?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T23:41:59",
-      "odometer_km": 10225,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -3333,33 +3091,6 @@
       "province": "BC"
     },
     {
-      "name": "Pre-Owned Inventoryat Acura of Langley",
-      "vin": "19UDE5G90TA800026",
-      "stock": "A12F000",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/278b7459332c.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v-hybrid/2024-honda-cr-v-hybrid-id39281716",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v-hybrid/2024-honda-cr-v-hybrid-id39281716?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T11:03:39",
-      "price": 65998.0,
-      "price_currency": "CAD",
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "CR-V Hybrid Touring AWD2024 Honda",
-      "vin": "2HKRS6H91RH212090",
-      "stock": "26H1131",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/e830aaa31724.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v-hybrid/2024-honda-cr-v-hybrid-id39308962",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v-hybrid/2024-honda-cr-v-hybrid-id39308962?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T11:03:50",
-      "odometer_km": 64412,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "CR-V Hybrid Touring AWD2024 Honda",
       "vin": "2HKRS6H92RH208260",
       "stock": "H127108",
@@ -3407,19 +3138,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39289841?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T11:04:18",
       "odometer_km": 80673,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "CR-V Hybrid EX-L AWD2025 Honda",
-      "vin": "2HKRS6H7XSH207295",
-      "stock": "H261255",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/d83cd4c3d6d7.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39308889",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39308889?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T22:00:28",
-      "odometer_km": 22774,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -3598,19 +3316,6 @@
       "province": "BC"
     },
     {
-      "name": "CR-V Sport AWD2025 Honda",
-      "vin": "2HKRS4H56SH105429",
-      "stock": "H126102",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/5d7a9cee4799.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v/2025-honda-cr-v-id39237317",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/cr-v/2025-honda-cr-v-id39237317?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T17:06:58",
-      "odometer_km": 18395,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "CRV EX-L 4WD at2011 Honda",
       "vin": "5J6RE4H75BL808731",
       "stock": "N226203",
@@ -3704,19 +3409,6 @@
       "province": "BC"
     },
     {
-      "name": "HR-V LX AWD CVT2025 Honda",
-      "vin": "3CZRZ2H33SM110199",
-      "stock": "H261097",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/7648911b7ac6.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id38974047",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id38974047?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T17:07:38",
-      "odometer_km": 51228,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "HR-V LX 2WD CVT2025 Honda",
       "vin": "3CZRZ1H31SM101379",
       "stock": "H126269",
@@ -3757,13 +3449,13 @@
     },
     {
       "name": "HR-V Sport AWD CVT2025 Honda",
-      "vin": "3CZRZ2H56SM108142",
-      "stock": "H126119",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b79219ff7303.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39325298",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39325298?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:41:07",
-      "odometer_km": 12300,
+      "vin": "3CZRZ2H54SM110536",
+      "stock": "H313039",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/dfece7fa9302.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39360500",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39360500?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-14T23:36:54",
+      "odometer_km": 17586,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -3777,19 +3469,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/odyssey/2019-honda-odyssey-id39346651?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T23:43:59",
       "odometer_km": 52268,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Odyssey Touring2023 Honda",
-      "vin": "5FNRL6H8XPB500626",
-      "stock": "H217003",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/9253c36b0b48.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/odyssey/2023-honda-odyssey-id38931258",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/honda/odyssey/2023-honda-odyssey-id38931258?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T17:08:21",
-      "odometer_km": 49160,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -4240,20 +3919,6 @@
       "province": "BC"
     },
     {
-      "name": "Pre-Owned Inventoryat Acura of Langley",
-      "vin": "19UDE5G90TA800026",
-      "stock": "A12F000",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/491af75a0267.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/hyundai/kona-electric/2024-hyundai-kona-electric-id38894297",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/hyundai/kona-electric/2024-hyundai-kona-electric-id38894297?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T23:22:09",
-      "price": 65998.0,
-      "price_currency": "CAD",
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "Kona 2.0L AWD Preferred2019 Hyundai",
       "vin": "KM8K2CAA9KU218747",
       "stock": "26388A",
@@ -4405,6 +4070,19 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/hyundai/sonata/2025-hyundai-sonata-id39354086?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T23:47:11",
       "odometer_km": 25234,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Tucson Hybrid Ultimate AWD2025 Hyundai",
+      "vin": "KM8JCDD14SU295875",
+      "stock": "L26017A",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/42343cf6baee.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/hyundai/tucson-hybrid/2025-hyundai-tucson-hybrid-id39354433",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/hyundai/tucson-hybrid/2025-hyundai-tucson-hybrid-id39354433?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-14T23:37:02",
+      "odometer_km": 38683,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -4836,20 +4514,6 @@
       "province": "BC"
     },
     {
-      "name": "Pre-Owned Inventoryat Acura of Langley",
-      "vin": "5J8YE1H40TL802876",
-      "stock": "A12C017",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/a3b91a35d717.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/jeep/grand-cherokee/2023-jeep-grand-cherokee-id39089022",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/jeep/grand-cherokee/2023-jeep-grand-cherokee-id39089022?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-14T00:29:38",
-      "price": 68988.0,
-      "price_currency": "CAD",
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "Wrangler 4xe Sahara 4 Door 4x42024 Jeep",
       "vin": "1C4RJXP63RW215681",
       "stock": "L26238B",
@@ -5029,7 +4693,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/3a6b409a9bdb.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/kia/seltos/2024-kia-seltos-id39309102",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/kia/seltos/2024-kia-seltos-id39309102?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:26:19",
+      "last_verified": "2026-10-14T23:38:38",
       "odometer_km": 33495,
       "condition": "used",
       "city": "Langley",
@@ -5118,20 +4782,6 @@
       "province": "BC"
     },
     {
-      "name": "Pre-Owned Inventoryat Acura of Langley",
-      "vin": "5J8TC2H86SL803473",
-      "stock": "A113012",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/c7608723638f.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2020-land-rover-defender-id39178007",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2020-land-rover-defender-id39178007?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:26:31",
-      "price": 54988.0,
-      "price_currency": "CAD",
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "Defender HSE- Local, 1 owner2020 Land Rover",
       "vin": "SALE97EU0L2031136",
       "stock": "LR26313",
@@ -5151,7 +4801,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/6d579a72172f.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2023-land-rover-defender-id38234135",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2023-land-rover-defender-id38234135?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:26:41",
+      "last_verified": "2026-10-14T23:38:48",
       "odometer_km": 62776,
       "condition": "used",
       "city": "Langley",
@@ -5164,7 +4814,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/106bd174f5e3.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2023-land-rover-defender-id39089106",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2023-land-rover-defender-id39089106?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:26:50",
+      "last_verified": "2026-10-14T23:38:58",
       "odometer_km": 71717,
       "condition": "used",
       "city": "Langley",
@@ -5177,7 +4827,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b239d89a5eef.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2023-land-rover-defender-id39089120",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2023-land-rover-defender-id39089120?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:27:01",
+      "last_verified": "2026-10-14T23:39:07",
       "odometer_km": 50500,
       "condition": "used",
       "city": "Langley",
@@ -5190,7 +4840,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/7fa88acc6e46.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2023-land-rover-defender-id39102266",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2023-land-rover-defender-id39102266?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:27:10",
+      "last_verified": "2026-10-14T23:39:17",
       "odometer_km": 22443,
       "condition": "used",
       "city": "Langley",
@@ -5203,7 +4853,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b9175029abdf.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2023-land-rover-defender-id39269247",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2023-land-rover-defender-id39269247?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:27:20",
+      "last_verified": "2026-10-14T23:39:26",
       "odometer_km": 73655,
       "condition": "used",
       "city": "Langley",
@@ -5242,7 +4892,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/3ec36f8e9d0b.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2024-land-rover-defender-id38412869",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2024-land-rover-defender-id38412869?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:27:31",
+      "last_verified": "2026-10-14T23:39:37",
       "odometer_km": 13782,
       "condition": "used",
       "city": "Langley",
@@ -5255,8 +4905,8 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/24876dc06adf.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2024-land-rover-defender-id38470901",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2024-land-rover-defender-id38470901?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:27:40",
-      "odometer_km": 13359,
+      "last_verified": "2026-10-14T23:39:46",
+      "odometer_km": 13475,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -5268,7 +4918,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/87c534f83983.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2024-land-rover-defender-id38727178",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2024-land-rover-defender-id38727178?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:27:51",
+      "last_verified": "2026-10-14T23:39:55",
       "odometer_km": 15492,
       "condition": "used",
       "city": "Langley",
@@ -5281,7 +4931,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/57c063157768.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2025-land-rover-defender-id37909222",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2025-land-rover-defender-id37909222?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:28:01",
+      "last_verified": "2026-10-14T23:40:06",
       "odometer_km": 7678,
       "condition": "used",
       "city": "Langley",
@@ -5294,7 +4944,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/016125c5b2da.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2025-land-rover-defender-id38848585",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2025-land-rover-defender-id38848585?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:28:09",
+      "last_verified": "2026-10-14T23:40:15",
       "odometer_km": 25363,
       "condition": "used",
       "city": "Langley",
@@ -5307,7 +4957,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/f1c7bba935b7.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2025-land-rover-defender-id38907668",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2025-land-rover-defender-id38907668?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:28:20",
+      "last_verified": "2026-10-14T23:40:26",
       "odometer_km": 9744,
       "condition": "used",
       "city": "Langley",
@@ -5320,7 +4970,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/73dcef392a14.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2025-land-rover-defender-id38907672",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2025-land-rover-defender-id38907672?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:28:32",
+      "last_verified": "2026-10-14T23:40:36",
       "odometer_km": 6654,
       "condition": "used",
       "city": "Langley",
@@ -5333,7 +4983,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/9e36030cbc81.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2025-land-rover-defender-id38981879",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2025-land-rover-defender-id38981879?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:28:42",
+      "last_verified": "2026-10-14T23:40:47",
       "odometer_km": 17016,
       "condition": "used",
       "city": "Langley",
@@ -5346,7 +4996,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/32fe0b17c6b9.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2025-land-rover-defender-id39013047",
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/defender/2025-land-rover-defender-id39013047?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:28:52",
+      "last_verified": "2026-10-14T23:40:56",
       "odometer_km": 12020,
       "condition": "used",
       "city": "Langley",
@@ -5807,20 +5457,6 @@
       "province": "BC"
     },
     {
-      "name": "Pre-Owned Inventoryat Acura of Langley",
-      "vin": "5J8TC2H86SL803473",
-      "stock": "A113012",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/77e6d2af10c1.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/range-rover-sport/2024-land-rover-range-rover-sport-id39164038",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/range-rover-sport/2024-land-rover-range-rover-sport-id39164038?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:32:37",
-      "price": 54988.0,
-      "price_currency": "CAD",
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "Range Rover Sport P400 Dynamic HSE2024 Land Rover",
       "vin": "SAL1M9FUXRA419366",
       "stock": "JL12B08",
@@ -5893,19 +5529,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/range-rover-sport/2025-land-rover-range-rover-sport-id39103456?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T20:33:34",
       "odometer_km": 21030,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Range Rover Sport P400 Dynamic SE2025 Land Rover",
-      "vin": "SAL1L9FU5SA449299",
-      "stock": "JL12B08",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/2614c2017717.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/range-rover-sport/2025-land-rover-range-rover-sport-id39178041",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/range-rover-sport/2025-land-rover-range-rover-sport-id39178041?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:33:42",
-      "odometer_km": 12000,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -5997,31 +5620,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/range-rover-velar/2020-land-rover-range-rover-velar-id39256107?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T23:53:10",
       "odometer_km": 111059,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Range Rover Velar P340 R-Dynamic S2023 Land Rover",
-      "vin": "SALYT2EU8PA361412",
-      "stock": "2664997",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/ae8f194e9083.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/range-rover-velar/2023-land-rover-range-rover-velar-id39124907",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/range-rover-velar/2023-land-rover-range-rover-velar-id39124907?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:34:31",
-      "odometer_km": 46170,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Range Rover Velar S - Local 1 owner2023 Land Rover",
-      "vin": "SALYJ2EX4PA352237",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/10fa44612757.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/range-rover-velar/2023-land-rover-range-rover-velar-id39313368",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/land-rover/range-rover-velar/2023-land-rover-range-rover-velar-id39313368?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:41:17",
-      "odometer_km": 40291,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -6341,18 +5939,6 @@
     },
     {
       "name": "NX 350h Premium AWD2026 Lexus",
-      "vin": "2T2GKCEZ6TC070397",
-      "stock": "A215009",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b1161448cc76.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/lexus/nx/2026-lexus-nx-id38746821",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/lexus/nx/2026-lexus-nx-id38746821?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:36:55",
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "NX 350h Premium AWD2026 Lexus",
       "vin": "2T2GKCEZ0TC067799",
       "stock": "A215009",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/4fa604c074db.html",
@@ -6558,19 +6144,6 @@
       "province": "BC"
     },
     {
-      "name": "Grecale Modena Limited Edition Canada2023 Maserati",
-      "vin": "ZN682AVM7P7412060",
-      "stock": "JL12B07",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/0dfe9b44af21.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/maserati/grecale-modena/2023-maserati-grecale-modena-id38089023",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/maserati/grecale-modena/2023-maserati-grecale-modena-id38089023?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:41:48",
-      "odometer_km": 44373,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "Levante GranSport2020 Maserati",
       "vin": "ZN661XUS2LX349201",
       "stock": "JL11708",
@@ -6605,21 +6178,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mazda/cx-30/2024-mazda-cx-30-id39297078?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T20:42:10",
       "odometer_km": 23611,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "CX-5 GS AWD at2014 Mazda",
-      "vin": "JM3KE4CY5E0310744",
-      "stock": "26454A",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/edfbdc0d7662.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/mazda/cx-5/2014-mazda-cx-5-id39281955",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mazda/cx-5/2014-mazda-cx-5-id39281955?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T23:56:11",
-      "price": 13699.0,
-      "price_currency": "CAD",
-      "odometer_km": 155036,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -6860,19 +6418,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/amg-gt53/2024-mercedes-benz-amg-gt53-id39164015?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T20:43:18",
       "odometer_km": 10140,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "AMG GT63 S 4MATIC+ Coupe2020 Mercedes-Benz",
-      "vin": "WDD7X8KB0LA014458",
-      "stock": "MB72A00",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/443249ebce9a.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/amg-gt63/2020-mercedes-benz-amg-gt63-id39109206",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/amg-gt63/2020-mercedes-benz-amg-gt63-id39109206?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-13T23:58:12",
-      "odometer_km": 54850,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -7256,19 +6801,6 @@
     },
     {
       "name": "CLA250 4MATIC Coupe2026 Mercedes-Benz",
-      "vin": "W1K5J4HB9TN573993",
-      "stock": "MB32B00",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/259c78032cf4.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/cla250/2026-mercedes-benz-cla250-id39042795",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/cla250/2026-mercedes-benz-cla250-id39042795?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:45:05",
-      "odometer_km": 37410,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "CLA250 4MATIC Coupe2026 Mercedes-Benz",
       "vin": "W1K5J4HB9TN595802",
       "stock": "MB11816",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/f7f340b7be43.html",
@@ -7302,19 +6834,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/cla45-amg/2023-mercedes-benz-cla45-amg-id39325583?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T22:37:57",
       "odometer_km": 35556,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "CLE300 4MATIC Coupe2024 Mercedes-Benz",
-      "vin": "W1KMJ4HB4RF012261",
-      "stock": "2652599",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/ccd2c7238b0b.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/cle300/2024-mercedes-benz-cle300-id39264302",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/cle300/2024-mercedes-benz-cle300-id39264302?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:45:33",
-      "odometer_km": 25000,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -7649,19 +7168,6 @@
       "province": "BC"
     },
     {
-      "name": "EQE350 4MATIC SUV2023 Mercedes-Benz",
-      "vin": "4JGGM1CB4PA008527",
-      "stock": "MB51701",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/befbd9fe82aa.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/eqe350/2023-mercedes-benz-eqe350-id39056065",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/eqe350/2023-mercedes-benz-eqe350-id39056065?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:47:57",
-      "odometer_km": 46079,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "EQE500 4MATIC Sedan2023 Mercedes-Benz",
       "vin": "W1KEG2CBXPF028413",
       "stock": "MB11815",
@@ -7709,19 +7215,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/eqs580/2022-mercedes-benz-eqs580-id39229074?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-14T00:02:31",
       "odometer_km": 43917,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "EQS580 SUV2023 Mercedes-Benz",
-      "vin": "4JGDM4EB9PA012042",
-      "stock": "MB72F00",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/e324e8a96c24.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/eqs580/2023-mercedes-benz-eqs580-id39080432",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/eqs580/2023-mercedes-benz-eqs580-id39080432?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:48:29",
-      "odometer_km": 25145,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -7859,19 +7352,6 @@
       "province": "BC"
     },
     {
-      "name": "G63 AMG SUV2024 Mercedes-Benz",
-      "vin": "W1NYC7HJ2RX498652",
-      "stock": "2764725",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/f6fc99eb1eb5.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/g63-amg/2024-mercedes-benz-g63-amg-id39229075",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/g63-amg/2024-mercedes-benz-g63-amg-id39229075?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:48:39",
-      "odometer_km": 20284,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "G63 AMG SUV2025 Mercedes-Benz",
       "vin": "W1NWH5AB0SX051050",
       "stock": "MB31705",
@@ -7962,19 +7442,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/gla250/2019-mercedes-benz-gla250-id39332954?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-14T00:04:46",
       "odometer_km": 38900,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "GLA250 4MATIC SUV2020 Mercedes-Benz",
-      "vin": "WDCTG4GB0LJ683138",
-      "stock": "2652831",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/42ee31a4fd5e.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/gla250/2020-mercedes-benz-gla250-id39136121",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/gla250/2020-mercedes-benz-gla250-id39136121?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-14T00:04:55",
-      "odometer_km": 77550,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -8092,6 +7559,19 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/glb250/2022-mercedes-benz-glb250-id39267885?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-14T00:05:37",
       "odometer_km": 44777,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GLB250 4MATIC SUV2023 Mercedes-Benz",
+      "vin": "W1N4M4HB6PW273950",
+      "stock": "MB71703",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/cf4d6cb11995.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/glb250/2023-mercedes-benz-glb250-id39274818",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/glb250/2023-mercedes-benz-glb250-id39274818?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-14T23:37:11",
+      "odometer_km": 36500,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -8306,6 +7786,19 @@
     },
     {
       "name": "GLC300 4MATIC SUV2022 Mercedes-Benz",
+      "vin": "W1N0G8EB8NV394340",
+      "stock": "26B3329",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/ad821325fa4e.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39254542",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39254542?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-14T23:37:21",
+      "odometer_km": 35150,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GLC300 4MATIC SUV2022 Mercedes-Benz",
       "vin": "W1N0G8EB1NV394163",
       "stock": "2665542",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/d3729b597782.html",
@@ -8370,6 +7863,19 @@
       "province": "BC"
     },
     {
+      "name": "GLC300 4MATIC SUV2022 Mercedes-Benz",
+      "vin": "W1N0G8EB0NV377094",
+      "stock": "MB61716",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/bb04afb39056.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39360579",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39360579?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-14T23:37:30",
+      "odometer_km": 60700,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "GLC300 4MATIC SUV2023 Mercedes-Benz",
       "vin": "W1NKM4HB7PF040179",
       "stock": "6T8452A",
@@ -8417,19 +7923,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/glc300/2023-mercedes-benz-glc300-id39314821?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T04:07:46",
       "odometer_km": 53837,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "GLC300 4MATIC SUV2024 Mercedes-Benz",
-      "vin": "W1NKM4HB7RF064551",
-      "stock": "MB71703",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/00cea6ed9dc3.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/glc300/2024-mercedes-benz-glc300-id39150651",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/glc300/2024-mercedes-benz-glc300-id39150651?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:50:50",
-      "odometer_km": 33650,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -8560,19 +8053,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/glc300/2026-mercedes-benz-glc300-id39281938?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T20:52:23",
       "odometer_km": 6267,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "GLC350e 4MATIC SUV2025 Mercedes-Benz",
-      "vin": "W1NKM5GB2SF337778",
-      "stock": "MB71703",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/960f5da9f780.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/glc350e/2025-mercedes-benz-glc350e-id39246579",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/glc350e/2025-mercedes-benz-glc350e-id39246579?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:52:34",
-      "odometer_km": 15500,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -8747,19 +8227,6 @@
       "province": "BC"
     },
     {
-      "name": "GLE350 4MATIC SUV2022 Mercedes-Benz",
-      "vin": "4JGFB4KB8NA750544",
-      "stock": "2665804",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/8b7343cee61e.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/gle350/2022-mercedes-benz-gle350-id39281943",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/gle350/2022-mercedes-benz-gle350-id39281943?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-14T00:10:08",
-      "odometer_km": 47020,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "GLE350 4MATIC SUV2024 Mercedes-Benz",
       "vin": "4JGFB4FB8RB025083",
       "stock": "MB71703",
@@ -8864,6 +8331,19 @@
       "province": "BC"
     },
     {
+      "name": "GLE350d 4MATIC2016 Mercedes-Benz",
+      "vin": "4JGDA2EB5GA808588",
+      "stock": "2652135",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/88b7489d399d.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/gle350d/2016-mercedes-benz-gle350d-id39354372",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/gle350d/2016-mercedes-benz-gle350d-id39354372?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-14T23:37:40",
+      "odometer_km": 192470,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "GLE400 4MATIC - no accidnets, winter and summer tires2016 Mercedes-Benz",
       "vin": "4JGDA5GB9GA668947",
       "stock": "LR26272",
@@ -8898,19 +8378,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/gle400/2018-mercedes-benz-gle400-id38931514?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-14T00:10:33",
       "odometer_km": 111042,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "GLE43 AMG 4MATIC SUV2018 Mercedes-Benz",
-      "vin": "4JGDA6EB3JB115480",
-      "stock": "6T7921A",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/39dac774149d.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/gle43-amg/2018-mercedes-benz-gle43-amg-id38706927",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/gle43-amg/2018-mercedes-benz-gle43-amg-id38706927?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-14T00:10:42",
-      "odometer_km": 74164,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -9020,45 +8487,6 @@
       "province": "BC"
     },
     {
-      "name": "GLE450 4MATIC SUV - Local, 1 owner, no major accidents2024 Mercedes-Benz",
-      "vin": "4JGFB5KB2RB261563",
-      "stock": "LR26225",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/aed78d60fe7c.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id38359007",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id38359007?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:55:04",
-      "odometer_km": 41410,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "GLE450 4MATIC SUV2024 Mercedes-Benz",
-      "vin": "4JGFB5KB2RB057166",
-      "stock": "MB61716",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/35ea1e349dea.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id39026462",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id39026462?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:55:13",
-      "odometer_km": 55722,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "GLE450 4MATIC SUV2024 Mercedes-Benz",
-      "vin": "4JGFB5KBXRB136648",
-      "stock": "2665694",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/d9c7fad78d19.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id39102280",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id39102280?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:55:22",
-      "odometer_km": 18408,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "GLE450 4MATIC SUV2024 Mercedes-Benz",
       "vin": "4JGFB5KB7RB182941",
       "stock": "MB71703",
@@ -9093,6 +8521,19 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/gle450/2025-mercedes-benz-gle450-id39184683?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T20:55:49",
       "odometer_km": 8297,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GLE450 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB5KB6TB532471",
+      "stock": "MB61716",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/206b2e80cc48.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/gle450/2026-mercedes-benz-gle450-id39360578",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/gle450/2026-mercedes-benz-gle450-id39360578?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-14T23:37:50",
+      "odometer_km": 10291,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -9293,32 +8734,6 @@
       "province": "BC"
     },
     {
-      "name": "GLS450 4MATIC SUV2024 Mercedes-Benz",
-      "vin": "4JGFF5KE7RB169606",
-      "stock": "2651322",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/96cea89554ff.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/gls450/2024-mercedes-benz-gls450-id39140472",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/gls450/2024-mercedes-benz-gls450-id39140472?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:57:12",
-      "odometer_km": 46650,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "GLS450 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFF5KE4TB506997",
-      "stock": "MB72E00",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/f26bcbc1f87e.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/gls450/2026-mercedes-benz-gls450-id38664501",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/gls450/2026-mercedes-benz-gls450-id38664501?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:57:22",
-      "odometer_km": 19050,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "GLS63 AMG 4MATIC+ SUV2021 Mercedes-Benz",
       "vin": "4JGFF8KE6MA281961",
       "stock": "2665192",
@@ -9425,6 +8840,21 @@
       "province": "BC"
     },
     {
+      "name": "SL550 Roadster2015 Mercedes-Benz",
+      "vin": "WDDJK7DA7FF036273",
+      "stock": "MB62F00",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/9ae27f1311b7.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/sl550/2015-mercedes-benz-sl550-id39360577",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/sl550/2015-mercedes-benz-sl550-id39360577?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-14T23:38:00",
+      "price": 57188.0,
+      "price_currency": "CAD",
+      "odometer_km": 58588,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "SL550 Roadster2018 Mercedes-Benz",
       "vin": "WDDJK7DA6JF053042",
       "stock": "MB71303",
@@ -9477,19 +8907,6 @@
       "province": "BC"
     },
     {
-      "name": "Sprinter 2500 Cargo 144 144 WB2021 Mercedes-Benz",
-      "vin": "W1Y4DBHY7MP354084",
-      "stock": "LBO4084",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/e5a8212edf95.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/sprinter-2500-cargo-144/2021-mercedes-benz-sprinter-2500-cargo-144-id39354461",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/sprinter-2500-cargo-144/2021-mercedes-benz-sprinter-2500-cargo-144-id39354461?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-14T00:13:42",
-      "odometer_km": 65000,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "Sprinter 2500 Crew Van 1702021 Mercedes-Benz",
       "vin": "W1W4DCHY1MP348716",
       "stock": "MB31705",
@@ -9498,19 +8915,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/sprinter-2500-crew-van-170/2021-mercedes-benz-sprinter-2500-crew-van-170-id39164110?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-14T00:13:51",
       "odometer_km": 83929,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Sprinter Cargo Van 2500 Standard Roof I4 Diesel 1442024 Mercedes-Benz",
-      "vin": "W1Y4KBHY3RP612744",
-      "stock": "2665870",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/a632e6ba7da2.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/sprinter-cargo-van/2024-mercedes-benz-sprinter-cargo-van-id39254556",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/mercedes-benz/sprinter-cargo-van/2024-mercedes-benz-sprinter-cargo-van-id39254556?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T20:57:59",
-      "odometer_km": 85789,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -9712,19 +9116,6 @@
     },
     {
       "name": "ARIYA EVOLVE+ e-4ORCE AWD2024 Nissan",
-      "vin": "JN1DF0CD7RM734917",
-      "stock": "N22F000",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/a7309910197b.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/ariya/2024-nissan-ariya-id39297738",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/ariya/2024-nissan-ariya-id39297738?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T22:01:43",
-      "odometer_km": 33332,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "ARIYA EVOLVE+ e-4ORCE AWD2024 Nissan",
       "vin": "JN1DF0BB3RM740097",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/68402d78b655.html",
       "source_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/ariya/2024-nissan-ariya-id39346652",
@@ -9757,19 +9148,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/juke/2017-nissan-juke-id39163882?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-14T00:14:49",
       "odometer_km": 98056,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Kicks SR CVT2019 Nissan",
-      "vin": "3N1CP5CU5KL496457",
-      "stock": "A22E003",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/5da980df5993.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/kicks/2019-nissan-kicks-id39354823",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/kicks/2019-nissan-kicks-id39354823?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-14T00:14:59",
-      "odometer_km": 58891,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -9874,19 +9252,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/leaf/2023-nissan-leaf-id39006056?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T21:00:24",
       "odometer_km": 24887,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Leaf Plus SL2023 Nissan",
-      "vin": "1N4CZ1DV5PC556429",
-      "stock": "N226104",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/8586443144ca.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/leaf/2023-nissan-leaf-id39228362",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/leaf/2023-nissan-leaf-id39228362?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:00:35",
-      "odometer_km": 16296,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -10073,19 +9438,6 @@
       "province": "BC"
     },
     {
-      "name": "Qashqai SV AWD CVT2023 Nissan",
-      "vin": "JN1BJ1BW1PW101314",
-      "stock": "N226102",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/4991ec37e1f5.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/qashqai/2023-nissan-qashqai-id39191360",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/qashqai/2023-nissan-qashqai-id39191360?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:02:28",
-      "odometer_km": 32953,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "Rogue SV2015 Nissan",
       "vin": "5N1AT2MV7FC836274",
       "stock": "N226102",
@@ -10220,19 +9572,6 @@
       "province": "BC"
     },
     {
-      "name": "Rogue Platinum CVT (2)2023 Nissan",
-      "vin": "JN8BT3DD5PW321719",
-      "stock": "N214035",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/749c24c10ab0.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/rogue/2023-nissan-rogue-id39281909",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/rogue/2023-nissan-rogue-id39281909?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:03:19",
-      "odometer_km": 47937,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "Rogue AWD SV Moonroof2024 Nissan",
       "vin": "JN8BT3BB9RW176219",
       "stock": "A12E002",
@@ -10241,19 +9580,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/rogue/2024-nissan-rogue-id39034542?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T21:03:29",
       "odometer_km": 24681,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Rogue AWD SL2024 Nissan",
-      "vin": "JN8BT3CB1RW281867",
-      "stock": "N212034",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/99c8d53b79fd.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/rogue/2024-nissan-rogue-id39116844",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/rogue/2024-nissan-rogue-id39116844?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:03:38",
-      "odometer_km": 13289,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -10311,6 +9637,19 @@
       "province": "BC"
     },
     {
+      "name": "Rogue AWD S2025 Nissan",
+      "vin": "JN8BT3AB5SW156251",
+      "stock": "N214035",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/3d8fdd8cfff7.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/rogue/2025-nissan-rogue-id39360576",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/rogue/2025-nissan-rogue-id39360576?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-14T23:38:09",
+      "odometer_km": 24477,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "Sentra SR2021 Nissan",
       "vin": "3N1AB8DV8MY224344",
       "stock": "A250305",
@@ -10358,19 +9697,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/sentra/2024-nissan-sentra-id39260688?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T21:04:35",
       "odometer_km": 58331,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Sentra S Plus CVT2024 Nissan",
-      "vin": "3N1AB8BVXRY342115",
-      "stock": "N212035",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/913d49185eab.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/sentra/2024-nissan-sentra-id39260691",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/nissan/sentra/2024-nissan-sentra-id39260691?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:04:45",
-      "odometer_km": 6096,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -10571,19 +9897,6 @@
       "province": "BC"
     },
     {
-      "name": "Cayenne S AWD2025 Porsche",
-      "vin": "WP1AL2AY8SDA19658",
-      "stock": "2652930",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/dfd7a00363f9.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/porsche/cayenne/2025-porsche-cayenne-id39102213",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/porsche/cayenne/2025-porsche-cayenne-id39102213?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:06:14",
-      "odometer_km": 7889,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "Macan S2018 Porsche",
       "vin": "WP1AB2A51JLB35412",
       "stock": "LR26163",
@@ -10714,19 +10027,6 @@
       "province": "BC"
     },
     {
-      "name": "Taycan 4S2022 Porsche",
-      "vin": "WP0AB2Y13NSA43821",
-      "stock": "A12C016",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/f441fe2f44b3.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/porsche/taycan/2022-porsche-taycan-id39061087",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/porsche/taycan/2022-porsche-taycan-id39061087?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:06:55",
-      "odometer_km": 17758,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "1500 Limited2023 Ram",
       "vin": "1C6SRFHT7PN691709",
       "stock": "S12E000",
@@ -10748,19 +10048,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ram/1500/2024-ram-1500-id38860952?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T21:07:15",
       "odometer_km": 48266,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "2500 Big Horn 4x4 Crew Cab 6'4 Box2024 Ram",
-      "vin": "3C6UR5DL0RG408474",
-      "stock": "A12F000",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/53c69556ce7c.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/ram/2500/2024-ram-2500-id39012746",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/ram/2500/2024-ram-2500-id39012746?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:07:23",
-      "odometer_km": 31792,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -10963,27 +10250,14 @@
       "province": "BC"
     },
     {
-      "name": "Crosstrek Wilderness CVT2024 Subaru",
-      "vin": "4S4GUHU66R3777418",
-      "stock": "S12C002",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/3b0e49bb5774.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38599309",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38599309?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:08:33",
-      "odometer_km": 5243,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Crosstrek Limited CVT2024 Subaru",
-      "vin": "JF2GUHNC1RH265188",
-      "stock": "S260772",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b35cbad77e93.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38620392",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38620392?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:08:41",
-      "odometer_km": 62357,
+      "name": "Crosstrek Outdoor CVT2021 Subaru",
+      "vin": "JF2GTHSC0MH345629",
+      "stock": "S113023",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b1d7f5a47a30.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/subaru/crosstrek/2021-subaru-crosstrek-id39360585",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/subaru/crosstrek/2021-subaru-crosstrek-id39360585?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-14T23:38:19",
+      "odometer_km": 62686,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -10997,19 +10271,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38706709?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T21:08:55",
       "odometer_km": 20634,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Crosstrek Limited CVT2024 Subaru",
-      "vin": "JF2GUHNC7RH245284",
-      "stock": "S260872",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/70326c7073f2.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38835051",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38835051?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:09:04",
-      "odometer_km": 40322,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -11535,19 +10796,6 @@
       "province": "BC"
     },
     {
-      "name": "Crosstrek Touring CVT2026 Subaru",
-      "vin": "JF2GUHDC7T8233810",
-      "stock": "S115017",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/39783f72343f.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/subaru/crosstrek/2026-subaru-crosstrek-id39281947",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/subaru/crosstrek/2026-subaru-crosstrek-id39281947?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:15:47",
-      "odometer_km": 24785,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "Forester 2.5i Touring at2015 Subaru",
       "vin": "JF2SJCHCXFH800693",
       "stock": "S260828",
@@ -11584,6 +10832,19 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/subaru/forester/2020-subaru-forester-id39140310?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-14T00:21:22",
       "odometer_km": 136873,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Forester Convenience CVT2021 Subaru",
+      "vin": "JF2SKEFC7MH550581",
+      "stock": "S261371",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/d06b5b1fce9a.html",
+      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/subaru/forester/2021-subaru-forester-id39354450",
+      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/subaru/forester/2021-subaru-forester-id39354450?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-14T23:38:27",
+      "odometer_km": 55015,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -12006,19 +11267,6 @@
     },
     {
       "name": "Forester Touring 2.5L CVT2026 Subaru",
-      "vin": "JF2SLDDC6TH462078",
-      "stock": "S115017",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/6cf5c030f9c5.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/subaru/forester/2026-subaru-forester-id39302957",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/subaru/forester/2026-subaru-forester-id39302957?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:21:02",
-      "odometer_km": 4229,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Forester Touring 2.5L CVT2026 Subaru",
       "vin": "JF2SLDDC9TH462656",
       "stock": "S115017",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/e19c8361a45f.html",
@@ -12130,19 +11378,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/subaru/impreza/2026-subaru-impreza-id39164065?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T21:22:29",
       "odometer_km": 16228,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Legacy GT CVT2024 Subaru",
-      "vin": "4S3BWHH66R3005441",
-      "stock": "S260859",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/52ce48ee6270.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/subaru/legacy/2024-subaru-legacy-id38860972",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/subaru/legacy/2024-subaru-legacy-id38860972?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:22:40",
-      "odometer_km": 51914,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -12332,19 +11567,6 @@
       "province": "BC"
     },
     {
-      "name": "WRX 4Dr 6sp2020 Subaru",
-      "vin": "JF1VA2Y66L9801576",
-      "stock": "A113013",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/8dcacc8f0cff.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/subaru/wrx/2020-subaru-wrx-id39302934",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/subaru/wrx/2020-subaru-wrx-id39302934?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:24:07",
-      "odometer_km": 45884,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "WRX 4Dr Sport 6sp2023 Subaru",
       "vin": "JF1VBAF68P9804463",
       "stock": "S260758",
@@ -12353,19 +11575,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/subaru/wrx/2023-subaru-wrx-id39346650?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-13T17:22:17",
       "odometer_km": 30728,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "WRX Sport2024 Subaru",
-      "vin": "JF1VBAH64R9812382",
-      "stock": "G116006",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b680e185e8e0.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/subaru/wrx/2024-subaru-wrx-id39049291",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/subaru/wrx/2024-subaru-wrx-id39049291?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:24:17",
-      "odometer_km": 20176,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -12444,19 +11653,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/tesla/model-3/2022-tesla-model-3-id39308955?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-14T00:22:58",
       "odometer_km": 60807,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Model 3 Long Range AWD2025 Tesla",
-      "vin": "5YJ3E1EB1SF922604",
-      "stock": "A22F003",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/282124364b8d.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/tesla/model-3/2025-tesla-model-3-id39228954",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/tesla/model-3/2025-tesla-model-3-id39228954?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:25:07",
-      "odometer_km": 10092,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -12592,19 +11788,6 @@
       "province": "BC"
     },
     {
-      "name": "Camry Hybrid SE2023 Toyota",
-      "vin": "4T1B21HK8PU019683",
-      "stock": "2550396",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/611476f3cbb0.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/camry-hybrid/2023-toyota-camry-hybrid-id39274860",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/camry-hybrid/2023-toyota-camry-hybrid-id39274860?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:26:04",
-      "odometer_km": 129601,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "Camry 4-Door Sedan LE 8A2020 Toyota",
       "vin": "4T1G11AK0LU989315",
       "stock": "2652817",
@@ -12613,19 +11796,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/camry/2020-toyota-camry-id39281927?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-14T00:23:38",
       "odometer_km": 173690,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Camry SE2024 Toyota",
-      "vin": "4T1G11AK6RU241032",
-      "stock": "H116985",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/31b7b378aff9.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/camry/2024-toyota-camry-id38860559",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/camry/2024-toyota-camry-id38860559?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:26:15",
-      "odometer_km": 41652,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -12776,32 +11946,6 @@
       "province": "BC"
     },
     {
-      "name": "Crown Limited2023 Toyota",
-      "vin": "JTDAAAAF5P3012731",
-      "stock": "MB61716",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b944e930cb67.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/crown/2023-toyota-crown-id39281940",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/crown/2023-toyota-crown-id39281940?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:26:55",
-      "odometer_km": 37130,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "GR Supra 3.0L2020 Toyota",
-      "vin": "WZ1DB4C07LW023891",
-      "stock": "A12C017",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/84eb7c43c94b.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/gr-supra/2020-toyota-gr-supra-id39289986",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/gr-supra/2020-toyota-gr-supra-id39289986?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T17:06:37",
-      "odometer_km": 15929,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "GR Supra 3.0 Premium2022 Toyota",
       "vin": "WZ1DB0C01NW051259",
       "stock": "S12F000",
@@ -12810,32 +11954,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/gr-supra/2022-toyota-gr-supra-id39108527?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-14T00:25:02",
       "odometer_km": 50204,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Highlander Hybrid XLE AWD2023 Toyota",
-      "vin": "5TDABRCH9PS566007",
-      "stock": "H117987",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/c5622015a4ec.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/highlander-hybrid/2023-toyota-highlander-hybrid-id39289814",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/highlander-hybrid/2023-toyota-highlander-hybrid-id39289814?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T04:08:08",
-      "odometer_km": 50931,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Highlander Hybrid XLE AWD2024 Toyota",
-      "vin": "5TDKBRCH0RS140505",
-      "stock": "MB61216",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/812b47513878.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/highlander-hybrid/2024-toyota-highlander-hybrid-id39281924",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/highlander-hybrid/2024-toyota-highlander-hybrid-id39281924?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:27:06",
-      "odometer_km": 72419,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -12936,19 +12054,6 @@
       "province": "BC"
     },
     {
-      "name": "Prius Plug-in Hybrid SE2024 Toyota",
-      "vin": "JTDACACU7R3013551",
-      "stock": "H22C000",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/a7b023e103eb.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/prius-plug-in-hybrid/2024-toyota-prius-plug-in-hybrid-id39184515",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/prius-plug-in-hybrid/2024-toyota-prius-plug-in-hybrid-id39184515?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:27:45",
-      "odometer_km": 51539,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "Prius Prime SE2023 Toyota",
       "vin": "JTDACACUXP3009426",
       "stock": "2665391",
@@ -12957,32 +12062,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/prius-prime/2023-toyota-prius-prime-id39274862?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T21:27:54",
       "odometer_km": 84801,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Prius Prime XSE2024 Toyota",
-      "vin": "JTDACACUXR3030506",
-      "stock": "A215010",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/f7e9cf0aad79.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/prius-prime/2024-toyota-prius-prime-id39116712",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/prius-prime/2024-toyota-prius-prime-id39116712?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:28:05",
-      "odometer_km": 48154,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Prius AWD-e2021 Toyota",
-      "vin": "JTDL9MFU0M3029569",
-      "stock": "S116010",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/4588405ea33b.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/prius/2021-toyota-prius-id39080480",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/prius/2021-toyota-prius-id39080480?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-14T00:25:54",
-      "odometer_km": 65359,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -13077,19 +12156,6 @@
       "province": "BC"
     },
     {
-      "name": "Sienna Hybrid Sienna XSE AWD 7-Pass2025 Toyota",
-      "vin": "5TDGSKFC3SS214177",
-      "stock": "H12E000",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/3d58627d9c94.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/sienna-hybrid/2025-toyota-sienna-hybrid-id38507967",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/sienna-hybrid/2025-toyota-sienna-hybrid-id38507967?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:29:12",
-      "odometer_km": 19500,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "Sienna Hybrid XSE 7-Pass2025 Toyota",
       "vin": "5TDGRKEC2SS264212",
       "stock": "A215010",
@@ -13098,19 +12164,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/sienna-hybrid/2025-toyota-sienna-hybrid-id39200024?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-07T21:29:20",
       "odometer_km": 25883,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Sienna Hybrid2025 Toyota",
-      "vin": "5TDGSKFC3SS203387",
-      "stock": "2665793",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/cad437ee507d.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/sienna-hybrid/2025-toyota-sienna-hybrid-id39281858",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/sienna-hybrid/2025-toyota-sienna-hybrid-id39281858?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:29:29",
-      "odometer_km": 11267,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -13150,32 +12203,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/sienna/2017-toyota-sienna-id39354863?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-14T00:26:13",
       "odometer_km": 76900,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Tacoma 4X4 Double Cab 6A2023 Toyota",
-      "vin": "3TYDZ5BN8PT033854",
-      "stock": "A12C015",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/58b24b9ce419.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/tacoma-4x4/2023-toyota-tacoma-4x4-id39264297",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/tacoma-4x4/2023-toyota-tacoma-4x4-id39264297?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:29:50",
-      "odometer_km": 32628,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Tacoma 4X4 Double Cab 6A SB2023 Toyota",
-      "vin": "3TYCZ5AN1PT125594",
-      "stock": "MB12A00",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/f480fb136778.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/tacoma-4x4/2023-toyota-tacoma-4x4-id39325623",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/tacoma-4x4/2023-toyota-tacoma-4x4-id39325623?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T23:19:43",
-      "odometer_km": 21488,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -13259,19 +12286,6 @@
       "province": "BC"
     },
     {
-      "name": "Tundra 4X4 Double Cab Limited TRD Off Road 6.5-ft Bed2024 Toyota",
-      "vin": "5TFJA5DA0RX143875",
-      "stock": "A216019",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/98851225b0bb.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/tundra/2024-toyota-tundra-id38818036",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/toyota/tundra/2024-toyota-tundra-id38818036?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:34:58",
-      "odometer_km": 47339,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "Atlas Cross Sport Execline 3.6L 8sp at w/Tip 4MOTION2020 Volkswagen",
       "vin": "1V2TE2CA1LC210560",
       "stock": "N116483",
@@ -13350,19 +12364,6 @@
       "province": "BC"
     },
     {
-      "name": "GTI Autobahn 7Sp at DSG w/Tip2022 Volkswagen",
-      "vin": "WVWR87CD0NW217799",
-      "stock": "A12C017",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/dfae8e6c947a.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/volkswagen/gti/2022-volkswagen-gti-id39222576",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/volkswagen/gti/2022-volkswagen-gti-id39222576?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:35:37",
-      "odometer_km": 37825,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "Jetta Wolfsburg Edition 1.4T 6sp at w/Tip2017 Volkswagen",
       "vin": "3VWDB7AJ3HM376290",
       "stock": "26413A",
@@ -13397,32 +12398,6 @@
       "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/volkswagen/jetta/2021-volkswagen-jetta-id39245406?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-14T00:27:25",
       "odometer_km": 150850,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Jetta Comfortline w/Sport Package2025 Volkswagen",
-      "vin": "3VWSX7BU8SM089987",
-      "stock": "A215010",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/710ac332e5dd.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/volkswagen/jetta/2025-volkswagen-jetta-id38999832",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/volkswagen/jetta/2025-volkswagen-jetta-id38999832?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:35:46",
-      "odometer_km": 29017,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Taos Comfortline Black Edition2025 Volkswagen",
-      "vin": "3VV2C7B28SM042246",
-      "stock": "G115005",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/c4b454a441a8.html",
-      "source_url": "https://www.acuraoflangley.ca/en/used-inventory/volkswagen/taos/2025-volkswagen-taos-id39171150",
-      "dealer_url": "https://www.acuraoflangley.ca/en/used-inventory/volkswagen/taos/2025-volkswagen-taos-id39171150?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-07T21:35:56",
-      "odometer_km": 37364,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
