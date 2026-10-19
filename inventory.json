@@ -1,7 +1,7 @@
 {
   "dealership": "Acura Of Langley",
-  "generated_at": "2026-10-18T22:10:49",
-  "vehicle_count": 1075,
+  "generated_at": "2026-10-18T23:06:58",
+  "vehicle_count": 1074,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -12521,10 +12521,10 @@
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H76TM100784",
       "stock": "A260071",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/e657d1247476.html",
-      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38348435",
-      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38348435?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T21:11:39",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/d25886da0ac6.html",
+      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38348435?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
+      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38348435?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T23:03:04",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -12611,8 +12611,8 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/0646d923e61d.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403612",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403612?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:56:34",
-      "odometer_km": 2609,
+      "last_verified": "2026-10-18T23:03:18",
+      "odometer_km": 3111,
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -12624,7 +12624,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/e4ff8f3d380b.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403662",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403662?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:56:51",
+      "last_verified": "2026-10-18T23:03:31",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -12636,7 +12636,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/ab293b531e13.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403664",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38403664?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:57:07",
+      "last_verified": "2026-10-18T23:03:46",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -12648,7 +12648,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/e599c383ae58.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38487515",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38487515?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:57:24",
+      "last_verified": "2026-10-18T23:04:02",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -12660,7 +12660,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/a0597e030059.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38487519",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38487519?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:57:39",
+      "last_verified": "2026-10-18T23:04:17",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -12672,7 +12672,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/546a1d17f076.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38495065",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38495065?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:57:54",
+      "last_verified": "2026-10-18T23:04:33",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -12684,7 +12684,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/ca5eef07718e.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38495066",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38495066?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:58:09",
+      "last_verified": "2026-10-18T23:04:48",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -12696,7 +12696,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/4095072c9bf6.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38508737",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38508737?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:58:25",
+      "last_verified": "2026-10-18T23:05:02",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -12708,7 +12708,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/d9876a155716.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38541210",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38541210?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:58:40",
+      "last_verified": "2026-10-18T23:05:16",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -12720,7 +12720,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/66303769ecc2.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38570363",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38570363?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-08T14:58:57",
+      "last_verified": "2026-10-18T23:05:33",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -12732,7 +12732,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/1655b8c172a3.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38579376",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38579376?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T15:16:49",
+      "last_verified": "2026-10-18T23:05:47",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -12744,7 +12744,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/ec8c7aaad1c6.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38579377",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38579377?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T15:17:10",
+      "last_verified": "2026-10-18T23:06:03",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -12756,7 +12756,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/cfed897797b7.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38605753",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38605753?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T15:17:31",
+      "last_verified": "2026-10-18T23:06:17",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -12768,7 +12768,7 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/e39ed3ffa036.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38613355",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38613355?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T15:17:50",
+      "last_verified": "2026-10-18T23:06:31",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -12780,8 +12780,8 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/bbc30ddc226b.html",
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38685369",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/adx/2026-acura-adx-id38685369?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T15:18:07",
-      "odometer_km": 3844,
+      "last_verified": "2026-10-18T23:06:47",
+      "odometer_km": 4536,
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -13384,18 +13384,6 @@
       "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734811?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
       "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734811?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-16T15:56:11",
-      "condition": "new",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Integra A-Spec CVT2026 Acura",
-      "vin": "19UDE4H32TA800646",
-      "stock": "A260135",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/54b1f2a82877.html",
-      "source_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734812?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000",
-      "dealer_url": "https://www.acuraoflangley.ca/en/new-inventory/acura/integra/2026-acura-integra-id38734812?paymentOptionTerm=60&paymentOptionKmPerYearPlan=20000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T15:56:24",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
