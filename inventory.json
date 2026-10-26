@@ -1,7 +1,7 @@
 {
   "dealership": "Acura Of Langley",
-  "generated_at": "2026-10-25T21:06:37",
-  "vehicle_count": 1099,
+  "generated_at": "2026-10-26T01:18:43",
+  "vehicle_count": 1098,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -6478,12 +6478,6 @@
       "name": "MDX Type S Ultra2026 Acura",
       "vin": "5J8YD8H89TL800218",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/4b7bd53b8b53.html",
-      "condition": "new"
-    },
-    {
-      "name": "MDX Platinum Elite2026 Acura",
-      "vin": "5J8YE1H94TL803301",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/7c5b4f043381.html",
       "condition": "new"
     },
     {
