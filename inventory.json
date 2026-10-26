@@ -1,7 +1,7 @@
 {
   "dealership": "Acura Of Langley",
-  "generated_at": "2026-10-25T15:48:11",
-  "vehicle_count": 1109,
+  "generated_at": "2026-10-25T21:06:37",
+  "vehicle_count": 1099,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -284,12 +284,6 @@
       "condition": "used"
     },
     {
-      "name": "New SQ5 Technik 3.0 TFSI quattro2025 Audi",
-      "vin": "WA135AGU5S2021876",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/febd335e3fb9.html",
-      "condition": "used"
-    },
-    {
       "name": "Q3 2.0T Progressiv2015 Audi",
       "vin": "WA1EFEFS7FR001722",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/63ea820f47e0.html",
@@ -322,12 +316,6 @@
       "condition": "used"
     },
     {
-      "name": "Q5 Progressiv2018 Audi",
-      "vin": "WA1ENAFY2J2035455",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/f9550a1f91d2.html",
-      "condition": "used"
-    },
-    {
       "name": "Q5 55 2.0T Prog e qtro 7sp S Trnc2020 Audi",
       "vin": "WA1G2AFY6L2043384",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/93576b8eae29.html",
@@ -343,6 +331,12 @@
       "name": "Q6 e-tron Progressiv quattro2025 Audi",
       "vin": "WA154BGF1SA007658",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/0791d40cd248.html",
+      "condition": "used"
+    },
+    {
+      "name": "Q7 3.0T Technik quattro 8sp Tiptronic2017 Audi",
+      "vin": "WA1WABF73HD025173",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/7fa8eb96d07f.html",
       "condition": "used"
     },
     {
@@ -810,12 +804,6 @@
       "condition": "used"
     },
     {
-      "name": "Corvette 3LT w/ Z51 Perf Pkg2025 Chevrolet",
-      "vin": "1G1YC3D41S5109218",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/d5bf3150c46d.html",
-      "condition": "used"
-    },
-    {
       "name": "Corvette Z06 Convertible 1LZ2026 Chevrolet",
       "vin": "1G1YD2D36T5602022",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/07c81208f2bc.html",
@@ -918,12 +906,6 @@
       "condition": "used"
     },
     {
-      "name": "Challenger SRT Hellcat2023 Dodge",
-      "vin": "2C3CDZC99PH691667",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/d5d7cc01b905.html",
-      "condition": "used"
-    },
-    {
       "name": "Charger GT AWD2018 Dodge",
       "vin": "2C3CDXJG6JH225756",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/3e980778ca2a.html",
@@ -1014,12 +996,6 @@
       "condition": "used"
     },
     {
-      "name": "Escape SE - 4WD2017 Ford",
-      "vin": "1FMCU9G9XHUC29716",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/369361c910cb.html",
-      "condition": "used"
-    },
-    {
       "name": "Expedition Platinum Max2022 Ford",
       "vin": "1FMJK1MT5NEA09839",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/74849241cd02.html",
@@ -1059,12 +1035,6 @@
       "name": "F-150 4x4 SuperCrew Tremor - 145'' WB2023 Ford",
       "vin": "1FTEW1E84PFB92751",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/3c5a3b2838c4.html",
-      "condition": "used"
-    },
-    {
-      "name": "F-150 4x4 - SuperCrew LARIAT - 145 WB2023 Ford",
-      "vin": "1FTEW1EP8PKF17867",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/c2824e79538f.html",
       "condition": "used"
     },
     {
@@ -1252,21 +1222,9 @@
       "condition": "used"
     },
     {
-      "name": "HUMMER EV Pickup e4WD Crew Cab 3X2024 GMC",
-      "vin": "1GT40DDA5RU107188",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/914691eaf4fa.html",
-      "condition": "used"
-    },
-    {
       "name": "HUMMER EV SUV e4WD 4dr 3X2024 GMC",
       "vin": "1GKB0RDC1RU103181",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/5e044efaa4a6.html",
-      "condition": "used"
-    },
-    {
-      "name": "New Sierra 1500 Crew Cab 4x4 At4 Standard Box2022 GMC",
-      "vin": "3GTUUEET3NG620656",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b191e17c4e45.html",
       "condition": "used"
     },
     {
@@ -1412,12 +1370,6 @@
       "condition": "used"
     },
     {
-      "name": "Civic Sedan LX CVT2023 Honda",
-      "vin": "2HGFE2F29PH106809",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/6d5efec66246.html",
-      "condition": "used"
-    },
-    {
       "name": "Civic Hatchback LX CVT2023 Honda",
       "vin": "19XFL2H50PE400123",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b80a022a33f5.html",
@@ -1514,18 +1466,16 @@
       "condition": "used"
     },
     {
+      "name": "CR-V Hybrid EX-L AWD2025 Honda",
+      "vin": "2HKRS6H79SH200144",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/a0bfd7d93efc.html",
+      "condition": "used"
+    },
+    {
       "name": "CR-V Hybrid EX-L AWD2026 Honda",
       "vin": "2HKRS6H78TH208513",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/3de58701c688.html",
       "condition": "used"
-    },
-    {
-      "name": "CR-V EX-L AWD2014 Honda",
-      "vin": "2HKRM4H7XEH131130",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/8bff1ae3e6af.html",
-      "condition": "used",
-      "price": 18995.0,
-      "price_currency": "CAD"
     },
     {
       "name": "CR-V EX AWD2014 Honda",
@@ -1542,6 +1492,12 @@
       "condition": "used",
       "price": 14199.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "CR-V LX AWD2018 Honda",
+      "vin": "2HKRW2H26JH127878",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/c2a748b0112a.html",
+      "condition": "used"
     },
     {
       "name": "CR-V LX AWD CVT2019 Honda",
@@ -1573,6 +1529,12 @@
       "condition": "used",
       "price": 10995.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "HR-V EX-L Navi 4WD CVT2023 Honda",
+      "vin": "3CZRZ2H73PM101433",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/af42f66be64b.html",
+      "condition": "used"
     },
     {
       "name": "HR-V LX-B AWD CVT2024 Honda",
@@ -1716,12 +1678,6 @@
       "name": "Ridgeline Touring2019 Honda",
       "vin": "5FPYK3F74KB506171",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/ee875648f1a1.html",
-      "condition": "used"
-    },
-    {
-      "name": "Ridgeline Touring2019 Honda",
-      "vin": "5FPYK3F73KB501205",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/de35d39a0f47.html",
       "condition": "used"
     },
     {
@@ -2057,14 +2013,6 @@
       "vin": "1C4JJXFM9MW835165",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/0b1b0f2f4472.html",
       "condition": "used"
-    },
-    {
-      "name": "Wrangler Rubicon 2D Utility 4WD2012 Jeep",
-      "vin": "1C4GJWBG9CL180042",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/4be8eedf0fe4.html",
-      "condition": "used",
-      "price": 15887.0,
-      "price_currency": "CAD"
     },
     {
       "name": "Wrangler JL Unlimited Sport2020 Jeep",
@@ -2667,12 +2615,6 @@
       "condition": "used"
     },
     {
-      "name": "GX 5502025 Lexus",
-      "vin": "JTJVBCDX8S5050673",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/7d1d5c3c852f.html",
-      "condition": "used"
-    },
-    {
       "name": "IS 300 AWD2024 Lexus",
       "vin": "JTHC81F28R5054018",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/79cd95fb78d3.html",
@@ -2851,12 +2793,6 @@
       "condition": "used"
     },
     {
-      "name": "3 Sport GT2020 Mazda",
-      "vin": "JM1BPBMM8L1169274",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/1348db2d18f0.html",
-      "condition": "used"
-    },
-    {
       "name": "3 GS 5sp2005 Mazda",
       "vin": "JM1BK12F551315016",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b2d4301d09cc.html",
@@ -2930,6 +2866,12 @@
       "name": "B-Class B 2502018 Mercedes-Benz",
       "vin": "WDDMH4GB7JJ476370",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/90088a94e0ed.html",
+      "condition": "used"
+    },
+    {
+      "name": "B250 4MATIC Sports Tourer2018 Mercedes-Benz",
+      "vin": "WDDMH4GB5JJ472169",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/f7d829135fe6.html",
       "condition": "used"
     },
     {
@@ -3035,9 +2977,9 @@
       "condition": "used"
     },
     {
-      "name": "CLA250 4MATIC Coupe2025 Mercedes-Benz",
-      "vin": "W1K5J4HB0SN520873",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/2c00bc1d92c6.html",
+      "name": "CLA250 4MATIC Coupe2018 Mercedes-Benz",
+      "vin": "WDDSJ4GB5JN518703",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/76357140e6e5.html",
       "condition": "used"
     },
     {
@@ -3200,6 +3142,12 @@
     },
     {
       "name": "EQB300 4MATIC SUV2025 Mercedes-Benz",
+      "vin": "W1N9M0KB1SN129132",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/e1df3794389b.html",
+      "condition": "used"
+    },
+    {
+      "name": "EQB300 4MATIC SUV2025 Mercedes-Benz",
       "vin": "W1N9M0KB5SN130283",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/2ffbf796f22b.html",
       "condition": "used"
@@ -3220,12 +3168,6 @@
       "name": "EQE500 4MATIC Sedan2023 Mercedes-Benz",
       "vin": "W1KEG2CBXPF028413",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b3d23282a4dc.html",
-      "condition": "used"
-    },
-    {
-      "name": "EQS580 4MATIC Sedan2022 Mercedes-Benz",
-      "vin": "W1KCG4EB2NA012801",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/8f13ea1a3721.html",
       "condition": "used"
     },
     {
@@ -3673,6 +3615,12 @@
       "condition": "used"
     },
     {
+      "name": "GLC350e 4MATIC SUV2025 Mercedes-Benz",
+      "vin": "W1NKM5GB9SF419815",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/1ebcbe28f77b.html",
+      "condition": "used"
+    },
+    {
       "name": "GLC43 AMG 4MATIC SUV2017 Mercedes-Benz",
       "vin": "WDC0G6EB6HV003583",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/11defd6f3030.html",
@@ -4111,12 +4059,6 @@
       "condition": "used"
     },
     {
-      "name": "Sprinter Cargo Van 2500 High Roof I4 Diesel 1702025 Mercedes-Benz",
-      "vin": "W1Y4KCHY0SP795645",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/39dd50ea6cde.html",
-      "condition": "used"
-    },
-    {
       "name": "Sprinter Gas 2500 Cargo 1702022 Mercedes-Benz",
       "vin": "W1Y40CHY7NT105181",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/9647df7c87b9.html",
@@ -4180,20 +4122,6 @@
       "name": "Outlander ES S-AWC2024 Mitsubishi",
       "vin": "JA4J4UA89RZ612172",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/059225730459.html",
-      "condition": "used"
-    },
-    {
-      "name": "Altima Sedan 2.5 S CVT2015 Nissan",
-      "vin": "1N4AL3AP7FN374289",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/08a775e83310.html",
-      "condition": "used",
-      "price": 9888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Ariya Premiere e-4orce2023 Nissan",
-      "vin": "JN1DF0CD5PM704103",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/24afcdc5e3c0.html",
       "condition": "used"
     },
     {
@@ -4359,21 +4287,9 @@
       "condition": "used"
     },
     {
-      "name": "Pathfinder Platinum 4WD2024 Nissan",
-      "vin": "5N1DR3DF8RC270771",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/c08fed7919f1.html",
-      "condition": "used"
-    },
-    {
       "name": "Qashqai SV AWD CVT2018 Nissan",
       "vin": "JN1BJ1CR5JW258005",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/6113cda64d01.html",
-      "condition": "used"
-    },
-    {
-      "name": "Qashqai SV2021 Nissan",
-      "vin": "JN1BJ1BW9MW446781",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b165df23086d.html",
       "condition": "used"
     },
     {
@@ -4388,14 +4304,6 @@
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/bd599a4a79d2.html",
       "condition": "used",
       "price": 10995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Rogue SL AWD CVT2015 Nissan",
-      "vin": "5N1AT2MV9FC818696",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/669f8d65b0a0.html",
-      "condition": "used",
-      "price": 13999.0,
       "price_currency": "CAD"
     },
     {
@@ -4765,6 +4673,12 @@
       "condition": "used"
     },
     {
+      "name": "Ascent Limited2022 Subaru",
+      "vin": "4S4WMALD9N3401521",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/b881f27cc1c2.html",
+      "condition": "used"
+    },
+    {
       "name": "Ascent Premier2023 Subaru",
       "vin": "4S4WMAWD1P3456883",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/8c61dd1edc80.html",
@@ -4822,12 +4736,6 @@
       "name": "Crosstrek Onyx CVT2024 Subaru",
       "vin": "JF2GUHFC1RH261477",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/a857cdde6fe6.html",
-      "condition": "used"
-    },
-    {
-      "name": "Crosstrek Convenience CVT2024 Subaru",
-      "vin": "JF2GUABC4RH252298",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/28d4e44222d3.html",
       "condition": "used"
     },
     {
@@ -4963,12 +4871,6 @@
       "condition": "used"
     },
     {
-      "name": "Crosstrek Convenience CVT2026 Subaru",
-      "vin": "JF2GUHBC3T8226226",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/9d5fbc11801c.html",
-      "condition": "used"
-    },
-    {
       "name": "Crosstrek Touring CVT2026 Subaru",
       "vin": "JF2GUHDC3T8234890",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/e3c20081fd36.html",
@@ -5067,6 +4969,12 @@
       "condition": "used"
     },
     {
+      "name": "Forester Premier 2.5L CVT2025 Subaru",
+      "vin": "JF2SLDTC0SH566517",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/d16db0f67ec4.html",
+      "condition": "used"
+    },
+    {
       "name": "Forester Touring 2.5L CVT2026 Subaru",
       "vin": "JF2SLDDC1TH460612",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/9e9627c2af2a.html",
@@ -5124,6 +5032,12 @@
       "name": "Forester Touring 2.5L CVT2026 Subaru",
       "vin": "JF2SLDDC2TH461476",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/813e39fc0c42.html",
+      "condition": "used"
+    },
+    {
+      "name": "Forester Touring 2.5L CVT2026 Subaru",
+      "vin": "JF2SLDDC1TH462165",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/a4eaf2419915.html",
       "condition": "used"
     },
     {
@@ -5229,6 +5143,12 @@
       "condition": "used"
     },
     {
+      "name": "Impreza RS AWD2024 Subaru",
+      "vin": "JF1GUHJC0R8266343",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/e90a3145a16e.html",
+      "condition": "used"
+    },
+    {
       "name": "Impreza Touring CVT2026 Subaru",
       "vin": "JF1GUAFC3T8215328",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/bc19ca6b9ce1.html",
@@ -5321,6 +5241,12 @@
       "condition": "used"
     },
     {
+      "name": "Outback 2.4L Limited XT Turbo2026 Subaru",
+      "vin": "JF2BURHD2TY463662",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/40c0d64b9cad.html",
+      "condition": "used"
+    },
+    {
       "name": "Solterra at-PUE ALX2023 Subaru",
       "vin": "JTMABABA6PA033700",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/7b23066199c7.html",
@@ -5372,6 +5298,12 @@
       "name": "Model 3 Long Range AWD W/Autopilot2022 Tesla",
       "vin": "5YJ3E1EB1NF252430",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/6b6f1ce7f8bb.html",
+      "condition": "used"
+    },
+    {
+      "name": "Model 3 Long Range2024 Tesla",
+      "vin": "LRW3E7EB1RC100828",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/86aeb4208715.html",
       "condition": "used"
     },
     {
@@ -5453,9 +5385,9 @@
       "condition": "used"
     },
     {
-      "name": "Corolla Hatchback XSE PACKAGE2023 Toyota",
-      "vin": "JTNK4MBE5P3197037",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/06316ea6b427.html",
+      "name": "Corolla Hybrid Hybrid2022 Toyota",
+      "vin": "JTDBAMDE2N3006309",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/e63e3aa53906.html",
       "condition": "used"
     },
     {
@@ -5492,12 +5424,6 @@
     },
     {
       "name": "Corolla 4-door Sedan LE CVT2020 Toyota",
-      "vin": "5YFBPRBE0LP012449",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/18cf09ae775b.html",
-      "condition": "used"
-    },
-    {
-      "name": "Corolla 4-door Sedan LE CVT2020 Toyota",
       "vin": "5YFBPRBE5LP014567",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/de25f463bbf7.html",
       "condition": "used"
@@ -5518,6 +5444,12 @@
       "name": "Corolla LE CVT2026 Toyota",
       "vin": "5YFB4MDE6TP402822",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/fa17300777e7.html",
+      "condition": "used"
+    },
+    {
+      "name": "GR Supra 3.0 Premium2022 Toyota",
+      "vin": "WZ1DB0C01NW051259",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/299a9c256fe5.html",
       "condition": "used"
     },
     {
@@ -5575,14 +5507,6 @@
       "vin": "JTEABFAJ4SK025544",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/29eb62aef4ec.html",
       "condition": "used"
-    },
-    {
-      "name": "Matrix 5-door FWD 4A2004 Toyota",
-      "vin": "2T1KR32E14C194378",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/e9017185db70.html",
-      "condition": "used",
-      "price": 6999.0,
-      "price_currency": "CAD"
     },
     {
       "name": "Prius c eCVT2012 Toyota",
@@ -5761,6 +5685,12 @@
       "condition": "used"
     },
     {
+      "name": "Golf R Black Edition DSG2025 Volkswagen",
+      "vin": "WVWKB7CDXSW228954",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/be79997ba1ac.html",
+      "condition": "used"
+    },
+    {
       "name": "Golf R DSG2026 Volkswagen",
       "vin": "WVWCF7CD3TW177565",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/7d98f4efe68b.html",
@@ -5770,12 +5700,6 @@
       "name": "Golf Sportwagen Alltrack 1.8T Highline 6sp 4MOTION2019 Volkswagen",
       "vin": "3VWM17AU9KM522017",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/57f15345d8d4.html",
-      "condition": "used"
-    },
-    {
-      "name": "GOLF Trendline2017 Volkswagen",
-      "vin": "3VW217AU7HM056054",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/bd03e280eec2.html",
       "condition": "used"
     },
     {
@@ -5864,6 +5788,12 @@
       "name": "XC40 T5 AWD Inscription2022 Volvo",
       "vin": "YV4162UL3N2761259",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/644db0e6af64.html",
+      "condition": "used"
+    },
+    {
+      "name": "XC60 T6 Drive-E AWD Premier2017 Volvo",
+      "vin": "YV449MRKXH2119996",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/749542a6764f.html",
       "condition": "used"
     },
     {
