@@ -1,7 +1,7 @@
 {
   "dealership": "Acura Of Langley",
-  "generated_at": "2026-10-26T01:18:43",
-  "vehicle_count": 1098,
+  "generated_at": "2026-10-26T05:58:44",
+  "vehicle_count": 1099,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -226,6 +226,12 @@
       "condition": "used",
       "price": 15995.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "TLX A-Spec2020 Acura",
+      "vin": "19UUB1F66LA800329",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/c957b9a1f71b.html",
+      "condition": "used"
     },
     {
       "name": "TLX SH-AWD Platinum Elite2021 Acura",
@@ -475,12 +481,6 @@
       "name": "SQ7 4.0 TFSI quattro2026 Audi",
       "vin": "WA1AWBF74TD012971",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/f59f7355656f.html",
-      "condition": "used"
-    },
-    {
-      "name": "TT RS 2.5T quattro 7sp S Tronic Coupe2019 Audi",
-      "vin": "WUAASAFV4K1900164",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/28e6a86d9f39.html",
       "condition": "used"
     },
     {
@@ -1219,6 +1219,12 @@
       "name": "Acadia AWD AT42023 GMC",
       "vin": "1GKKNLLS9PZ158730",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/731cd5aa7551.html",
+      "condition": "used"
+    },
+    {
+      "name": "HUMMER EV Pickup e4WD Crew Cab 3X2024 GMC",
+      "vin": "1GT40DDA5RU107188",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/914691eaf4fa.html",
       "condition": "used"
     },
     {
@@ -2382,12 +2388,6 @@
       "name": "Range Rover Sport P400 Dynamic HSE2024 Land Rover",
       "vin": "SAL1M9FU1RA189099",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/817d9dbfde90.html",
-      "condition": "used"
-    },
-    {
-      "name": "Range Rover Sport P400 Dynamic SE2024 Land Rover",
-      "vin": "SAL1L9FU5RA401456",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/148a2a1586df.html",
       "condition": "used"
     },
     {
@@ -4104,6 +4104,12 @@
       "name": "Outlander Plug-In Hybrid GT S-AWC2025 Mitsubishi",
       "vin": "JA4T5WA96SZ602585",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/6160dae45caa.html",
+      "condition": "used"
+    },
+    {
+      "name": "Outlander Plug-In Hybrid SE S-AWC2025 Mitsubishi",
+      "vin": "JA4T5VA96SZ621678",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/2b4c6338d4de.html",
       "condition": "used"
     },
     {
