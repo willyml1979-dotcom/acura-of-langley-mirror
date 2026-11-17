@@ -1,7 +1,7 @@
 {
   "dealership": "Acura Of Langley",
-  "generated_at": "2026-11-17T04:39:50",
-  "vehicle_count": 1169,
+  "generated_at": "2026-11-17T12:50:46",
+  "vehicle_count": 1163,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -6225,12 +6225,6 @@
       "condition": "used"
     },
     {
-      "name": "ADX Platinum Elite A-Spec2025 Acura",
-      "vin": "3HDSA2H73SM101583",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/9d2055cc0680.html",
-      "condition": "new"
-    },
-    {
       "name": "ADX A-Spec2025 Acura",
       "vin": "3HDSA2H57SM102654",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/109ba72b119a.html",
@@ -6442,18 +6436,6 @@
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
-      "vin": "3HDSA2H70TM102837",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/e72b821c17a2.html",
-      "condition": "new"
-    },
-    {
-      "name": "ADX Platinum Elite A-SPEC2026 Acura",
-      "vin": "3HDSA2H7XTM102926",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/86cf6736d9eb.html",
-      "condition": "new"
-    },
-    {
-      "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H75TM102672",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/b3998e6cfe50.html",
       "condition": "new"
@@ -6495,12 +6477,6 @@
       "condition": "new"
     },
     {
-      "name": "ADX Platinum Elite A-SPEC2026 Acura",
-      "vin": "3HDSA2H71TM103169",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/8a8270326411.html",
-      "condition": "new"
-    },
-    {
       "name": "ADX A-SPEC2026 Acura",
       "vin": "3HDSA2H54TM103195",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/98f64acea0c7.html",
@@ -6510,18 +6486,6 @@
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H73TM103111",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/14c5355478a6.html",
-      "condition": "new"
-    },
-    {
-      "name": "ADX A-SPEC2026 Acura",
-      "vin": "3HDSA2H59TM102950",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/b127c3eb82f0.html",
-      "condition": "new"
-    },
-    {
-      "name": "ADX Platinum Elite A-SPEC2026 Acura",
-      "vin": "3HDSA2H73TM102587",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/b40459dab168.html",
       "condition": "new"
     },
     {
@@ -6540,12 +6504,6 @@
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H75TM102879",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/de238b593931.html",
-      "condition": "new"
-    },
-    {
-      "name": "ADX Platinum Elite A-SPEC2026 Acura",
-      "vin": "3HDSA2H76TM102826",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/4af39eabbc01.html",
       "condition": "new"
     },
     {
@@ -6658,20 +6616,8 @@
     },
     {
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
-      "vin": "3HDSA2H7XTM103719",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/131e2c7cc6bd.html",
-      "condition": "new"
-    },
-    {
-      "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H70TM103857",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/98b8e86c44c2.html",
-      "condition": "new"
-    },
-    {
-      "name": "ADX Platinum Elite A-SPEC2026 Acura",
-      "vin": "3HDSA2H71TM103737",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/d58fe9ff0100.html",
       "condition": "new"
     },
     {
@@ -6690,6 +6636,18 @@
       "name": "ADX A-SPEC2026 Acura",
       "vin": "3HDSA2H56TM103697",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/9ae6876253fd.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H79TM103839",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/8624b777406a.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H74TM103862",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/bcc92fa82dce.html",
       "condition": "new"
     },
     {
@@ -6723,6 +6681,24 @@
       "condition": "new"
     },
     {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H72TM104184",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/45379585486e.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H78TM104187",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/694800835069.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H77TM104195",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/99d2e0ff7c41.html",
+      "condition": "new"
+    },
+    {
       "name": "ADX A-SPEC2026 Acura",
       "vin": "3HDSA2H57TM104213",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/102cb26692d7.html",
@@ -6744,6 +6720,54 @@
       "name": "ADX Platinum Elite A-SPEC2026 Acura",
       "vin": "3HDSA2H7XTM104191",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/b526194a77bf.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H50TM104280",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/14bae42c75a4.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H52TM104331",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/4052644a7b2a.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H54TM104394",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/ec114f5decec.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H72TM104315",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/72c27be500ab.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H7XTM104434",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/fdd962594f52.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H74TM104977",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/0bcdf4bd2f3d.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H57TM104454",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/9f71cf55ff3b.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H77TM104410",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/a69237dfe7ec.html",
       "condition": "new"
     },
     {
@@ -6784,12 +6808,6 @@
     },
     {
       "name": "Integra Elite A-Spec MT2026 Acura",
-      "vin": "19UDE4G78TA800784",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/f9d2d97e2dd4.html",
-      "condition": "new"
-    },
-    {
-      "name": "Integra Elite A-Spec MT2026 Acura",
       "vin": "19UDE4G71TA800769",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/343b368e8387.html",
       "condition": "new"
@@ -6813,21 +6831,9 @@
       "condition": "new"
     },
     {
-      "name": "Integra Elite A-Spec CVT2026 Acura",
-      "vin": "19UDE4H69TA800895",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/9db3a5bb647a.html",
-      "condition": "new"
-    },
-    {
       "name": "Integra Elite A-Spec MT2026 Acura",
       "vin": "19UDE4G70TA800777",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/f6b70f10534a.html",
-      "condition": "new"
-    },
-    {
-      "name": "Integra Elite A-Spec CVT2026 Acura",
-      "vin": "19UDE4H61TA800891",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/6c41e3ba7f05.html",
       "condition": "new"
     },
     {
@@ -6885,12 +6891,6 @@
       "condition": "new"
     },
     {
-      "name": "MDX Platinum Elite2026 Acura",
-      "vin": "5J8YE1H91TL803207",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/8d19c506a66a.html",
-      "condition": "new"
-    },
-    {
       "name": "MDX A-SPEC2026 Acura",
       "vin": "5J8YE1H01TL803127",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/acb82aeecebf.html",
@@ -6900,6 +6900,12 @@
       "name": "MDX Type S Ultra2026 Acura",
       "vin": "5J8YD8H89TL800218",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/4b7bd53b8b53.html",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H94TL803301",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/7c5b4f043381.html",
       "condition": "new"
     },
     {
@@ -6921,18 +6927,6 @@
       "condition": "new"
     },
     {
-      "name": "MDX Platinum Elite2026 Acura",
-      "vin": "5J8YE1H99TL803827",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/c7d9922d907d.html",
-      "condition": "new"
-    },
-    {
-      "name": "MDX Platinum Elite2026 Acura",
-      "vin": "5J8YE1H91TL804017",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/5381864bcc5f.html",
-      "condition": "new"
-    },
-    {
       "name": "MDX Type S Ultra2026 Acura",
       "vin": "5J8YD8H80TL800317",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/a4e872c2ff60.html",
@@ -6946,20 +6940,8 @@
     },
     {
       "name": "MDX Platinum Elite2026 Acura",
-      "vin": "5J8YE1H99TL804539",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/4c35ce79afd4.html",
-      "condition": "new"
-    },
-    {
-      "name": "MDX Platinum Elite2026 Acura",
       "vin": "5J8YE1H97TL804524",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/572df59e1156.html",
-      "condition": "new"
-    },
-    {
-      "name": "MDX Platinum Elite2026 Acura",
-      "vin": "5J8YE1H98TL804192",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/69e9548b164f.html",
       "condition": "new"
     },
     {
@@ -6972,18 +6954,6 @@
       "name": "MDX A-SPEC2026 Acura",
       "vin": "5J8YE1H08TL804324",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/58d2e0f95a7d.html",
-      "condition": "new"
-    },
-    {
-      "name": "MDX A-SPEC2026 Acura",
-      "vin": "5J8YE1H08TL804985",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/11086560633e.html",
-      "condition": "new"
-    },
-    {
-      "name": "MDX Platinum Elite2026 Acura",
-      "vin": "5J8YE1H91TL804650",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/ea548427c44e.html",
       "condition": "new"
     },
     {
@@ -7012,24 +6982,6 @@
     },
     {
       "name": "MDX Platinum Elite2026 Acura",
-      "vin": "5J8YE1H94TL805159",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/5d79ea2e0daa.html",
-      "condition": "new"
-    },
-    {
-      "name": "MDX Platinum Elite2026 Acura",
-      "vin": "5J8YE1H90TL805224",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/695c39bc559c.html",
-      "condition": "new"
-    },
-    {
-      "name": "MDX A-SPEC2026 Acura",
-      "vin": "5J8YE1H02TL805601",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/bb944b24b010.html",
-      "condition": "new"
-    },
-    {
-      "name": "MDX Platinum Elite2026 Acura",
       "vin": "5J8YE1H90TL805658",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/cc6690a54ec4.html",
       "condition": "new"
@@ -7041,12 +6993,6 @@
       "condition": "new"
     },
     {
-      "name": "MDX Platinum Elite2026 Acura",
-      "vin": "5J8YE1H9XTL805649",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/b82bb7a3f6e3.html",
-      "condition": "new"
-    },
-    {
       "name": "MDX A-SPEC2026 Acura",
       "vin": "5J8YE1H02TL805551",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/5bb5602bdaa6.html",
@@ -7054,14 +7000,32 @@
     },
     {
       "name": "MDX A-SPEC2026 Acura",
-      "vin": "5J8YE1H00TL805483",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/454aa3507f0d.html",
+      "vin": "5J8YE1H01TL805606",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/a8c903fb5980.html",
+      "condition": "new"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H06TL805472",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/bed4034e7575.html",
       "condition": "new"
     },
     {
       "name": "MDX Platinum Elite2026 Acura",
-      "vin": "5J8YE1H91TL805846",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/00797478bc7d.html",
+      "vin": "5J8YE1H9XTL805375",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/cec2afbf7e27.html",
+      "condition": "new"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H05TL805964",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/327e343f7aff.html",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Type S Ultra2026 Acura",
+      "vin": "5J8YD8H82TL800397",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/e398118a07ac.html",
       "condition": "new"
     },
     {
@@ -7084,14 +7048,14 @@
     },
     {
       "name": "RDX Platinum Elite A-SPEC2026 Acura",
-      "vin": "5J8TC2H82TL802242",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/5935c6e7ebbc.html",
+      "vin": "5J8TC2H87TL802592",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/5c1b05e0246a.html",
       "condition": "new"
     },
     {
       "name": "RDX Platinum Elite A-SPEC2026 Acura",
-      "vin": "5J8TC2H87TL802592",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/5c1b05e0246a.html",
+      "vin": "5J8TC2H82TL802242",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/0b637b03b3ed.html",
       "condition": "new"
     },
     {
