@@ -1,7 +1,7 @@
 {
   "dealership": "Acura Of Langley",
-  "generated_at": "2026-11-18T02:54:19",
-  "vehicle_count": 1146,
+  "generated_at": "2026-11-18T08:08:05",
+  "vehicle_count": 1145,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -36,7 +36,7 @@
       "condition": "used"
     },
     {
-      "name": "Integra Elite A-Spec CVT2025 Acura",
+      "name": "Integra Elite A-Spec2025 Acura",
       "vin": "19UDE4H68SA800126",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/c51c79cac887.html",
       "condition": "used"
@@ -1244,12 +1244,6 @@
       "condition": "used"
     },
     {
-      "name": "GV70 2.5T Advanced2025 GENESIS",
-      "vin": "KMUMADTB5SU193595",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/4b5f36b78d2b.html",
-      "condition": "used"
-    },
-    {
       "name": "GV70 2.5T Advanced Plus AWD2025 GENESIS",
       "vin": "KMUMADTB5SU216664",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/37c51d641b24.html",
@@ -1941,6 +1935,12 @@
       "condition": "used"
     },
     {
+      "name": "Santa Fe 2.5T XRT AWD 7-Pass2024 Hyundai",
+      "vin": "5NMP3DGLXRH020184",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/d013ceaab319.html",
+      "condition": "used"
+    },
+    {
       "name": "Santa Fe 1.6T Preferred Hybrid AWD 7-Pass2026 Hyundai",
       "vin": "KM8P2DG13TU174586",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/19541666dfc4.html",
@@ -2382,12 +2382,6 @@
       "name": "Discovery P360 R-Dynamic HSE2023 Land Rover",
       "vin": "SALRM4EU6P2473200",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/903877378fa7.html",
-      "condition": "used"
-    },
-    {
-      "name": "New Range Rover P530 SE SWB - Beautiful truck!2023 Land Rover",
-      "vin": "SALKP9E74PA011644",
-      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/0f0dff6e183e.html",
       "condition": "used"
     },
     {
