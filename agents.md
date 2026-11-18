@@ -7,7 +7,7 @@ Acura of Langley is a  dealership in Langley. This site is an AI-readable mirror
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/ and https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/ (about 1147 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/ and https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/ (about 1146 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/acura-of-langley-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/acura-of-langley-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/acura-of-langley-mirror/llms.txt
