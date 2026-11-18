@@ -1,7 +1,7 @@
 {
   "dealership": "Acura Of Langley",
-  "generated_at": "2026-11-18T11:36:20",
-  "vehicle_count": 1145,
+  "generated_at": "2026-11-18T16:46:00",
+  "vehicle_count": 1146,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -204,9 +204,15 @@
       "condition": "used"
     },
     {
-      "name": "RDX SH-AWD A-Spec at2023 Acura",
+      "name": "RDX A-Spec SH-AWD2023 Acura",
       "vin": "5J8TC2H62PL804836",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/129e4441e3b2.html",
+      "condition": "used"
+    },
+    {
+      "name": "RDX SH-AWD A-Spec2023 Acura",
+      "vin": "5J8TC2H61PL804181",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/d106ae176a12.html",
       "condition": "used"
     },
     {
@@ -284,11 +290,11 @@
       "condition": "used"
     },
     {
-      "name": "TSX Premium 6sp2012 Acura",
+      "name": "TSX Premium at2012 Acura",
       "vin": "JH4CU2F50CC800850",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/used/89c99cd27665.html",
       "condition": "used",
-      "price": 13995.0,
+      "price": 11901.0,
       "price_currency": "CAD"
     },
     {
