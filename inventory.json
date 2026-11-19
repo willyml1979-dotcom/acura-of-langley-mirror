@@ -1,7 +1,7 @@
 {
   "dealership": "Acura Of Langley",
-  "generated_at": "2026-11-18T16:46:00",
-  "vehicle_count": 1146,
+  "generated_at": "2026-11-18T22:10:21",
+  "vehicle_count": 1152,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -6665,6 +6665,18 @@
       "condition": "new"
     },
     {
+      "name": "ADX A-SPEC2026 Acura",
+      "vin": "3HDSA2H51TM104661",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/39568f53872f.html",
+      "condition": "new"
+    },
+    {
+      "name": "ADX Platinum Elite A-SPEC2026 Acura",
+      "vin": "3HDSA2H77TM104679",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/787f5901fe5c.html",
+      "condition": "new"
+    },
+    {
       "name": "Integra Elite A-Spec CVT2025 Acura",
       "vin": "19UDE4H67SA800439",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/8e492765647e.html",
@@ -6920,6 +6932,30 @@
       "name": "MDX Type S Ultra2026 Acura",
       "vin": "5J8YD8H82TL800397",
       "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/e398118a07ac.html",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H92TL806178",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/b518c34b54e2.html",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Platinum Elite2026 Acura",
+      "vin": "5J8YE1H98TL806069",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/3e9dc96ae989.html",
+      "condition": "new"
+    },
+    {
+      "name": "MDX Type S Ultra2026 Acura",
+      "vin": "5J8YD8H84TL800434",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/f52e5f67f39e.html",
+      "condition": "new"
+    },
+    {
+      "name": "MDX A-SPEC2026 Acura",
+      "vin": "5J8YE1H03TL805607",
+      "url": "https://willyml1979-dotcom.github.io/acura-of-langley-mirror/new/87d0f116e355.html",
       "condition": "new"
     },
     {
